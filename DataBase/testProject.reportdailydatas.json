@@ -1,0 +1,4948 @@
+[{
+  "_id": {
+    "$oid": "668a64e576bb524107f035de"
+  },
+  "ReportsDailyId": {
+    "$oid": "668a64b876bb524107f035d3"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "A floating action button appears in front of all screen content, typically as a circular shape with an icon in its center. FABs come in two types: regular, and extended.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T09:50:29.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T09:50:29.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a64ed76bb524107f035e0"
+  },
+  "ReportsDailyId": {
+    "$oid": "668a64b876bb524107f035d3"
+  },
+  "SelectTask": "writingsStatingThePossibility",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "A floating action button appears in front of all screen content, typically as a circular shape with an icon in its center. FABs come in two types: regular, and extended.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T09:50:37.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T09:50:37.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a64f276bb524107f035e2"
+  },
+  "ReportsDailyId": {
+    "$oid": "668a64b876bb524107f035d3"
+  },
+  "SelectTask": "CompletedTendersAndInvitations",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "A floating action button appears in front of all screen content, typically as a circular shape with an icon in its center. FABs come in two types: regular, and extended.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T09:50:42.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T09:50:42.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a64f676bb524107f035e4"
+  },
+  "ReportsDailyId": {
+    "$oid": "668a64b876bb524107f035d3"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "A floating action button appears in front of all screen content, typically as a circular shape with an icon in its center. FABs come in two types: regular, and extended.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T09:50:46.104Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T09:50:46.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a64f676bb524107f035e6"
+  },
+  "ReportsDailyId": {
+    "$oid": "668a64b876bb524107f035d3"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "A floating action button appears in front of all screen content, typically as a circular shape with an icon in its center. FABs come in two types: regular, and extended.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T09:50:46.802Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T09:50:46.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a64fc76bb524107f035e8"
+  },
+  "ReportsDailyId": {
+    "$oid": "668a64b876bb524107f035d3"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "A floating action button appears in front of all screen content, typically as a circular shape with an icon in its center. FABs come in two types: regular, and extended.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T09:50:52.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T09:50:52.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a64fc76bb524107f035ea"
+  },
+  "ReportsDailyId": {
+    "$oid": "668a64b876bb524107f035d3"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "A floating action button appears in front of all screen content, typically as a circular shape with an icon in its center. FABs come in two types: regular, and extended.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T09:50:52.369Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T09:50:52.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668a64fc76bb524107f035ec"
+  },
+  "ReportsDailyId": {
+    "$oid": "668a64b876bb524107f035d3"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "A floating action button appears in front of all screen content, typically as a circular shape with an icon in its center. FABs come in two types: regular, and extended.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T09:50:52.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T09:50:52.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ae3a4ba84c26b2f943234"
+  },
+  "ReportsDailyId": {
+    "$oid": "668ae398ba84c26b2f943229"
+  },
+  "SelectTask": "writingsStatingThePossibility",
+  "timFrom": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "sadasdasdas",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-07T18:51:16.814Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T18:51:16.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc314b927f065baf47f16"
+  },
+  "ReportsDailyId": {
+    "$oid": "668bc2b8b927f065baf47f02"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2022-04-17T17:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:44:36.939Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:44:36.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc320b927f065baf47f1c"
+  },
+  "ReportsDailyId": {
+    "$oid": "668bc2b8b927f065baf47f02"
+  },
+  "SelectTask": "writingsStatingThePossibility",
+  "timFrom": {
+    "$date": "2022-04-17T17:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:44:48.209Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:44:48.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc326b927f065baf47f1e"
+  },
+  "ReportsDailyId": {
+    "$oid": "668bc2b8b927f065baf47f02"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2022-04-17T17:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:44:54.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:44:54.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc327b927f065baf47f20"
+  },
+  "ReportsDailyId": {
+    "$oid": "668bc2b8b927f065baf47f02"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2022-04-17T17:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:44:55.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:44:55.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc327b927f065baf47f22"
+  },
+  "ReportsDailyId": {
+    "$oid": "668bc2b8b927f065baf47f02"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2022-04-17T17:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:44:55.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:44:55.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc327b927f065baf47f24"
+  },
+  "ReportsDailyId": {
+    "$oid": "668bc2b8b927f065baf47f02"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2022-04-17T17:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:44:55.601Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:44:55.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc327b927f065baf47f26"
+  },
+  "ReportsDailyId": {
+    "$oid": "668bc2b8b927f065baf47f02"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2022-04-17T17:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T12:30:00.000Z"
+  },
+  "taskDescription": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:44:55.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:44:55.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd4f6f670c800081398f0"
+  },
+  "ReportsDailyId": {
+    "$oid": "668cd48ef670c800081398e5"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2022-04-17T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T05:30:00.000Z"
+  },
+  "taskDescription": "كتابة التقرير اليومي والبحث عن المناقصات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T06:13:10.479Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:13:10.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd5def670c80008139911"
+  },
+  "ReportsDailyId": {
+    "$oid": "668cd48ef670c800081398e5"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2022-04-17T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T09:30:00.000Z"
+  },
+  "taskDescription": "العمل على الصلاحيات وترجة الاشعارات وطباعة جداول التحليل بلكامل بغض ألنظر عن التأخير\n عمل يوزرات جديدة لقسم الاتصالات\n ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T06:17:02.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:17:02.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd74ef670c80008139913"
+  },
+  "ReportsDailyId": {
+    "$oid": "668cd48ef670c800081398e5"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-09T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2022-04-17T11:15:00.000Z"
+  },
+  "taskDescription": "تقديم دورة تدريبية حول النظام  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T06:23:10.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:23:10.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd8c01e16308e56530339"
+  },
+  "ReportsDailyId": {
+    "$oid": "668cd48ef670c800081398e5"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المناقصات",
+  "Notes": "لاتوجد",
+  "createdAt": {
+    "$date": "2024-07-09T06:29:20.252Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:29:20.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cda171e16308e56530392"
+  },
+  "ReportsDailyId": {
+    "$oid": "668cd48ef670c800081398e5"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "الاعمال المنفذة خارج اوقات الدوام",
+  "Notes": "نشاء تطبيق بالغة ليحاكي النظام وأيظا تدريب لبناء التطبيقات ios and android",
+  "createdAt": {
+    "$date": "2024-07-09T06:35:03.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:35:03.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cda2d1e16308e56530394"
+  },
+  "ReportsDailyId": {
+    "$oid": "668cd48ef670c800081398e5"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المعوقات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T06:35:25.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:35:25.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cda331e16308e56530396"
+  },
+  "ReportsDailyId": {
+    "$oid": "668cd48ef670c800081398e5"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المقترحات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T06:35:31.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:35:31.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d173c46079e3320381d87"
+  },
+  "ReportsDailyId": {
+    "$oid": "668d0a2246079e3320381d5b"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "معوقات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T10:55:56.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T10:55:56.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d17d346079e3320381dab"
+  },
+  "ReportsDailyId": {
+    "$oid": "668d0a2246079e3320381d5b"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2024-07-09T08:00:00.000Z"
+  },
+  "timTo": null,
+  "taskDescription": "floatingActionButtonLocation, FloatingActionButtonAnimator? floatingActionButtonAnimator, List<Widget>? persistentFooterButtons, AlignmentDirectional persistentFooterAlignment = AlignmentDirectional.centerEnd, Widget? drawer, DrawerCallback? onDrawerChanged, Widget? endDrawer, DrawerCallback? onEndDrawerChanged, Widget? bottomNavigationBar, Widget? bottomSheet, Color? backgroundColor, bool? resizeToAvoidBottomInset, bool primary = true, DragStartBehavior drawerDragStartBehavior = DragStartBehavior.start, bool extendBody = false, bool extendBodyBehindAppBar = false, Color? drawerScrimColor, double? drawerEdgeDragWidth, bool drawerEnableOpenDragGesture = true, bool endDrawerEnableOpenDragGesture = true, String? restorationId})\nCreates a visual scaffold for Material Design widgets.\nconst",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T10:58:27.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T10:58:27.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d17d946079e3320381db1"
+  },
+  "ReportsDailyId": {
+    "$oid": "668d0a2246079e3320381d5b"
+  },
+  "SelectTask": "CompletedTendersAndInvitations",
+  "timFrom": {
+    "$date": "2024-07-09T08:00:00.000Z"
+  },
+  "timTo": null,
+  "taskDescription": "floatingActionButtonLocation, FloatingActionButtonAnimator? floatingActionButtonAnimator, List<Widget>? persistentFooterButtons, AlignmentDirectional persistentFooterAlignment = AlignmentDirectional.centerEnd, Widget? drawer, DrawerCallback? onDrawerChanged, Widget? endDrawer, DrawerCallback? onEndDrawerChanged, Widget? bottomNavigationBar, Widget? bottomSheet, Color? backgroundColor, bool? resizeToAvoidBottomInset, bool primary = true, DragStartBehavior drawerDragStartBehavior = DragStartBehavior.start, bool extendBody = false, bool extendBodyBehindAppBar = false, Color? drawerScrimColor, double? drawerEdgeDragWidth, bool drawerEnableOpenDragGesture = true, bool endDrawerEnableOpenDragGesture = true, String? restorationId})\nCreates a visual scaffold for Material Design widgets.\nconst",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T10:58:33.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T10:58:33.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d17df46079e3320381db3"
+  },
+  "ReportsDailyId": {
+    "$oid": "668d0a2246079e3320381d5b"
+  },
+  "SelectTask": "writingsStatingThePossibility",
+  "timFrom": {
+    "$date": "2024-07-09T08:00:00.000Z"
+  },
+  "timTo": null,
+  "taskDescription": "floatingActionButtonLocation, FloatingActionButtonAnimator? floatingActionButtonAnimator, List<Widget>? persistentFooterButtons, AlignmentDirectional persistentFooterAlignment = AlignmentDirectional.centerEnd, Widget? drawer, DrawerCallback? onDrawerChanged, Widget? endDrawer, DrawerCallback? onEndDrawerChanged, Widget? bottomNavigationBar, Widget? bottomSheet, Color? backgroundColor, bool? resizeToAvoidBottomInset, bool primary = true, DragStartBehavior drawerDragStartBehavior = DragStartBehavior.start, bool extendBody = false, bool extendBodyBehindAppBar = false, Color? drawerScrimColor, double? drawerEdgeDragWidth, bool drawerEnableOpenDragGesture = true, bool endDrawerEnableOpenDragGesture = true, String? restorationId})\nCreates a visual scaffold for Material Design widgets.\nconst",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T10:58:39.206Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T10:58:39.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d17e246079e3320381db5"
+  },
+  "ReportsDailyId": {
+    "$oid": "668d0a2246079e3320381d5b"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2024-07-09T08:00:00.000Z"
+  },
+  "timTo": null,
+  "taskDescription": "floatingActionButtonLocation, FloatingActionButtonAnimator? floatingActionButtonAnimator, List<Widget>? persistentFooterButtons, AlignmentDirectional persistentFooterAlignment = AlignmentDirectional.centerEnd, Widget? drawer, DrawerCallback? onDrawerChanged, Widget? endDrawer, DrawerCallback? onEndDrawerChanged, Widget? bottomNavigationBar, Widget? bottomSheet, Color? backgroundColor, bool? resizeToAvoidBottomInset, bool primary = true, DragStartBehavior drawerDragStartBehavior = DragStartBehavior.start, bool extendBody = false, bool extendBodyBehindAppBar = false, Color? drawerScrimColor, double? drawerEdgeDragWidth, bool drawerEnableOpenDragGesture = true, bool endDrawerEnableOpenDragGesture = true, String? restorationId})\nCreates a visual scaffold for Material Design widgets.\nconst",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T10:58:42.236Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T10:58:42.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d17e646079e3320381db7"
+  },
+  "ReportsDailyId": {
+    "$oid": "668d0a2246079e3320381d5b"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-09T08:00:00.000Z"
+  },
+  "timTo": null,
+  "taskDescription": "floatingActionButtonLocation, FloatingActionButtonAnimator? floatingActionButtonAnimator, List<Widget>? persistentFooterButtons, AlignmentDirectional persistentFooterAlignment = AlignmentDirectional.centerEnd, Widget? drawer, DrawerCallback? onDrawerChanged, Widget? endDrawer, DrawerCallback? onEndDrawerChanged, Widget? bottomNavigationBar, Widget? bottomSheet, Color? backgroundColor, bool? resizeToAvoidBottomInset, bool primary = true, DragStartBehavior drawerDragStartBehavior = DragStartBehavior.start, bool extendBody = false, bool extendBodyBehindAppBar = false, Color? drawerScrimColor, double? drawerEdgeDragWidth, bool drawerEnableOpenDragGesture = true, bool endDrawerEnableOpenDragGesture = true, String? restorationId})\nCreates a visual scaffold for Material Design widgets.\nconst",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T10:58:46.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T10:58:46.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d17e646079e3320381db9"
+  },
+  "ReportsDailyId": {
+    "$oid": "668d0a2246079e3320381d5b"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-09T08:00:00.000Z"
+  },
+  "timTo": null,
+  "taskDescription": "floatingActionButtonLocation, FloatingActionButtonAnimator? floatingActionButtonAnimator, List<Widget>? persistentFooterButtons, AlignmentDirectional persistentFooterAlignment = AlignmentDirectional.centerEnd, Widget? drawer, DrawerCallback? onDrawerChanged, Widget? endDrawer, DrawerCallback? onEndDrawerChanged, Widget? bottomNavigationBar, Widget? bottomSheet, Color? backgroundColor, bool? resizeToAvoidBottomInset, bool primary = true, DragStartBehavior drawerDragStartBehavior = DragStartBehavior.start, bool extendBody = false, bool extendBodyBehindAppBar = false, Color? drawerScrimColor, double? drawerEdgeDragWidth, bool drawerEnableOpenDragGesture = true, bool endDrawerEnableOpenDragGesture = true, String? restorationId})\nCreates a visual scaffold for Material Design widgets.\nconst",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T10:58:46.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T10:58:46.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d8f12196f95fca8ee5fad"
+  },
+  "ReportsDailyId": {
+    "$oid": "668d0a2246079e3320381d5b"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-09T00:22:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-09T02:08:00.000Z"
+  },
+  "taskDescription": "ggg",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-09T19:27:14.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T19:27:14.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6695078289ff3d28cf76f3b7"
+  },
+  "ReportsDailyId": {
+    "$oid": "6695035289ff3d28cf76f296"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-15T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-15T12:00:00.000Z"
+  },
+  "taskDescription": "تم التواصل مع شركات الاتية: \nNingix Maiya\n QUANZHOU MIDSUN IMPORT AND EXPORT - Asenware Fire Alarm   -  Pri Safety  -   Quanzhou Guangmin Technology\n للاستفسار حول تصمميم منظومة الانذار والتبريد والاطفاء التابعة الى محطة كهرباء المسيب \n ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-15T11:26:58.386Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T11:26:58.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66950ad589ff3d28cf76f3bd"
+  },
+  "ReportsDailyId": {
+    "$oid": "6695035289ff3d28cf76f296"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-15T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-15T12:00:00.000Z"
+  },
+  "taskDescription": "تم الاجتماع مع م. عبد الحميد للاستفسار حول مواصفات للفقرات المدنية التابعة الى محطة كهرباء المسيب  \n ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-15T11:41:09.635Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T11:41:09.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66950bb389ff3d28cf76f3c5"
+  },
+  "ReportsDailyId": {
+    "$oid": "6695035289ff3d28cf76f296"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-15T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-15T12:00:00.000Z"
+  },
+  "taskDescription": "يتم العمل على جدول الكميات التابع الى محطة كهرباء المسيب ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-15T11:44:51.451Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T11:44:51.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66950c57438b94bb52447a72"
+  },
+  "ReportsDailyId": {
+    "$oid": "6695035289ff3d28cf76f296"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-15T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-15T12:00:00.000Z"
+  },
+  "taskDescription": "تم التواصل مع شركة setaqan  لاستدراج اسعار الكيبلات الخاصة بمنظومة الانذار لمحطة كهرباء المسيب",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-15T11:47:35.741Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T11:47:35.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66950c86438b94bb52447a78"
+  },
+  "ReportsDailyId": {
+    "$oid": "6695035289ff3d28cf76f296"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-15T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-15T12:00:00.000Z"
+  },
+  "taskDescription": "تم البدء بالتجربة الخاصة بربنامج الاتمته للشركة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-15T11:48:22.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T11:48:22.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66950d59438b94bb52447a8f"
+  },
+  "ReportsDailyId": {
+    "$oid": "6695035289ff3d28cf76f296"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-15T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-15T12:00:00.000Z"
+  },
+  "taskDescription": "تم كتابة استمارة المراسلات ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-15T11:51:53.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T11:51:53.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696041f9308ad12fcef9ef4"
+  },
+  "ReportsDailyId": {
+    "$oid": "669603a89308ad12fcef9ee9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-16T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-16T05:30:00.000Z"
+  },
+  "taskDescription": " تم كتابة استمارة المراسلات ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-16T05:24:47.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T05:24:47.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669604f39308ad12fcef9efa"
+  },
+  "ReportsDailyId": {
+    "$oid": "669603a89308ad12fcef9ee9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-16T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-16T08:00:00.000Z"
+  },
+  "taskDescription": "تم التواصل مع شركات الاتية:\nQUANZHOU MIDSUN IMPORT AND EXPORT - HD Fire Protect - Quanzhou Guangmin Technology - Asenware Fire Alarm - Pri Safety - Ningix Maiya \nحول التصميم وجدول الكميات التابع الى محطة كهرباء المسيب ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-16T05:28:19.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T05:28:19.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696056e9308ad12fcef9f00"
+  },
+  "ReportsDailyId": {
+    "$oid": "669603a89308ad12fcef9ee9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-16T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-16T09:30:00.000Z"
+  },
+  "taskDescription": "تم الاجتماع مع م .عبد الحميد حول الفقرات الخاصة بالاعمال المدنية التابعة الى وزارة الكهرباء / محطة كهرباء المسيب الغازية  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-16T05:30:22.354Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T05:30:22.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669605bd9308ad12fcef9f06"
+  },
+  "ReportsDailyId": {
+    "$oid": "669603a89308ad12fcef9ee9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-16T09:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-16T10:30:00.000Z"
+  },
+  "taskDescription": "تم البدء بالعمل على تصميم وكتابة جدول الكميات التابعة الى وزارة الكهرباء / محطة كهرباء المسيب الغازية ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-16T05:31:41.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T05:31:41.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696068e9308ad12fcef9f10"
+  },
+  "ReportsDailyId": {
+    "$oid": "669603a89308ad12fcef9ee9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-16T10:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-16T11:00:00.000Z"
+  },
+  "taskDescription": "يتم دراسة  الملف المرسل من قبل د. رافع حول حساب منظومة الاطفاء  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-16T05:35:10.378Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T05:35:10.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669606b89308ad12fcef9f16"
+  },
+  "ReportsDailyId": {
+    "$oid": "669603a89308ad12fcef9ee9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-16T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-16T11:15:00.000Z"
+  },
+  "taskDescription": "تم الاتصال مع د. رافع للاستفسار حول بعض حسابات المضخة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-16T05:35:52.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T05:35:52.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696072a9308ad12fcef9f24"
+  },
+  "ReportsDailyId": {
+    "$oid": "669603a89308ad12fcef9ee9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-16T11:15:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-16T12:00:00.000Z"
+  },
+  "taskDescription": "تم تجريب برنامج الاتمتة وتم كتابة التقرير اليومي في البرنامج ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-16T05:37:46.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T05:37:46.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b4d11f91714a42a317f3b"
+  },
+  "ReportsDailyId": {
+    "$oid": "6698eea3f8741642aa4a32c8"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-19T22:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-20T01:00:00.000Z"
+  },
+  "taskDescription": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-20T05:37:21.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-20T05:37:21.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b4d17f91714a42a317f41"
+  },
+  "ReportsDailyId": {
+    "$oid": "6698eea3f8741642aa4a32c8"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-19T22:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-20T01:00:00.000Z"
+  },
+  "taskDescription": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-20T05:37:27.214Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-20T05:37:27.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b8429e4290c8586288cce"
+  },
+  "ReportsDailyId": {
+    "$oid": "6698eea3f8741642aa4a32c8"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-20T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-20T01:00:00.000Z"
+  },
+  "taskDescription": "You can use csvOptions to specify the format of the export, such as the delimiter character used to separate fields, the fileName, or utf8WithBom to prefix the exported file with UTF-8 Byte Order Mark (BOM). For more details on these options, please visit the csvOptions API page.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-20T09:32:25.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-20T09:32:25.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b842ae4290c8586288cd0"
+  },
+  "ReportsDailyId": {
+    "$oid": "6698eea3f8741642aa4a32c8"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-20T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-20T01:00:00.000Z"
+  },
+  "taskDescription": "You can use csvOptions to specify the format of the export, such as the delimiter character used to separate fields, the fileName, or utf8WithBom to prefix the exported file with UTF-8 Byte Order Mark (BOM). For more details on these options, please visit the csvOptions API page.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-20T09:32:26.826Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-20T09:32:26.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b842ae4290c8586288cd2"
+  },
+  "ReportsDailyId": {
+    "$oid": "6698eea3f8741642aa4a32c8"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-20T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-20T01:00:00.000Z"
+  },
+  "taskDescription": "You can use csvOptions to specify the format of the export, such as the delimiter character used to separate fields, the fileName, or utf8WithBom to prefix the exported file with UTF-8 Byte Order Mark (BOM). For more details on these options, please visit the csvOptions API page.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-20T09:32:26.966Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-20T09:32:26.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b842be4290c8586288cd4"
+  },
+  "ReportsDailyId": {
+    "$oid": "6698eea3f8741642aa4a32c8"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-20T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-20T01:00:00.000Z"
+  },
+  "taskDescription": "You can use csvOptions to specify the format of the export, such as the delimiter character used to separate fields, the fileName, or utf8WithBom to prefix the exported file with UTF-8 Byte Order Mark (BOM). For more details on these options, please visit the csvOptions API page.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-20T09:32:27.108Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-20T09:32:27.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b842be4290c8586288cd6"
+  },
+  "ReportsDailyId": {
+    "$oid": "6698eea3f8741642aa4a32c8"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-20T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-20T01:00:00.000Z"
+  },
+  "taskDescription": "You can use csvOptions to specify the format of the export, such as the delimiter character used to separate fields, the fileName, or utf8WithBom to prefix the exported file with UTF-8 Byte Order Mark (BOM). For more details on these options, please visit the csvOptions API page.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-20T09:32:27.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-20T09:32:27.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ccef549c93e00b2c83808"
+  },
+  "ReportsDailyId": {
+    "$oid": "669ccdf949c93e00b2c837f5"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-21T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-21T12:00:00.000Z"
+  },
+  "taskDescription": "1-\tالعمل على قاعدة بيانات المناقصات الخاصة بالقسم وتعديلها وتسليمها الى ست فاطمة \n2-\tالعمل على طلبية تابعة الى وزارة النفط / شركة توزيع المنتجات النفطية / فرع كركوك وتدقيقها من قبل المهندس احمد وتسليمها \n3-\tتم التواصل مع الشركات المحلية لتسعير بعض الفقرات الخاصة بقسم الاتصالات \n4-\tتم ادراج جدول كميات خاص بطلبية تابعة الى وزارة الداخلية / مديرية شرطة حماية السفارات والدبلوماسيين \n5-\tتم الاستماع الى المهندس احمد والمهندس إيهاب وشرح بعض التفاصيل التي تخص الاجتماع\n6-\tالتفاعل على مواقع التواصل الاجتماعي \n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-21T09:03:49.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-21T09:03:49.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df00427fa6e64bf39bea7"
+  },
+  "ReportsDailyId": {
+    "$oid": "669defbf27fa6e64bf39be8f"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-22T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-22T06:00:00.000Z"
+  },
+  "taskDescription": "•\tالعمل على استمارة المهام المنجزة الشهرية ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-22T05:37:08.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T05:37:08.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df03827fa6e64bf39bead"
+  },
+  "ReportsDailyId": {
+    "$oid": "669defbf27fa6e64bf39be8f"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-22T06:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-22T07:00:00.000Z"
+  },
+  "taskDescription": "•\tالعمل على استمارة قاعدة بيانات الشركات ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-22T05:38:00.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T05:38:00.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df08827fa6e64bf39beed"
+  },
+  "ReportsDailyId": {
+    "$oid": "669defbf27fa6e64bf39be8f"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-22T07:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-22T08:00:00.000Z"
+  },
+  "taskDescription": "•\tتم اختيار التاركت الخاص بالشركات الأجنبية بتوجيهات المهندس احمد \n•\tتم العمل على طلبية تابعة الى وزارة الدفاع / مقر الوحدة 203865 ومساعدة المهندس احمد بها وتسليمها ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-22T05:39:20.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T05:39:20.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0c427fa6e64bf39befb"
+  },
+  "ReportsDailyId": {
+    "$oid": "669defbf27fa6e64bf39be8f"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-22T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-22T10:00:00.000Z"
+  },
+  "taskDescription": "•\tالعمل على جداول التحليل الخاصة بالجرد \n•\tالعمل على طلبية تابعة الى وزارة الداخلية / وكالة الوزارة لشؤون الشرطة / مديرية شرطة سكك الحديد ومساعدة المهندس احمد بها وتسليمها\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-22T05:40:20.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T05:40:20.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0f627fa6e64bf39bf08"
+  },
+  "ReportsDailyId": {
+    "$oid": "669defbf27fa6e64bf39be8f"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-22T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-22T12:00:00.000Z"
+  },
+  "taskDescription": "•\tالتفاعل على مواقع التواصل الاجتماعي \n•\tالتواصل مع شركة guoming lighting التابعة للمهندس إيهاب وطلب الكتالوج الخاص بهم من موقهم في الفيس بوك وعدم وفتح الموقع الرسمي للصيانة \n•\tإعطاء المهندس احمد بعض الملاحظات والتوجيهات التي سيتم العمل بها يوم الاثنين وتوزيع المهام \n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-22T05:41:10.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T05:41:10.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f47e1eac8a75a4da3f1f8"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f3c6ceac8a75a4da3ee81"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-23T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T07:00:00.000Z"
+  },
+  "taskDescription": "تم النزول الى المعرض الخاص بالشركة وتم شرح لوزارة الداخلية  عن UPS  ",
+  "Notes": "لايوجد ",
+  "createdAt": {
+    "$date": "2024-07-23T06:04:17.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:04:17.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f48afeac8a75a4da3f294"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f3c6ceac8a75a4da3ee81"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-23T07:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T08:00:00.000Z"
+  },
+  "taskDescription": "- العمل على استمارة المشاريع وتسليمها الى المعاون الفني والقانونية نادية\n- العمل على استمارة المراسلات وتسليمها الى المعاون الفني والقانونية نادية  ",
+  "Notes": "لايوجد ",
+  "createdAt": {
+    "$date": "2024-07-23T06:07:43.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:07:43.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4a56eac8a75a4da3f34e"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f3c6ceac8a75a4da3ee81"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-23T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T12:00:00.000Z"
+  },
+  "taskDescription": "- العمل على التوصيات الخاصة بالاجتماع وتم الانتهاء منها وارسالها الى المهندس احمد \n- العمل على طلبية تابعة الى وزارة التربية / المديرية العامة للشؤون الادارية / قسم التجهيزات وتم اسالها \n- تم شرح من قسم البرمجة على برمج الاتمتة وعمل بعض التعديلات على البرنامج \n- تم عمل تقرر خاص بالتوصيات وتقديمه للمعاون الفني والقانونية نادية\n- التفاعل على مواقع التواصل الاجتماعي \n- شرح المهندسة زينب للجدول الزمني الخاص بالتوصيات وعمل نسبة الانجاز من خلاله \n  ",
+  "Notes": "الاعمال المنفذة خارج اوقات الدوام / تم حضور الورشة التدريبية الخاصة بالبرزنتيشن الذي تم تقديمه من قبل المهندس مصطفى وبحضور موظفي الشركة  ",
+  "createdAt": {
+    "$date": "2024-07-23T06:14:46.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:14:46.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f5dc77c4cbc8486957f02"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f5cb07c4cbc8486957ec5"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-23T03:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T14:00:00.000Z"
+  },
+  "taskDescription": "كشف موقعي الى جامعة الكوفة كلية الاداب حول منظومة الانذار وايضا منظومة الاطفاء ومنظومة الطاقة وتم اخذ صور موقعية وايضا لاحتياجات المطلوبة ",
+  "Notes": "لا يوجد ",
+  "createdAt": {
+    "$date": "2024-07-23T07:37:43.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:37:43.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6da0e9359d385f3679f8"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T05:30:00.000Z"
+  },
+  "taskDescription": "عمل التقرير اليومي ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T08:45:20.473Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:45:20.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6dd5e9359d385f3679fe"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T06:30:00.000Z"
+  },
+  "taskDescription": "العمل استمارة انجاز المشاريع     ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T08:46:13.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:46:13.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6e20e9359d385f367a25"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f5cb07c4cbc8486957ec5"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-23T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T12:00:00.000Z"
+  },
+  "taskDescription": "- عمل التقرير اليومي \n- توزيع لمهام القسم  \n- تدقيق طلبية تابعة الى وزارة الداخلية / مديرية الدفاع المدني / مديرية دفاع مدني محافظة كركوك وتسليمها الى مدير الادارة \n- العمل على طلبية تابعة وزارة الداخلية وكالة الوزارة لشؤون الشرطة / مديرية شرطة سكك الحديد بمساعدة المهندسة زهراء  \n-العمل على طلبية وزارة الدفاع مقر الوحدة 203865 وتسليمها الى مدير الادارة بمساعدة المهندسة زهراء \n- الاجتماع مع المهندس حيدر التابع الى رئاسة الوزراء حول تجهيز بعرض مع كتالوج خاص بالانارة \n- تدقيق الاسعار التابع والى لوح الانارة والتفاوض مع المهندس حيدر حول حول الضمان \n - التواصل مع وكيل كيرواط واخذ بعض الاتسفسارات ترتيب موعد اجتماع وارسال اجندة الاجتماع الى مستشار الشركة وايضا المهندس عيسى كيرواط \n- الاتصال بالمهندس علي ميسان التابع الى نفط ميسان \n- التواصل مع شركة فاربر وشركة بلاد اوتو وماكسما لتجهيز عرض سعر \n- تجهيز سعر منظومات طاقة شمسية تابع الى مشروع مرور واسط الى قسم الاتصالات \n- شرح الى المهندس زهراء حول الية عمل التوصيات \n- متابعتة استمارة المشاريع المنجزة  \n- متابع موظفين القسم حسب المهام الموزعه لهم  ",
+  "Notes": "الاحد ",
+  "createdAt": {
+    "$date": "2024-07-23T08:47:28.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:47:28.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f70d0e9359d385f367ad9"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T06:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T07:30:00.000Z"
+  },
+  "taskDescription": "العمل استمارة سير الاعمال الخاصة بالقسم ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T08:58:56.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:58:56.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7124e9359d385f367afd"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T07:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T08:30:00.000Z"
+  },
+  "taskDescription": "العمل استمارة المراسلات ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:00:20.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:00:20.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f71b1e9359d385f367b05"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T08:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "taskDescription": "طباعة  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:02:41.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:02:41.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7285e9359d385f367b12"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T09:30:00.000Z"
+  },
+  "taskDescription": "البحث عن المناقصات\nمحافظة بابل/لا يوجد  محافظة نينوى / يوجد  محافظة كركوك /لا يوجد\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:06:13.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:06:13.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f731be9359d385f367b2e"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T09:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T10:30:00.000Z"
+  },
+  "taskDescription": "العمل على جدول الكميات مع م. باسم الخاص بمشروع النقل البري في مشروع التحول الالكتروني لعمليات الشركة  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:08:43.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:08:43.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7344e9359d385f367b41"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T10:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T11:00:00.000Z"
+  },
+  "taskDescription": "العمل على التوصيات مع مبرمجة نبأ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:09:24.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:09:24.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7368e9359d385f367b4f"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-23T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على جدول المكلفين بالأعمال ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:10:00.432Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:10:00.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7441e9359d385f367b8b"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المناقصات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:13:37.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:13:37.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7462e9359d385f367b98"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "الاعمال المنفذة خارج اوقات الدوام",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:14:10.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:14:10.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f746ee9359d385f367b9a"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المقترحات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:14:22.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:14:22.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f74a3e9359d385f367bc4"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المعوقات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:15:15.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:15:15.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f74bce9359d385f367bd6"
+  },
+  "ReportsDailyId": {
+    "$oid": "669f6a64e9359d385f367969"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "الشكاوى",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-23T09:15:40.592Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:15:40.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08f203f1bfebfc46727b6"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T06:00:00.000Z"
+  },
+  "taskDescription": "عمل تقرير يومي",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:20:32.038Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:20:32.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08f4b3f1bfebfc46727d8"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T06:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T06:30:00.000Z"
+  },
+  "taskDescription": "العمل على ادراج التعديلات الخاصة بالمشاريع على الوحة      ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:21:15.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:21:15.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08f973f1bfebfc4672834"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T06:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T08:30:00.000Z"
+  },
+  "taskDescription": "العمل على ادراج جدول الكميات الخاصة بمناقصة التصنيع الحربي وهيأة الحماية الاجتماعية  في مشروع التحول الالكتروني لعمليات الشركة  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:22:31.095Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:22:31.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08fe23f1bfebfc46728bf"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T08:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T09:30:00.000Z"
+  },
+  "taskDescription": "العمل على ادراج جدول الكميات الخاصة بمشروع النقل البري في مشروع التحول الالكتروني لعمليات الشركة  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:23:46.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:23:46.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0905e3f1bfebfc46728da"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T09:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "taskDescription": "العمل على ادراج التقرير اليوم في مشروع التحول الالكتروني لعمليات الشركة   ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:25:50.906Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:25:50.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a091313f1bfebfc467299f"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T05:30:00.000Z"
+  },
+  "taskDescription": "عمل التقرير اليومي وايضا توزيع المهام لاعظاء القسم ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:29:21.882Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:29:21.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a091503f1bfebfc46729a5"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a091183f1bfebfc4672993"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T05:15:00.000Z"
+  },
+  "taskDescription": "العمل على التقرير اليومي ",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T05:29:52.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:29:52.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a091503f1bfebfc46729a7"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T10:30:00.000Z"
+  },
+  "taskDescription": "البحث عن المناقصات\nمحافظة بابل/لا يوجد  محافظة نينوى / لا يوجد  محافظة كركوك /لا يوجد\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:29:52.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:29:52.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a091703f1bfebfc46729b3"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "taskDescription": "تم تدقيق مشروع منظومتي الانذار والاطفاء التابع الى وزارة الاتصالات/مديرية الاتصالات والمعلوماتية",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T05:30:24.392Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:30:24.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a091843f1bfebfc46729be"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T10:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "taskDescription": "العمل على جدول المكلفين بالأعمال",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:30:44.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:30:44.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a091bd3f1bfebfc46729fb"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على جدول تحليل المتطلبات والاعمال  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:31:41.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:31:41.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a091e03f1bfebfc4672a19"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "taskDescription": "تم توزيع المهام اليومية لموظفي القسم",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T05:32:16.847Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:32:16.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a092173f1bfebfc4672a3a"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a091183f1bfebfc4672993"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-24T05:15:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T06:30:00.000Z"
+  },
+  "taskDescription": "العمل على طلبية تابعة الى وزارة الداخلية / مديرية تحقيق الادلة جنائية  مع المهندس احمد على برنامج الاتمتة ",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T05:33:11.779Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:33:11.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0922a3f1bfebfc4672a44"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "taskDescription": "تم متابعة الكشف الموقعي التابع الى وزارة الاعمار والاسكان/الاشغال العامة",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T05:33:30.503Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:33:30.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a092643f1bfebfc4672a88"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a091183f1bfebfc4672993"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-24T06:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T07:10:00.000Z"
+  },
+  "taskDescription": "الذهاب الى قسم البرمجة مع المهندس احمد لوجود بعض المشاكل في البرنامج  ",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T05:34:28.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:34:28.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a092963f1bfebfc4672ab5"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a091183f1bfebfc4672993"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-24T07:10:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T08:30:00.000Z"
+  },
+  "taskDescription": "تسجيل التاركت بالشركات الأجنبية لكل موظفي القسم ",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T05:35:18.069Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:35:18.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a092ab3f1bfebfc4672ad7"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المناقصات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:35:39.922Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:35:39.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093103f1bfebfc4672b22"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "الاعمال المنفذة خارج اوقات الدوام\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:37:20.224Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:37:20.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093363f1bfebfc4672b28"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المقترحات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:37:58.357Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:37:58.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093543f1bfebfc4672b43"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المعوقات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:38:28.906Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:38:28.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0935d3f1bfebfc4672b58"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T06:00:00.000Z"
+  },
+  "taskDescription": "تدقيق الكتلوك والعرض السعري التابع الى مهندس حيدر رئاسة الوزراء   ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:38:37.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:38:37.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0936e3f1bfebfc4672b60"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08ee93f1bfebfc46727a3"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "الشكاوى",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:38:54.647Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:38:54.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093c93f1bfebfc4672c16"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a091183f1bfebfc4672993"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T08:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "taskDescription": "الشرح للمهندسة زينب على الجدول الزمني الخاص بالتوصيات والاهداف \nالشرح للادارية اية حول كيفية عمل الخطة الاستراتيجية وكيفية عمل الجارت الخاص بها  ",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T05:40:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:40:25.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a094953f1bfebfc4672cb5"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a091183f1bfebfc4672993"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على التوصيات واعادة ترتيب وتعديل البرزنتيشن الخاص بالتوصيات والاهداف مع المهندس احمد وتوجيهاته \nالتفاعل على مواقع التواصل الاجتماعي \nالعمل على جداول التحليل الخاصة بالجرد  ",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T05:43:49.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:43:49.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a095043f1bfebfc4672cc2"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T06:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T06:30:00.000Z"
+  },
+  "taskDescription": "الاجتماع مع السيد المدير المحترم والمهندس ايهاب حول ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:45:40.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:45:40.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0955d3f1bfebfc4672cc8"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "timFrom": {
+    "$date": "2024-07-24T06:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T06:45:00.000Z"
+  },
+  "taskDescription": "الاتصال بالمهندس حيدر التابع الى رئاسة الوزراء وعرض له السعر والكتلوك ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:47:09.106Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:47:09.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a097ce3f1bfebfc4672db3"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T20:00:00.000Z"
+  },
+  "taskDescription": "تم التواصل مع شركة asenware الخاصة في منظومة الانذار للتاكيد على تجهيز طلبية مواد مناقصة شركة غاز الشمال",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T05:57:34.468Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:57:34.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a097d13f1bfebfc4672dcd"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T06:45:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "taskDescription": "حول ارسال طلبية وايضا طبع الطلبية واجراء بعض التعديلات البرمجية من قبل المهندس باسم حول صلاحيات التعديل والارسال ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T05:57:37.609Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:57:37.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a098213f1bfebfc4672df1"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "writingsStatingThePossibility",
+  "timFrom": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "taskDescription": "تم كتابة التقرير الفني الخاص في صيانة وتاهيل روبوت المعالجة التابع الى وزارة الداخلية/مديرية مكافحة المتفجرات",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T05:58:57.874Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:58:57.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a098743f1bfebfc4672df3"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "taskDescription": "تم تدقيق طلبية شاشات تابعة الى وزارة الداخلية/الادلة الجنائية",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T06:00:20.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:00:20.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a098913f1bfebfc4672df5"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "taskDescription": "تم العمل على توصيات الاجتماع الاسبوعي",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T06:00:49.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:00:49.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a098d53f1bfebfc4672e03"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T21:00:00.000Z"
+  },
+  "taskDescription": "شرح الى المهندسة وديان حول الكشف الموقعي الى محافظة النجف جامعة الكوفة كلية الاداب وايضا توضيح الفيديوات والصور الموقعية ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T06:01:57.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:01:57.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a098d53f1bfebfc4672e07"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-23T21:00:00.000Z"
+  },
+  "taskDescription": "شرح الى المهندسة وديان حول الكشف الموقعي الى محافظة النجف جامعة الكوفة كلية الاداب وايضا توضيح الفيديوات والصور الموقعية ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T06:01:57.875Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:01:57.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a098df3f1bfebfc4672e0e"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "تم التواصل مع عقيل/وكيل النجف يستفسر حول العرض المسعر الخاص في مديرية الاتصالات والمعلوماتية",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T06:02:07.434Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:02:07.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a098df3f1bfebfc4672e10"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "تم التواصل مع عقيل/وكيل النجف يستفسر حول العرض المسعر الخاص في مديرية الاتصالات والمعلوماتية",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T06:02:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:02:07.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a099413f1bfebfc4672e12"
+  },
+  "ReportsDailyId": {
+    "$oid": "669cb2ca8f54b30ae151aac6"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "تم التواصل مع م.جمال من شركة wegtek الايطالية حول المشروع الوطني للانذار المبكر لجمع معلومات عن النظام المستخدم",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-24T06:03:45.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:03:45.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a099b23f1bfebfc4672e16"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-24T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "taskDescription": "تدقيق طلبية الى وزارة الداخلية / مديرية تحقيق الادلة الجنائية ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T06:05:38.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:05:38.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a099ec3f1bfebfc4672e32"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-24T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "taskDescription": "تدقيق طلبية الى وزارة التربية / المديرية العامة للشون الادارية/  قسم التجهيزات  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T06:06:36.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:06:36.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a09a6d3f1bfebfc4672e38"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "taskDescription": "تجهيز اسعار الى قسم الاتصالات للمهندس ابي وايضا للمهندسة هالة والمهندسة ايات ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T06:08:45.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:08:45.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0a335d713337b125c06cc"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "taskDescription": "التواصل مع الشركات الصينية شركة MATE SOLAR AND , GAER WATT حول تحديد موعد اجتماع مع مستشار شركة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T06:46:13.087Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:46:13.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0a392d713337b125c06d2"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على التوصيات مع المهندسة زهراء والتعديل على الاهداف التابع الى الخطة الاستريجية ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T06:47:46.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:47:46.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0a3cdd713337b125c06d8"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a08f813f1bfebfc4672818"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "البحث عن المناقصات وايضا عمل التقرير العمل المسبق وكتابعة موظفين القسم حول المهام الموجهة لهم ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T06:48:45.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:48:45.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c1f43d95bd1cf1b5af6c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0c1253d95bd1cf1b5af55"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T06:30:00.000Z"
+  },
+  "taskDescription": "طباعة تقرير الست زينب \nطباعة جدول الكميات \nطباعة الجدول الزمني \nتسليم استمارة الست زينب الى مكتب الست فاطمة وم. نادية\nطباعة ملف lingxi intro\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T08:57:24.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:57:24.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c25c3d95bd1cf1b5af72"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0c1253d95bd1cf1b5af55"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T06:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T07:00:00.000Z"
+  },
+  "taskDescription": "لبحث عن مناقصة لوزارة التخطيط والعدل وديوان الوقف المسيحي وهيئة النزاهة ووزارة الصحة وتشكيلاتها ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T08:59:08.640Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:59:08.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c32f3d95bd1cf1b5af78"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0c1253d95bd1cf1b5af55"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T07:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T08:30:00.000Z"
+  },
+  "taskDescription": "كتابة تقرير عن محضر الاجتماع وطباعته وتسليمه الى م. نادية \nكتابة وعمل جارتات لتوصيات الاجتماع الأسبوعي \n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T09:02:39.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:02:39.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c4fe3d95bd1cf1b5af9b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0c1253d95bd1cf1b5af55"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T08:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T08:40:00.000Z"
+  },
+  "taskDescription": "عمل كتاب رسمي لصالح وزارة الداخلية / مديرية تحقيق الأدلة الجنائية ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T09:10:22.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:10:22.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c6ca3d95bd1cf1b5b037"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0c1253d95bd1cf1b5af55"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T08:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "ادخال الكتب الرسمية في جداول التحليل\nالعمل على التوصيات الخاصة بالاجتماع بمساعدة المهندسة زهراء وتم عمل الجارتات  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T09:18:02.371Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:18:02.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d09ba9697f5f0c7ee66a"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0c1253d95bd1cf1b5af55"
+  },
+  "SelectTask": "CompletedTendersAndInvitations",
+  "timFrom": {
+    "$date": "2024-07-24T08:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على جداول التحليل في برنامج الاتمتة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-24T09:59:55.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:59:55.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0e8a5a32883fe640b2403"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0e7c6a32883fe640b23f3"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T09:00:00.000Z"
+  },
+  "taskDescription": "العمل على مشروع الاتمتة الالكتروني وأضافة بعض التفاصيل وأيضا أكمال فكشن أضافة عدة \nأشخاص قائمين بالعمل بأمكان رئيس القسم تحديدهم",
+  "Notes": "لاتوجد",
+  "createdAt": {
+    "$date": "2024-07-24T11:42:30.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T11:42:30.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0e944a32883fe640b240d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0e7c6a32883fe640b23f3"
+  },
+  "SelectTask": "DirectOrdersAnExchanges",
+  "timFrom": {
+    "$date": "2024-07-24T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "taskDescription": "البحث عن شركات لاتمام طلبية visionfile",
+  "Notes": "لاتوجد",
+  "createdAt": {
+    "$date": "2024-07-24T11:45:08.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T11:45:08.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0ea1ca32883fe640b241b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a0e7c6a32883fe640b23f3"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T12:00:00.000Z"
+  },
+  "taskDescription": "أكمال العمل على مشروع الاتمتة الالكتروني و اضافة بعض التفاصيل الخاصة بالمشروع ليتم تحديد اذا هاذا المشروع تم أكماله من قبل الموظف أولا\nمن خلال علامة check ",
+  "Notes": "بلايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T11:48:44.759Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T11:48:44.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1e20405ece30cccd4230c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a1e12805ece30cccd42300"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-25T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T08:00:00.000Z"
+  },
+  "taskDescription": "تم توزيع المهام اليومية الى موظفي القسم",
+  "Notes": "/",
+  "createdAt": {
+    "$date": "2024-07-25T05:26:28.103Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T05:26:28.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f48bdb88798413bd3e3e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a1dfe005ece30cccd422d3"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-25T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T05:15:00.000Z"
+  },
+  "taskDescription": "العمل على التقرير اليومي\t",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T06:45:31.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:45:31.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f4a3db88798413bd3e5b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a1dfe005ece30cccd422d3"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-25T05:15:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T07:00:00.000Z"
+  },
+  "taskDescription": "-\tالعمل على تحديث قاعدة البيانات الشركات وقاعدة بيانات المناقصات والجهات المستفيدة\n-\tالبدء بالتواصل مع الشركات حسب التاركت الذي تم عمله \n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T06:45:55.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:45:55.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f4d5db88798413bd3e75"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a1dfe005ece30cccd422d3"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-25T07:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T08:00:00.000Z"
+  },
+  "taskDescription": "مناقشة مع المهندس احمد حول تفاصيل العمل  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T06:46:45.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f4fcdb88798413bd3eaf"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a1dfe005ece30cccd422d3"
+  },
+  "SelectTask": "CompletedTendersAndInvitations",
+  "timFrom": {
+    "$date": "2024-07-25T08:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T09:00:00.000Z"
+  },
+  "taskDescription": "-\tمساعدة الإدارية اية حول بعض التفاصيل التي تخص الكتب الرسمية في برنامج الوورد\n-\tالتفاعل على مواقع التواصل الاجتماعي\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T06:47:24.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:47:24.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f520db88798413bd3ef0"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a1dfe005ece30cccd422d3"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-25T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T12:00:00.000Z"
+  },
+  "taskDescription": "-\tالعمل على تفاصيل التوصيات الخاص بمحضر الاجتماع والتعديل عليها وبانتظار توجيهات دكتور رافع حول الجارتات \n-\tالعمل على تسعير المنظومات من 5A-60A\n-\tالنزول الى المعرض وشرح المهندس احمد على المنتجات الخاصة بنا وكيفية تقديم برزنتيشن للجهات المستفيدة ومعرفة احجام UPS وتفاصيله والواح الانارة الشمسية \n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T06:48:00.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:48:00.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20331f7838a7a5440804e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T06:00:00.000Z"
+  },
+  "taskDescription": "عمل التقرير اليومي ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:48:01.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:48:01.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20362f7838a7a54408054"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T06:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T07:30:00.000Z"
+  },
+  "taskDescription": "العمل على جدول المكلفين بالأعمال ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:48:50.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:48:50.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2038df7838a7a5440805a"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T07:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T09:00:00.000Z"
+  },
+  "taskDescription": "حول معرض itex    مع الست نادية وقسم التسويق و م. مصطفى لملئ الاستمارة الخاصة بالمعرض",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:49:33.475Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:49:33.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a203b2f7838a7a5440805c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T10:00:00.000Z"
+  },
+  "taskDescription": "العمل على جدول تحليل الاداء   ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:50:10.865Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:50:10.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a203d8f7838a7a54408062"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T10:30:00.000Z"
+  },
+  "taskDescription": "البحث عن المناقصات\nمحافظة بابل/لا يوجد  محافظة نينوى / لا يوجد  محافظة كركوك /لا يوجد\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:50:48.845Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:50:48.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20407f7838a7a54408068"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T10:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T11:00:00.000Z"
+  },
+  "taskDescription": "طباعة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:51:35.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:51:35.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20429f7838a7a5440806e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T12:00:00.000Z"
+  },
+  "taskDescription": "عمل تقرير محتوى البروشور ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:52:09.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:52:09.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2044df7838a7a54408086"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المناقصات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:52:45.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:52:45.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2045ff7838a7a5440808c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "الاعمال المنفذة خارج اوقات الدوام",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:53:03.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:53:03.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20471f7838a7a54408092"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المقترحات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:53:21.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:53:21.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20483f7838a7a54408098"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "المعوقات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:53:39.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:53:39.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20494f7838a7a5440809e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20306f7838a7a54408042"
+  },
+  "SelectTask": "",
+  "timFrom": null,
+  "timTo": null,
+  "taskDescription": "الشكاوى",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T07:53:56.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T07:53:56.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20bcc982ab64b1dfc739b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20b2c982ab64b1dfc738f"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T05:20:00.000Z"
+  },
+  "taskDescription": "تسليم كتاب وزارة الداخلية / مديرية تحقيق الأدلة الجنائية الى الأستاذ احمد ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-25T08:24:44.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T08:24:44.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20c9f982ab64b1dfc73a1"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20b2c982ab64b1dfc738f"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T05:20:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T06:30:00.000Z"
+  },
+  "taskDescription": "البحث عن مناقصة لوزارة التخطيط والعدل وديوان الوقف المسيحي وهيئة النزاهة ووزارة الصحة وتشكيلاتها وتم إيجاد مناقصة لدى وزارة الصحة وتم سحبها وتقديمها الى م. لينا في قسم التسويق \n ",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-25T08:28:15.583Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T08:28:15.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20d0b982ab64b1dfc73ab"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20b2c982ab64b1dfc738f"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-25T06:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T22:30:00.000Z"
+  },
+  "taskDescription": "كتابة وطباعة كتاب رسمي لوزارة الداخلية بخصوص الروبوت \nطباعة محضر اجتماع \nطباعة منظومة الإنذار المبكر للكشف عن الحرائق والربط الرقمي للمباني \nطباعة ملفات صور \n \n ",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-25T08:30:03.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T08:30:03.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20d4a982ab64b1dfc73b8"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20b2c982ab64b1dfc738f"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T22:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T22:40:00.000Z"
+  },
+  "taskDescription": "استنساخ كتاب الى وزارة الصناعة والمعادن بخصوص صيانة روبوت وتسليمه الى الأستاذ احمد \n \n ",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-25T08:31:06.055Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T08:31:06.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a20d77982ab64b1dfc73ba"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a20b2c982ab64b1dfc738f"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-24T22:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "taskDescription": "ادخال الكتب الرسمية في جداول التحليل في برنامج الاكسل وادخالها في الاتمتة الالكترونية \n \n ",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-25T08:31:51.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T08:31:51.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a23201312cd8af2eb1f849"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a1e4f5ec6d3428ce6975b7"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T21:05:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T22:05:00.000Z"
+  },
+  "taskDescription": "العمل على مشروع لاتمتة واكمال تعديل السعر اذا أحتاج  الموظف  واكمال تمكين رأيس القسم من اختيار العاملين على المشروع",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-25T11:07:45.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:07:45.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2323c312cd8af2eb1f853"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a1e4f5ec6d3428ce6975b7"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-24T21:05:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-24T22:05:00.000Z"
+  },
+  "taskDescription": "العمل على مشروع لاتمتة واكمال تعديل السعر اذا أحتاج  الموظف  واكمال تمكين رأيس القسم من اختيار العاملين على المشروع",
+  "Notes": "نتبساي",
+  "createdAt": {
+    "$date": "2024-07-25T11:08:44.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:08:44.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a492eb52e22c7e562db48b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4927a52e22c7e562db466"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-27T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T05:03:00.000Z"
+  },
+  "taskDescription": "العمل على التقرير اليومي\t",
+  "Notes": "لا يوجد ",
+  "createdAt": {
+    "$date": "2024-07-27T06:25:47.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:25:47.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4931552e22c7e562db4a6"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4927a52e22c7e562db466"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-27T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T07:00:00.000Z"
+  },
+  "taskDescription": "-\tعمل استمارة المشاريع وتسليمها الى القانونية نادية والى المعاون الفني \n-\tعمل استمارة المراسلات الخاصة بي وبالمهندس احمد \n-\tمساعدة الادارية اية في بعض الاعمال في الاكسل والوورد\n",
+  "Notes": "لا يوجد ",
+  "createdAt": {
+    "$date": "2024-07-27T06:26:29.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:26:29.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4933c52e22c7e562db4ae"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4927a52e22c7e562db466"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-27T07:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T09:00:00.000Z"
+  },
+  "taskDescription": "-\tتكملة تسعير منظومة 5A-60A",
+  "Notes": "لا يوجد ",
+  "createdAt": {
+    "$date": "2024-07-27T06:27:08.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:27:08.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4935a52e22c7e562db4b4"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4927a52e22c7e562db466"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-27T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T12:00:00.000Z"
+  },
+  "taskDescription": "-\tالاستماع الى المعاون الفني حول التوصيات والجدول الزمني\n-\tتم البحث على المناقصات محافظة النجف الاشرف وتسليمها \n-\tالذهاب لقسم الاتصالات ومعرفه حول كيفية عمل الجارتات وشرح الجدول الزمني لهم الذي سيتم اعتماده في التوصيات \n-\tالتفاعل على مواقع التواصل الاجتماعي \n-\tالعمل على استمارة نسب انجاز المهام \n-\tالعمل على نسب الانجاز وزن الانجاز ومدة الانجاز مع المهندس احمد\n",
+  "Notes": "لا يوجد ",
+  "createdAt": {
+    "$date": "2024-07-27T06:27:38.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:27:38.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49f6552e22c7e562db935"
+  },
+  "ReportsDailyId": {
+    "$oid": "669dfb4f27fa6e64bf39c027"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-27T05:25:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T07:15:00.000Z"
+  },
+  "taskDescription": "تم العمل على تصميم واجهة عرض المنتجات لنظام المواد الراكدة",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-27T07:19:01.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:19:01.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49fe452e22c7e562db999"
+  },
+  "ReportsDailyId": {
+    "$oid": "669dfb4f27fa6e64bf39c027"
+  },
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "timFrom": {
+    "$date": "2024-07-27T07:25:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T08:30:00.000Z"
+  },
+  "taskDescription": "تمت مراسلة الشركات  ومتابعة المشاريع  التي تم عرضها عليهم",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-27T07:21:08.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:21:08.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a03452e22c7e562db9b1"
+  },
+  "ReportsDailyId": {
+    "$oid": "669dfb4f27fa6e64bf39c027"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-27T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T13:45:00.000Z"
+  },
+  "taskDescription": "المتابعة مع مهندس أحمد الأردني حول برمجة وتهيئة السيرفر",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-27T07:22:28.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:22:28.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4abc75d402e8635f63013"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ab585d402e8635f62ffa"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-27T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T05:30:00.000Z"
+  },
+  "taskDescription": "طباعة تقرير مديرة القسم الست زينب\nوطباعة استمارة المراسلات والطلبيات \n",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-27T08:11:51.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:11:51.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ad365d402e8635f6320d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ab585d402e8635f62ffa"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-27T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T06:00:00.000Z"
+  },
+  "taskDescription": "البحث عن مناقصة لوزارة التخطيط والعدل وديوان الوقف المسيحي وهيئة النزاهة ووزارة الصحة وتشكيلاتها \n",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-27T08:17:58.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:17:58.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ad8e5d402e8635f632c0"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ab585d402e8635f62ffa"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T10:30:00.000Z"
+  },
+  "taskDescription": "عمل الجارت الأسبوعي \nوعمل العرض التقديمي في powerpoint \n",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-27T08:19:26.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:19:26.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ae565d402e8635f63422"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ab585d402e8635f62ffa"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-26T22:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T11:30:00.000Z"
+  },
+  "taskDescription": "عمل مخطط بياني لاهداف الخطة الاستراتيجية لسنة 2024",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-27T08:22:46.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:22:46.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ae755d402e8635f63465"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ab585d402e8635f62ffa"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-26T23:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T12:00:00.000Z"
+  },
+  "taskDescription": "دخال الكتب الرسمية في جداول التحليل في برنامج الاكسل وادخالها في الاتمتة الالكترونية",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-27T08:23:17.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:23:17.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ae815d402e8635f6346b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ab585d402e8635f62ffa"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-26T23:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T12:00:00.000Z"
+  },
+  "taskDescription": "دخال الكتب الرسمية في جداول التحليل في برنامج الاكسل وادخالها في الاتمتة الالكترونية",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-27T08:23:29.528Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:23:29.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bb2b1b78bd2bb8b60c43"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ba321b78bd2bb8b60c14"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-26T21:05:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T01:00:00.000Z"
+  },
+  "taskDescription": "Notes is managed using the useState hook.\ntoken is also managed using the useState hook. Ensure you set it appropriately (e.g., from context, props, or other means).\nThe HandleSubmit function is called when the form is submitted.\nError handling ensures a default message is shown if no specific message is available from the error response.",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-27T09:17:31.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:17:31.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a53b4336bd0d2f650c98df"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a53a9236bd0d2f650c98b0"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-27T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T05:30:00.000Z"
+  },
+  "taskDescription": " البحث عن الممناقصات ووكتابة التقرير اليومي",
+  "Notes": "لايووجد",
+  "createdAt": {
+    "$date": "2024-07-27T18:24:03.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T18:24:03.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a53bbc36bd0d2f650c98fa"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a53a9236bd0d2f650c98b0"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-27T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T07:20:00.000Z"
+  },
+  "taskDescription": "أجتماع مع دكتور رافع  حول معرض itx",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-27T18:26:04.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T18:26:04.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a53c9f36bd0d2f650c9900"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a53a9236bd0d2f650c98b0"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-27T07:20:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T12:00:00.000Z"
+  },
+  "taskDescription": "العمل عللى مشروع الاتمتة الالكتروني وأضافة functin التقارير الثابتة  و اكمال تعديل القائمين على العمل ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-27T18:29:51.291Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T18:29:51.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5dbaa340eeed58c70c7c9"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-28T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T07:10:00.000Z"
+  },
+  "taskDescription": "تم الاجتماع مع منتسبين القسم بحضور الدكتور رافع",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T05:48:26.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:48:26.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5dc5a8722700f7a0330a3"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-28T07:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T21:10:00.000Z"
+  },
+  "taskDescription": "التعديل على برزنتيشن الأمن السياحي و برزنتيشن منصة الاجتماعات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T05:51:22.623Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:51:22.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5dc878722700f7a0330b4"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-27T21:15:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T22:45:00.000Z"
+  },
+  "taskDescription": "تصميم لوكو لنظام المواد الراكدة",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T05:52:07.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:52:07.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5dcbb8722700f7a0330bb"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-27T22:50:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-27T23:05:00.000Z"
+  },
+  "taskDescription": "البحث عن و سحب المناقصات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T05:52:59.048Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:52:59.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e999e93a5f0205110201"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a488c752e22c7e562db3bb"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T06:00:00.000Z"
+  },
+  "taskDescription": "عمل التقرير اليومي ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T06:47:53.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:47:53.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e9ece93a5f0205110a94"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a488c752e22c7e562db3bb"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T06:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T07:00:00.000Z"
+  },
+  "taskDescription": "العمل على جداول التحليل ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T06:49:16.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:49:16.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eb7de93a5f0205113606"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a488c752e22c7e562db3bb"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T07:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T10:00:00.000Z"
+  },
+  "taskDescription": "العمل على ادراج جدول الكميات الخاص بالمشاريع والمناقصات السابقة في مشروع التحول الالكتروني لعمليات الشركة",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T06:55:57.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:55:57.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ebb3e93a5f020511384e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a488c752e22c7e562db3bb"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T10:30:00.000Z"
+  },
+  "taskDescription": "البحث عن المناقصات\nمحافظة بابل/لا يوجد  محافظة نينوى / لا يوجد  محافظة كركوك /لا يوجد\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T06:56:51.911Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:56:51.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ebefe93a5f0205113c9c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a488c752e22c7e562db3bb"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T10:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T11:00:00.000Z"
+  },
+  "taskDescription": "طباعة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T06:57:51.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:57:51.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed68e93a5f020511584c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T06:00:00.000Z"
+  },
+  "taskDescription": "عمل التقرير اليومي ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T07:04:08.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:04:08.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5f11dda25ee2b3b01b87f"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T06:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T09:30:00.000Z"
+  },
+  "taskDescription": "العمل على ادراج جداول الكميات الخاصة بجميع المشاريع والمناقصات التي تم تسليمها ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T07:19:57.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:19:57.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5f238da25ee2b3b01cc0b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T09:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T10:00:00.000Z"
+  },
+  "taskDescription": "البحث عن المناقصات\nمحافظة بابل/لا يوجد  محافظة نينوى / لا يوجد  محافظة كركوك /لا يوجد\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T07:24:40.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:24:40.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5f624da25ee2b3b01f7bc"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T10:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T11:00:00.000Z"
+  },
+  "taskDescription": "العمل على جداول التحاليل ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T07:41:24.388Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:41:24.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5f869da25ee2b3b0226c8"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على جدول تحليل  للوزارات  ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T07:51:05.620Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:51:05.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61936da25ee2b3b035721"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a61689da25ee2b3b0310cd"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-28T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T08:00:00.000Z"
+  },
+  "taskDescription": "طباعة تقرير مديرة القسم الست زينب وتسليمه الى الأستاذ احمد  التعديل على مهام الموظف وطباعته وتسليمه الى      م.نادية \nطباعة التاركت الأسبوعي\n",
+  "Notes": "لا يوجد",
+  "createdAt": {
+    "$date": "2024-07-28T10:11:02.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:11:02.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61b57da25ee2b3b03893c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a61689da25ee2b3b0310cd"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T08:50:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T09:15:00.000Z"
+  },
+  "taskDescription": "عمل كتاب رسمي لصالح شركة الصقر وتسليمه  الى الست فاطمة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T10:20:08.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:20:08.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61d53da25ee2b3b03c018"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a61689da25ee2b3b0310cd"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-28T09:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T12:00:00.000Z"
+  },
+  "taskDescription": "ادخال الكتب الرسمية في جداول التحليل في برنامج الاكسل وادخالها في الاتمتة الالكترونية ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-28T10:28:35.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:28:35.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a727f1e8737c593408167d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a727a2e8737c59340815d2"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-29T05:20:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T07:30:00.000Z"
+  },
+  "taskDescription": "العمل على تعديل برزنتيشن الأمن السياحي",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:26:09.348Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:26:09.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7289ae8737c5934081c7b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a727a2e8737c59340815d2"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T07:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T22:20:00.000Z"
+  },
+  "taskDescription": "تعديل على لوكو نظام المواد الراكدة",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:28:58.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:28:58.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72906e8737c59340824be"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a727a2e8737c59340815d2"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-28T22:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T23:00:00.000Z"
+  },
+  "taskDescription": "استقبال موصلين جهاز switch من اي تي سيرفر",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:30:46.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:30:46.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a729e5e8737c59340829bb"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T05:20:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T07:30:00.000Z"
+  },
+  "taskDescription": "العمل على تعديل برزنتيشن الامن السياحي و تجهيز احدى الحاسبات بالبرامج المطلوبة",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:34:29.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:34:29.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72b4de8737c593408470e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T10:40:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T11:00:00.000Z"
+  },
+  "taskDescription": "استقبال موصلين جهاز switch من مكتب اي تي سيرفر",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:40:29.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:40:29.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72bbee8737c5934084bbd"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T07:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T08:20:00.000Z"
+  },
+  "taskDescription": "التعديل على لوكو نظام المواد الراكدة",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:42:22.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:42:22.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72c0fe8737c5934085140"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T08:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T09:10:00.000Z"
+  },
+  "taskDescription": "متابعة الاقسام وتقديم الدعم الفني لهم بخصوص نظام الأتمتة الخاص بالشركة و ايضا اللاجهزة الخاصة بهم",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:43:43.967Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:43:43.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72ce5e8737c5934085f35"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-28T22:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-28T22:45:00.000Z"
+  },
+  "taskDescription": "عرض اللوكوات الخاصة بنظام المواد الراكدة الى جناب المدير المحترم\t",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:47:17.354Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:47:17.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72d32e8737c59340860ac"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T12:00:00.000Z"
+  },
+  "taskDescription": "التعديل على الوان لوكو النظام , التعديل على استمارة قاعدة بيانات الجهات المستفيدة",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:48:34.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:48:34.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72e74e8737c5934087168"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a72e1be8737c59340869ca"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T05:30:00.000Z"
+  },
+  "taskDescription": "البحث عن المناقصات وكتابة التقرير اليومي",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:53:56.851Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:53:56.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72f95e8737c5934089235"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a72e1be8737c59340869ca"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على مشروع الاتمتة الالكتروني وأضافة بعض التعديلات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:58:45.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:58:45.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72f9ce8737c59340892ff"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a72e1be8737c59340869ca"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-29T05:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على مشروع الاتمتة الالكتروني وأضافة بعض التعديلات",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-29T05:58:52.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:58:52.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a876bbabcd0f595c94919c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-30T05:20:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T07:00:00.000Z"
+  },
+  "taskDescription": "التعديل النهائي على اللوكو الخاص بنظام المواد الراكدة",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:14:35.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:14:35.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a877a0abcd0f595c94a808"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-30T07:05:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T11:15:00.000Z"
+  },
+  "taskDescription": "الذهاب الى شارع الصناعة لجلب معدات خاصة للswitch وثم التوجه الى وزارة الصناعة و المعادن لربط هذه المعدات و تجريبها",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:18:24.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:18:24.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87897abcd0f595c94ba2a"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-30T11:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-29T23:20:00.000Z"
+  },
+  "taskDescription": "الذهاب لشركة السراج في شارع الصناعة لجلب عرض سعري بخصوص طلبية وزارة التربية",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:22:32.001Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:22:32.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a878fdabcd0f595c94bf6c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "SelectTask": "OtherWork",
+  "timFrom": {
+    "$date": "2024-07-30T11:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T12:00:00.000Z"
+  },
+  "taskDescription": "مراجعة مهام القسم المكلف بها",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:24:13.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:24:13.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b71abcd0f595c94e267"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-30T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T06:00:00.000Z"
+  },
+  "taskDescription": "عمل التقرير اليومي ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:34:41.252Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:34:41.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87bababcd0f595c94e40c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-30T06:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T07:30:00.000Z"
+  },
+  "taskDescription": "العمل على استمارة انجاز المشاريع ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:35:39.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:35:39.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87c49abcd0f595c94ec1f"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-30T07:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T08:30:00.000Z"
+  },
+  "taskDescription": "طباعة وعمل كتاب ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:38:17.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:38:17.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87cc9abcd0f595c94f399"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b0aabcd0f595c94e0c9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-30T05:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T06:00:00.000Z"
+  },
+  "taskDescription": "العمل على التقرير اليومي ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:40:25.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:40:25.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87cebabcd0f595c94f71b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-30T08:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T09:00:00.000Z"
+  },
+  "taskDescription": "البحث عن المناقصات\nمحافظة بابل/لا يوجد  محافظة نينوى /  يوجد  محافظة كركوك /لا يوجد\n",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:40:59.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:40:59.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87ef0abcd0f595c953145"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b0aabcd0f595c94e0c9"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-30T06:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T09:30:00.000Z"
+  },
+  "taskDescription": "العمل على hostinger  لغرض رفع الموقع وتم تحميل الmern stak",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:49:36.294Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:49:36.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87f8babcd0f595c9542af"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-30T09:00:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T10:30:00.000Z"
+  },
+  "taskDescription": "العمل على ادراج جدول الكميات لمناقصة الضمان الصحي   في مشروع  التحول الالكتروني لعمليات الشركة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:52:11.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:52:11.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87fd7abcd0f595c954b3d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "SelectTask": "",
+  "timFrom": {
+    "$date": "2024-07-30T10:30:00.000Z"
+  },
+  "timTo": {
+    "$date": "2024-07-30T12:00:00.000Z"
+  },
+  "taskDescription": "العمل على ادراج جدول الكميات لطلبية مجلس المثنى    في مشروع  التحول الالكتروني لعمليات الشركة ",
+  "Notes": "",
+  "createdAt": {
+    "$date": "2024-07-30T05:53:27.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:53:27.493Z"
+  },
+  "__v": 0
+}]

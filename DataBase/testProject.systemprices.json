@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6667e68cfbb36b3ff6cb850e"
+  },
+  "typePrice": "USD",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6667e739fbb36b3ff6cb851b"
+  },
+  "typePrice": "IQD",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6667e742fbb36b3ff6cb851d"
+  },
+  "typePrice": "EUR",
+  "__v": 0
+}]

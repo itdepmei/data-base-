@@ -1,0 +1,1072 @@
+[{
+  "_id": {
+    "$oid": "667ba90fabe9fcee363805ef"
+  },
+  "filesName": "انشاء مركز المراقبة و الرصد لأمن المعلومات (SOC) ومركز ادارة الشبكات والمراقبة (NOC)_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "667935df6b02dfe5ec6bddff"
+  },
+  "createdAt": {
+    "$date": "2024-06-26T05:37:19.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T05:37:19.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ba92dabe9fcee363805f7"
+  },
+  "filesName": "انشاء مركز المراقبة و الرصد لأمن المعلومات (SOC) ومركز ادارة الشبكات والمراقبة (NOC)_OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "667935df6b02dfe5ec6bddff"
+  },
+  "createdAt": {
+    "$date": "2024-06-26T05:37:49.945Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T05:37:49.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ba93babe9fcee363805f9"
+  },
+  "filesName": "انشاء مركز المراقبة و الرصد لأمن المعلومات (SOC) ومركز ادارة الشبكات والمراقبة (NOC)_OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "667935df6b02dfe5ec6bddff"
+  },
+  "createdAt": {
+    "$date": "2024-06-26T05:38:03.622Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T05:38:03.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fada2b9d72169317a7a5e"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:45:54.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:45:54.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fada4b9d72169317a7a60"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:45:56.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:45:56.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fada44c0965781f953f63"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:45:56.654Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:45:56.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fada4b9d72169317a7a62"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:45:56.769Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:45:56.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fada44c0965781f953f65"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:45:56.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:45:56.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fada54c0965781f953f67"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:45:57.116Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:45:57.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667faeb0b9d72169317a7a69"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:50:24.592Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:50:24.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667faee6f9525a1a56a346dd"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:51:18.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:51:18.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667faee6458e7d5c200ef49f"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:51:18.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:51:18.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667faee699251b9b9f18be74"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T06:51:18.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T06:51:18.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fbf64bf11c3d74f368f01"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T08:01:40.895Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T08:01:40.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fc8486ba9c805c1220481"
+  },
+  "filesName": "LICENSES_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T08:39:36.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T08:39:36.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fef5e16521a4da4f28330"
+  },
+  "filesName": "LICENSES_OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T11:26:22.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T11:26:22.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ff06816521a4da4f28344"
+  },
+  "filesName": "LICENSES_OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "createdAt": {
+    "$date": "2024-06-29T11:30:48.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T11:30:48.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6682770d0728be8242ecebba"
+  },
+  "filesName": "hg_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6682768d0728be8242eceaf5"
+  },
+  "createdAt": {
+    "$date": "2024-07-01T09:29:49.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T09:29:49.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683cf345591cebbe40821ac"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T09:58:12.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T09:58:12.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683cf405591cebbe40821ae"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T09:58:24.368Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T09:58:24.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683cf755591cebbe40821b6"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T09:59:17.205Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T09:59:17.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d07d5591cebbe40821dd"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:03:41.596Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:03:41.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d0ab5591cebbe40821f5"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:04:27.531Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:04:27.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d0b05591cebbe40821f7"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:04:32.282Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:04:32.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d0b55591cebbe40821f9"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:04:37.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:04:37.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d0f15591cebbe4082201"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:05:37.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:05:37.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d1635591cebbe4082235"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:07:31.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:07:31.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d19e5591cebbe408227e"
+  },
+  "filesName": "ديوان الوقف الشيعي_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6665873c6db725f82d91343b"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:08:30.397Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:08:30.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d1b25591cebbe4082294"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:08:50.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:08:50.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d1be5591cebbe4082296"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:09:02.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:09:02.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d1bf5591cebbe4082298"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:09:03.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:09:03.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d1ec5591cebbe40822c2"
+  },
+  "filesName": "ديوان الوقف الشيعي_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6665873c6db725f82d91343b"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:09:48.357Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:09:48.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d2535591cebbe4082308"
+  },
+  "filesName": "انشاء مركز المراقبة و الرصد لأمن المعلومات (SOC) ومركز ادارة الشبكات والمراقبة (NOC)_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "667935df6b02dfe5ec6bddff"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:11:31.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:11:31.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683d29c5591cebbe4082338"
+  },
+  "filesName": "جهاز المخابرات الوطني العراقي _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T10:12:44.498Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T10:12:44.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6686510839559aeba4083aae"
+  },
+  "filesName": "انشاء مركز المراقبة والرصد لامن المعلومات (soc)ومركز ادارة الشبكات والمراقبة (noc)_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "668636e658bc02d48dfc8ad3"
+  },
+  "createdAt": {
+    "$date": "2024-07-04T07:36:40.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T07:36:40.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6686510d39559aeba4083ab0"
+  },
+  "filesName": "انشاء مركز المراقبة والرصد لامن المعلومات (soc)ومركز ادارة الشبكات والمراقبة (noc)_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "668636e658bc02d48dfc8ad3"
+  },
+  "createdAt": {
+    "$date": "2024-07-04T07:36:45.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T07:36:45.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cf2a44b39e86b8942378a"
+  },
+  "filesName": "تطبيق الخدمات الحكومية الشاملة _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "668ce78755de2525af585fc3"
+  },
+  "createdAt": {
+    "$date": "2024-07-09T08:19:48.840Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T08:19:48.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66963dff790938074ccbe705"
+  },
+  "filesName": "ديوان الوقف الشيعي_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "6665873c6db725f82d91343b"
+  },
+  "createdAt": {
+    "$date": "2024-07-16T09:31:43.628Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T09:31:43.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66963e93790938074ccbe77c"
+  },
+  "filesName": "انشاء مركز المراقبة والرصد لامن المعلومات (soc)ومركز ادارة الشبكات والمراقبة (noc)_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "668636e658bc02d48dfc8ad3"
+  },
+  "createdAt": {
+    "$date": "2024-07-16T09:34:11.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T09:34:11.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e2b89fbbbee5dc36072f6"
+  },
+  "filesName": "مشروع النقل البري _OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T09:51:05.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T09:51:05.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e36e282aa25f266faccd4"
+  },
+  "filesName": "تجهيز شاشات _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T10:39:30.622Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T10:39:30.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e36e382aa25f266faccd6"
+  },
+  "filesName": "تجهيز شاشات _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T10:39:31.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T10:39:31.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e36e482aa25f266faccd8"
+  },
+  "filesName": "تجهيز شاشات _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T10:39:32.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T10:39:32.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e36e482aa25f266faccda"
+  },
+  "filesName": "تجهيز شاشات _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T10:39:32.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T10:39:32.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6266dfb6c9f82ca9bae6"
+  },
+  "filesName": "المديرية العامة للشؤون الادارية / قسم التجهيزات _OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "669e32aa82aa25f266facb9f"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:57:26.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:57:26.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f626bdfb6c9f82ca9bae8"
+  },
+  "filesName": "المديرية العامة للشؤون الادارية / قسم التجهيزات _OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "669e32aa82aa25f266facb9f"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:57:31.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:57:31.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6363e9359d385f36720f"
+  },
+  "filesName": "مشروع النقل البري _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:01:39.914Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:01:39.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6365e9359d385f367211"
+  },
+  "filesName": "مشروع النقل البري _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:01:41.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:01:41.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7e9ae9359d385f367d36"
+  },
+  "filesName": "مديرية تحقيق الادلة الجنائية _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T09:57:46.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:57:46.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7e9ce9359d385f367d38"
+  },
+  "filesName": "مديرية تحقيق الادلة الجنائية _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T09:57:48.814Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:57:48.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7ea1e9359d385f367d3a"
+  },
+  "filesName": "مديرية تحقيق الادلة الجنائية _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T09:57:53.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:57:53.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7eace9359d385f367d3c"
+  },
+  "filesName": "مديرية تحقيق الادلة الجنائية _OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T09:58:04.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:58:04.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7eb6e9359d385f367d3e"
+  },
+  "filesName": "مديرية تحقيق الادلة الجنائية _OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T09:58:14.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:58:14.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7eb9e9359d385f367d46"
+  },
+  "filesName": "مديرية تحقيق الادلة الجنائية _OfferPriceUSD.pdf",
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T09:58:17.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:58:17.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a0f52e22c7e562db7c4"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:15.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:15.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a1152e22c7e562db7c6"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:17.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:17.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a1352e22c7e562db7c8"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:19.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:19.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a1452e22c7e562db7ca"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:20.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:20.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a1452e22c7e562db7cc"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:20.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:20.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a1552e22c7e562db7ce"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:21.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:21.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a1652e22c7e562db7d0"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:22.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:22.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a1652e22c7e562db7d2"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:22.384Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:22.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a49a1f52e22c7e562db7d4"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:56:31.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:56:31.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a58652e22c7e562dbba2"
+  },
+  "filesName": "تجهيز مواد منظومة الانذار والاطفاء_OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:45:10.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:45:10.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ad0d5d402e8635f631e5"
+  },
+  "filesName": "مديرية الاحوال المدنية والجوازات والاقامة / مديرية الاحوال المدنية والجوازات والاقامة في المثنى _OfferPriceIQR.pdf",
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:17:17.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:17:17.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ae5c5d402e8635f63451"
+  },
+  "filesName": "مديرية الاحوال المدنية والجوازات والاقامة / مديرية الاحوال المدنية والجوازات والاقامة في المثنى _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:22:52.098Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:22:52.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4beb65d402e8635f63bc9"
+  },
+  "filesName": "مديرية الاحوال المدنية والجوازات والاقامة / مديرية الاحوال المدنية والجوازات والاقامة في المثنى _OfferPriceIQRAfterPercent.pdf",
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:32:38.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:32:38.443Z"
+  },
+  "__v": 0
+}]

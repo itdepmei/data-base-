@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "workNaturalData": "تقديم عرض سعري",
+  "createdAt": {
+    "$date": "2024-04-04T05:57:59.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T05:57:59.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "workNaturalData": "تنصيب",
+  "createdAt": {
+    "$date": "2024-05-28T17:37:14.162Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T17:37:14.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66561670aec1eeddfcaa989b"
+  },
+  "workNaturalData": "برمجة ",
+  "createdAt": {
+    "$date": "2024-05-28T17:37:52.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T17:37:52.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656167aaec1eeddfcaa98a9"
+  },
+  "workNaturalData": "صيانة",
+  "createdAt": {
+    "$date": "2024-05-28T17:38:02.064Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T17:38:02.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6664339749d50e42a73b2908"
+  },
+  "workNaturalData": "تنفيذ",
+  "createdAt": {
+    "$date": "2024-06-08T10:33:59.762Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T10:33:59.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "workNaturalData": "تجهيز",
+  "createdAt": {
+    "$date": "2024-06-08T10:35:49.968Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T10:35:49.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66921f457ee6b21d5bb6d427"
+  },
+  "workNaturalData": "تقديم عرض سعري ,تنفيذ ,تنصيب,تجهيز",
+  "createdAt": {
+    "$date": "2024-07-13T06:31:33.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T06:31:33.509Z"
+  },
+  "__v": 0
+}]

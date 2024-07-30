@@ -1,0 +1,432 @@
+[{
+  "_id": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "name": "باسم حسين عبد الاأمير",
+  "username": "Bassim@D",
+  "password": "12345678",
+  "user_type": "H.O.D",
+  "Phone": "00000000000",
+  "image": "image1720375107945.jpg",
+  "RoleId": {
+    "$oid": "6612fa4708ee35b285b3ec81"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba1492ca56a93254660f0"
+  },
+  "name": "فاطمة",
+  "username": "ceo_Deputy",
+  "password": "XHQKDT87",
+  "user_type": "Assistance",
+  "Phone": "12341234123",
+  "image": "image1720426825860.jpg",
+  "RoleId": {
+    "$oid": "664afbf38aba431d13048edc"
+  },
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "name": "زينب أكرم ",
+  "username": "Com.Zainab",
+  "password": "zainabur2000",
+  "user_type": "H.O.D",
+  "Phone": "12341234123",
+  "image": "image1720426902740.jpg",
+  "RoleId": {
+    "$oid": "6613950a9b6f11f753efd405"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba1ea2ca56a932546617b"
+  },
+  "name": "هالة صالح",
+  "username": "Com.hala",
+  "password": "12345678",
+  "user_type": "management",
+  "Phone": "12341234123",
+  "image": "image1720426986082.jpg",
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba23a2ca56a93254661c2"
+  },
+  "name": "كوثر صالح",
+  "username": "Com.Kather",
+  "password": "12345678",
+  "user_type": "Employ",
+  "Phone": "12341234123",
+  "image": "image1720427066340.jpg",
+  "RoleId": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba29aaf8969cc874aac53"
+  },
+  "name": "ايات عبد المزهر",
+  "username": "Com.Ayat",
+  "password": "12345678",
+  "user_type": "Employ",
+  "Phone": "12341234123",
+  "image": null,
+  "RoleId": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba2ceaf8969cc874aac88"
+  },
+  "name": "علي عبدالعزيز",
+  "username": "Com.Ali",
+  "password": "Ali2000",
+  "user_type": "Employ",
+  "Phone": "12341234123",
+  "image": "image1720427214309.jpg",
+  "RoleId": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "name": "زهراء سعد",
+  "username": "Com.Zahraa",
+  "password": "12345678",
+  "user_type": "Employ",
+  "Phone": "12341234123",
+  "image": null,
+  "RoleId": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba343af8969cc874aaced"
+  },
+  "name": "أبي عامر",
+  "username": "Com.obay",
+  "password": "12345678",
+  "user_type": "Employ",
+  "Phone": "12345678111",
+  "image": null,
+  "RoleId": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba387af8969cc874aad22"
+  },
+  "name": "نور بشتي وان",
+  "username": "Com.Noor",
+  "password": "12345678",
+  "user_type": "Employ",
+  "Phone": "12341234123",
+  "image": null,
+  "RoleId": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "name": "نبأ عبد الرزاق",
+  "username": "Com.Naba",
+  "password": "12345678",
+  "user_type": "management",
+  "Phone": "12341234123",
+  "image": null,
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba63ddca4c808519e0b0a"
+  },
+  "name": "نبأ نمير",
+  "username": "IT.Naba",
+  "password": "12345678",
+  "user_type": "management",
+  "Phone": "12341234123",
+  "image": "image1720428093437.jpg",
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "name": "منار طه",
+  "username": "IT.Manar",
+  "password": "12345678",
+  "user_type": "management",
+  "Phone": "12341234123",
+  "image": null,
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "name": "زينب أبراهيم",
+  "username": "FFD.Zainab",
+  "password": "Zainabur@@2000",
+  "user_type": "H.O.D",
+  "Phone": "00000000000",
+  "image": "image1720502086699.jpg",
+  "RoleId": {
+    "$oid": "6613950a9b6f11f753efd405"
+  },
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "name": "أسراء عبدالستار",
+  "username": "FFD.Israa",
+  "password": "83asraa",
+  "user_type": "management",
+  "Phone": "00000000000",
+  "image": "image1720502287510.jpg",
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "name": "وديان مهند ",
+  "username": "FFD.Wedian",
+  "password": "wedian0528moh",
+  "user_type": "management",
+  "Phone": "00000000000",
+  "image": null,
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cc8c5d642207426ab9c69"
+  },
+  "name": "أية حسين ",
+  "username": "FFD.Aya",
+  "password": "aya2882",
+  "user_type": "management",
+  "Phone": "00000000000",
+  "image": "image1721546187789.jpg",
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "name": "علي هادي",
+  "username": "IT.Ali",
+  "password": "774519",
+  "user_type": "H.O.D",
+  "Phone": "00000000000",
+  "image": "image1721629631786.jpg",
+  "RoleId": {
+    "$oid": "6613950a9b6f11f753efd405"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cded8816233570fb8d819"
+  },
+  "name": "CEO ( Haider Alazzawy ) ",
+  "username": "CEO",
+  "password": "12345678",
+  "user_type": "manager",
+  "Phone": "00000000000",
+  "image": "image1720508120045.jpg",
+  "RoleId": {
+    "$oid": "6651bb57d9a689b10990fa6b"
+  },
+  "DepartmentID": {
+    "$oid": "669f3277bd20d9b8c165deb7"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "name": "أحمد",
+  "username": "EP.Ahmed",
+  "password": "ahme2001",
+  "user_type": "H.O.D",
+  "Phone": "12341234123",
+  "image": "image1720547789301.jpg",
+  "RoleId": {
+    "$oid": "6613950a9b6f11f753efd405"
+  },
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "name": "أيهاب",
+  "username": "EP.Ehab",
+  "password": "GoatCR7",
+  "user_type": "management",
+  "Phone": "12341234123",
+  "image": null,
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "name": "زهراء عبد الرزاق ",
+  "username": "EP.Zahraa",
+  "password": "zahraa28",
+  "user_type": "management",
+  "Phone": "12341234123",
+  "image": null,
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692125fbcec151d25cee73d"
+  },
+  "name": "مصطفى سمير",
+  "username": "IT.Mustafa",
+  "password": "12345678",
+  "user_type": "H.O.D",
+  "Phone": "00000000000",
+  "image": "image1720848991580.jpg",
+  "RoleId": {
+    "$oid": "6613950a9b6f11f753efd405"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "name": "عبد الرحمن رائد",
+  "username": "Com.Abdul",
+  "password": "aboodeaboode123",
+  "user_type": "Employ",
+  "Phone": "00000000000",
+  "image": "image1721626850028.jpg",
+  "RoleId": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "6612fa4708ee35b285b3ec81"
+  },
+  "RoleName": "Root",
+  "createdAt": {
+    "$date": "2024-04-07T19:55:51.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T19:55:51.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "RoleName": "Employ",
+  "createdAt": {
+    "$date": "2024-04-08T06:53:20.417Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T06:53:20.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613950a9b6f11f753efd405"
+  },
+  "RoleName": "H.O.D",
+  "createdAt": {
+    "$date": "2024-04-08T06:56:10.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T06:56:10.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "RoleName": "management",
+  "createdAt": {
+    "$date": "2024-04-08T06:58:29.054Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T06:58:29.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664afbbc8aba431d13048ed0"
+  },
+  "RoleName": "IT",
+  "createdAt": {
+    "$date": "2024-05-20T07:29:00.941Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T07:29:00.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664afbcc8aba431d13048ed4"
+  },
+  "RoleName": "HR",
+  "createdAt": {
+    "$date": "2024-05-20T07:29:16.804Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T07:29:16.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664afbf38aba431d13048edc"
+  },
+  "RoleName": "Assistance",
+  "createdAt": {
+    "$date": "2024-05-20T07:29:55.073Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T07:29:55.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6651bb57d9a689b10990fa6b"
+  },
+  "RoleName": "manager",
+  "createdAt": {
+    "$date": "2024-05-25T10:20:07.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-25T10:20:07.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656e07c55575cca7acdb9d0"
+  },
+  "RoleName": "Legality",
+  "createdAt": {
+    "$date": "2024-05-29T07:59:56.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T07:59:56.306Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,3914 @@
+[{
+  "_id": {
+    "$oid": "6665873c6db725f82d91343b"
+  },
+  "nameProject": "ديوان الوقف الشيعي",
+  "NumberBook": "5303/3",
+  "DateBook": {
+    "$date": "2024-05-12T21:00:00.000Z"
+  },
+  "DateClose": null,
+  "beneficiary": "ديوان الوقف الشيعي /الدائرة الادارية والمالية",
+  "comments": "لاتوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "لاتوجد",
+  "LevelPerformance": "30%",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "66546bf8b8dc9996abe7d61b"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT6245303/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-08T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-09T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-09T11:28:56.698Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-09T10:43:08.538Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-09T10:43:08.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T05:32:02.008Z"
+  },
+  "__v": 0,
+  "SendProjectMutual": false
+},
+{
+  "_id": {
+    "$oid": "6666966659b4538b412351fb"
+  },
+  "nameProject": "كاترج",
+  "NumberBook": "35464",
+  "DateBook": {
+    "$date": "2024-06-09T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-10T21:00:00.000Z"
+  },
+  "beneficiary": "محافظة البصرة",
+  "comments": "لايوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "طلبية ",
+  "Stage": "لاتوجد",
+  "LevelPerformance": "10%",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "66546bf8b8dc9996abe7d61b"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT62435464",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-09T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-10T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-24T10:09:28.353Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-10T06:00:06.708Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-10T06:00:06.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:09:28.430Z"
+  },
+  "__v": 1,
+  "SendProjectMutual": false,
+  "ManyPersonChrgeId": [],
+  "isCompleteProject": true
+},
+{
+  "_id": {
+    "$oid": "6666a1f15e5e3afdadec1db6"
+  },
+  "nameProject": "كاترج2",
+  "NumberBook": "1234/43",
+  "DateBook": {
+    "$date": "2024-06-09T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-10T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة التربية",
+  "comments": "لايوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "كشف",
+  "LevelPerformance": "20%",
+  "CompletionRate": "40%",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "6666a1f15e5e3afdadec1db4"
+  },
+  "Code": "IT_CO_HR_FA06241234/43",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-16T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-18T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-10T06:49:21.294Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-10T06:49:21.294Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-10T06:49:21.295Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T05:32:02.009Z"
+  },
+  "__v": 0,
+  "SendProjectMutual": false
+},
+{
+  "_id": {
+    "$oid": "666832dbe74fdb99c8a5ad38"
+  },
+  "nameProject": "اسم المشروع  الاول ",
+  "NumberBook": "9857034",
+  "DateBook": {
+    "$date": "2024-06-10T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-21T21:00:00.000Z"
+  },
+  "beneficiary": "الضمان الصحي",
+  "comments": "لالاماب",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "كشف",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "666832dbe74fdb99c8a5ad36"
+  },
+  "Code": "IT_CO_FA_CS06249857034",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-10T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-11T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-11T11:19:55.951Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-11T11:19:55.952Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-11T11:19:55.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T05:32:02.009Z"
+  },
+  "__v": 0,
+  "SendProjectMutual": false
+},
+{
+  "_id": {
+    "$oid": "6668338e91cdd576a916e039"
+  },
+  "nameProject": "اسم المشروع  الاول ",
+  "NumberBook": "9857034mvn",
+  "DateBook": {
+    "$date": "2024-06-12T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-10T21:00:00.000Z"
+  },
+  "beneficiary": "الضمان الصحي",
+  "comments": "لالاماب",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "كشف",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "6668338e91cdd576a916e037"
+  },
+  "Code": "IT_FA_CS_CO_PO06249857034mvn",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-11T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-12T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-11T11:22:54.251Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-11T11:22:54.251Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-11T11:22:54.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T05:32:02.009Z"
+  },
+  "__v": 0,
+  "SendProjectMutual": false
+},
+{
+  "_id": {
+    "$oid": "66695323f0aaf1e600489e5c"
+  },
+  "nameProject": "test",
+  "NumberBook": "587jdf",
+  "DateBook": {
+    "$date": "2024-06-11T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-12T21:00:00.000Z"
+  },
+  "beneficiary": "wefuinc",
+  "comments": "dsvzxlk/vsd tnl ahew'OEJFadKJF'W",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "jkadsfx zc",
+  "Stage": "jdsf zcx",
+  "LevelPerformance": "20%",
+  "CompletionRate": "0% ",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "66695323f0aaf1e600489e5a"
+  },
+  "Code": "IT_CO_HR_FA_CS0624587jdf",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-11T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-12T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-15T06:12:36.941Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-12T07:49:55.681Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-12T07:49:55.683Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T05:32:02.009Z"
+  },
+  "__v": 0,
+  "SendProjectMutual": false
+},
+{
+  "_id": {
+    "$oid": "66695522854bcb46b387e018"
+  },
+  "nameProject": "ss",
+  "NumberBook": "asdAW2342",
+  "DateBook": {
+    "$date": "2024-06-11T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-02T21:00:00.000Z"
+  },
+  "beneficiary": "SDV2323",
+  "comments": "32RWER",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "2341",
+  "Stage": "324",
+  "LevelPerformance": "40%",
+  "CompletionRate": "40%",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "66695522854bcb46b387e016"
+  },
+  "Code": "IT_CO_FA_HR0624asdAW2342",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-10T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-13T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-12T07:58:26.781Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-12T07:58:26.781Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-12T07:58:26.782Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T05:32:02.009Z"
+  },
+  "__v": 0,
+  "SendProjectMutual": false
+},
+{
+  "_id": {
+    "$oid": "66695ee69727633be725e09b"
+  },
+  "nameProject": "LICENSES",
+  "NumberBook": "XXX",
+  "DateBook": {
+    "$date": "2024-06-11T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-19T21:00:00.000Z"
+  },
+  "beneficiary": "xxxxxxx",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": "من قسم الاتصالات",
+  "Stage": "قيد التجهيز",
+  "LevelPerformance": "100%",
+  "CompletionRate": "80%",
+  "userId": {
+    "$oid": "6653078531736f98b5976b3d"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT624XXX",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-11T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-19T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-15T11:15:38.100Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-12T08:40:06.190Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-12T08:40:06.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T05:32:02.009Z"
+  },
+  "__v": 0,
+  "SendProjectMutual": false
+},
+{
+  "_id": {
+    "$oid": "666d4e31931188598d7eb48f"
+  },
+  "nameProject": "employees",
+  "NumberBook": "xxxxxxxxxxx",
+  "DateBook": {
+    "$date": "2024-06-14T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "1999-12-31T21:00:00.000Z"
+  },
+  "beneficiary": "xxxx",
+  "comments": "xxxx",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": "xxxxx",
+  "Stage": "الاخيرة",
+  "LevelPerformance": "90%",
+  "CompletionRate": "70%",
+  "userId": {
+    "$oid": "6653078531736f98b5976b3d"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT624xxxxxxxxxxx",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-14T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "1999-12-31T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-15T08:17:53.886Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-15T08:17:53.886Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-15T08:17:53.890Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T05:32:02.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667935df6b02dfe5ec6bddff"
+  },
+  "nameProject": "انشاء مركز المراقبة و الرصد لأمن المعلومات (SOC) ومركز ادارة الشبكات والمراقبة (NOC)",
+  "NumberBook": "47/24",
+  "DateBook": {
+    "$date": "2024-06-12T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-07T21:00:00.000Z"
+  },
+  "beneficiary": "الأمانة العامة لمجلس الوزراء",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "التجهيز",
+  "LevelPerformance": "80%",
+  "CompletionRate": "100%",
+  "userId": {
+    "$oid": "6653078531736f98b5976b3d"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT62447/24",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-12T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-24T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-26T11:52:37.049Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-26T11:52:57.794Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-24T09:01:19.967Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T11:52:58.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a6869a3be3b1f6696da68"
+  },
+  "nameProject": "مشروع نقل الوفود والزائرين",
+  "NumberBook": "213",
+  "DateBook": {
+    "$date": "2024-06-24T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-01-06T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة النقل ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "الادارة",
+  "Stage": "التصميم",
+  "LevelPerformance": "10%",
+  "CompletionRate": "20%",
+  "userId": {
+    "$oid": "667a64fcb335dcb7f29baad7"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT624213",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-24T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-02-06T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-25T06:51:05.168Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-25T06:49:13.730Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-25T06:49:13.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T07:31:55.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a6bf3252358fa2f6410a6"
+  },
+  "nameProject": "كاترج ",
+  "NumberBook": "35464dd",
+  "DateBook": {
+    "$date": "2024-06-24T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-17T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة  الصناعة",
+  "comments": "hhh",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "طلبية ",
+  "Stage": "لاتوجد",
+  "LevelPerformance": "40%",
+  "CompletionRate": "50%",
+  "userId": {
+    "$oid": "666d3f111b5006a1efc0c3b3"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT62435464dd",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-17T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-25T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-25T07:04:19.952Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-25T07:04:19.952Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-25T07:04:19.953Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T05:19:54.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a6d04127b81a6dd1bd76d"
+  },
+  "nameProject": "الاتصالات",
+  "NumberBook": "54",
+  "DateBook": {
+    "$date": "2024-01-06T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-06T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الاتصالات",
+  "comments": "مم",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "الادارة",
+  "Stage": "التصميم",
+  "LevelPerformance": "40%",
+  "CompletionRate": "30%",
+  "userId": {
+    "$oid": "667a64fcb335dcb7f29baad7"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT62454",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-01-06T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-05T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-25T07:09:16.000Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-25T07:08:52.994Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-25T07:08:52.998Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T15:04:57.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a73968e405b986ecbd4c4"
+  },
+  "nameProject": "شركة التوزيع النفطي",
+  "NumberBook": "548",
+  "DateBook": {
+    "$date": "2024-06-25T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة النفط العراقية",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "الادارة ",
+  "Stage": "التصميم",
+  "LevelPerformance": "30%",
+  "CompletionRate": "10%",
+  "userId": {
+    "$oid": "666d3f111b5006a1efc0c3b3"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT624548",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-28T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-09T11:16:28.160Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-25T07:36:54.888Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-25T07:36:54.891Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T05:11:16.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667aa878d6882db3d93bf80a"
+  },
+  "nameProject": "مشروع مشترك",
+  "NumberBook": "83759239",
+  "DateBook": {
+    "$date": "2024-06-24T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-08T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الصناعة",
+  "comments": "ااا",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "كشف موقعي",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "667aa878d6882db3d93bf808"
+  },
+  "Code": "CO_IT_FA_CS_PO062483759239",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-24T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-29T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-25T11:22:32.317Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-25T11:22:32.318Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-25T11:22:32.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T06:08:42.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667bc823faa8ddf12d0b13f7"
+  },
+  "nameProject": "مناقصة وزارة الداخلية",
+  "NumberBook": "546",
+  "DateBook": {
+    "$date": "2024-02-01T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-06T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "66561670aec1eeddfcaa989b"
+  },
+  "MethodOption": "الادارة",
+  "Stage": "التصميم",
+  "LevelPerformance": "80%",
+  "CompletionRate": "50%",
+  "userId": {
+    "$oid": "667a64fcb335dcb7f29baad7"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT624546",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-02-01T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-06T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-26T07:49:55.853Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-26T07:49:55.853Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-26T07:49:55.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T08:00:41.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667bdd145611e31989735936"
+  },
+  "nameProject": "مشروع  السيطرة والنضم",
+  "NumberBook": "48970354",
+  "DateBook": {
+    "$date": "2024-06-25T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-28T21:00:00.000Z"
+  },
+  "beneficiary": "محافظة البصرة",
+  "comments": "لاتوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "لاتوجد",
+  "LevelPerformance": "10%",
+  "CompletionRate": "30%",
+  "userId": {
+    "$oid": "666016657705b4584972f197"
+  },
+  "DepartmentID": {
+    "$oid": "662a313ad8489214983899e3"
+  },
+  "Code": "CS62448970354",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-25T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-28T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-26T09:19:16.625Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-26T09:19:16.625Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-26T09:19:16.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T08:00:41.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811d3325ea9af415f3756d"
+  },
+  "nameProject": "مشروع مشترك",
+  "NumberBook": "769443544",
+  "DateBook": {
+    "$date": "2024-06-17T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-16T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الصناعة",
+  "comments": "ggg",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "كشف موقعي",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "66811d3325ea9af415f3756b"
+  },
+  "Code": "IT_CO_FA_CS0624769443544",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-24T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-30T08:54:11.582Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-30T08:54:11.582Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-30T08:54:11.583Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T08:00:41.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681311b070ddb13e3ec4a72"
+  },
+  "nameProject": "الادلة الجنائية",
+  "NumberBook": "1011",
+  "DateBook": {
+    "$date": "2024-06-12T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-27T21:00:00.000Z"
+  },
+  "beneficiary": " وزارة الداخلية",
+  "comments": "العمل على المناقصة بطيئ جداً",
+  "WorkNatural": {
+    "$oid": "6664339749d50e42a73b2908"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "تسعير العروض",
+  "LevelPerformance": "10%",
+  "CompletionRate": "80%",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "6681311b070ddb13e3ec4a70"
+  },
+  "Code": "CO_IT06241011",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-13T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-06-30T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-06-30T10:19:07.862Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-06-30T10:19:07.862Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-30T10:19:07.865Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T05:12:41.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6682499176717d573dd93b12"
+  },
+  "nameProject": "مشروع جديد",
+  "NumberBook": "YYYY453789yy",
+  "DateBook": null,
+  "DateClose": null,
+  "beneficiary": "محافظة البصرةff",
+  "comments": "لاتوجد",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "667fe24a1d1710337daccd84",
+  "Stage": "لاتوجد",
+  "LevelPerformance": "50%",
+  "CompletionRate": "50%",
+  "userId": {
+    "$oid": "666d3f111b5006a1efc0c3b3"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT724YYYY453789yy",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-30T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-02T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-01T06:15:45.326Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-01T06:15:45.326Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-01T06:15:45.326Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T07:39:01.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6682617c887204721a3fdb64"
+  },
+  "nameProject": "كاترج",
+  "NumberBook": "3546488",
+  "DateBook": {
+    "$date": "2024-06-30T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-30T21:00:00.000Z"
+  },
+  "beneficiary": "SASDsXZ",
+  "comments": "ggg",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "667fe24a1d1710337daccd84",
+  "Stage": "لاتوجد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "66824d8476717d573dd93c91"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7243546488",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-06-30T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-08T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-01T07:57:48.066Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-01T07:57:48.066Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-01T07:57:48.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T07:42:27.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6682768d0728be8242eceaf5"
+  },
+  "nameProject": "hg",
+  "NumberBook": "svfds",
+  "DateBook": {
+    "$date": "2024-06-30T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-02T21:00:00.000Z"
+  },
+  "beneficiary": "dfvdf",
+  "comments": "df",
+  "WorkNatural": {
+    "$oid": "66561670aec1eeddfcaa989b"
+  },
+  "MethodOption": "667fe2991d1710337daccda2",
+  "Stage": "dfs",
+  "LevelPerformance": "20%",
+  "CompletionRate": "0% ",
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "Code": "FA724svfds",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-01T09:28:48.118Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-01T09:27:41.560Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-01T09:27:41.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T07:42:27.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683cb995591cebbe4081e4c"
+  },
+  "nameProject": "جهاز المخابرات الوطني العراقي ",
+  "NumberBook": "341/4",
+  "DateBook": {
+    "$date": "2024-06-11T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-02T21:00:00.000Z"
+  },
+  "beneficiary": "جهاز المخابرات الوطني العراقي ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "667fe23e1d1710337daccd81",
+  "Stage": "التسعير",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT724341/4",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-01T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-03T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-02T09:49:33.533Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-02T09:42:49.260Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-02T09:42:49.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T11:22:07.363Z"
+  },
+  "__v": 0,
+  "userId": {
+    "$oid": "66824d8476717d573dd93c91"
+  }
+},
+{
+  "_id": {
+    "$oid": "668636e658bc02d48dfc8ad3"
+  },
+  "nameProject": "انشاء مركز المراقبة والرصد لامن المعلومات (soc)ومركز ادارة الشبكات والمراقبة (noc)",
+  "NumberBook": "47/24",
+  "DateBook": {
+    "$date": "2024-02-05T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-08-06T21:00:00.000Z"
+  },
+  "beneficiary": "الامانة العامة لمجلس الوزراء ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe23e1d1710337daccd81"
+  },
+  "Stage": "النهاية",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT72447/24",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-05T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-14T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-23T08:25:31.805Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-04T05:45:10.239Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-04T05:45:10.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:25:31.978Z"
+  },
+  "__v": 0,
+  "ProjectTotalPrice": 0
+},
+{
+  "_id": {
+    "$oid": "668ad7e49534199208d39108"
+  },
+  "nameProject": "مشروع مشترك",
+  "NumberBook": "83759239900",
+  "DateBook": {
+    "$date": "2024-07-17T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-25T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الصناعة",
+  "comments": "ff",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "مناقصة",
+  "Stage": "كشف موقعي",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "DepartmentID": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "MutualProjectId": {
+    "$oid": "668ad7e49534199208d39106"
+  },
+  "Code": "CO_FA_CS_PO072483759239900",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-06T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-24T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-07T18:01:08.610Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-07T18:01:08.610Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-07T18:01:08.610Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:30.686Z"
+  },
+  "__v": 0,
+  "ProjectTotalPrice": 0
+},
+{
+  "_id": {
+    "$oid": "668b7d86e68f314c8f6a4494"
+  },
+  "nameProject": "تجربة مشروع الاتصالات",
+  "NumberBook": "3421352345",
+  "DateBook": {
+    "$date": "2024-07-07T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-10T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الاتصالات",
+  "comments": "gggg",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "667fe23e1d1710337daccd81",
+  "Stage": "كشف موقعي",
+  "LevelPerformance": "20%",
+  "CompletionRate": "0% ",
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7243421352345",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-07T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-08T05:47:50.965Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-08T05:47:50.965Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T05:47:50.966Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:30.965Z"
+  },
+  "__v": 0,
+  "userId": {
+    "$oid": "668ba2ceaf8969cc874aac88"
+  },
+  "ProjectTotalPrice": 0
+},
+{
+  "_id": {
+    "$oid": "668bc609b927f065baf480ac"
+  },
+  "nameProject": "ss",
+  "NumberBook": "dqwdew",
+  "DateBook": {
+    "$date": "2024-07-07T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "beneficiary": "سسس",
+  "comments": "qweqw",
+  "WorkNatural": {
+    "$oid": "66561670aec1eeddfcaa989b"
+  },
+  "MethodOption": "667fe24a1d1710337daccd84",
+  "Stage": "كشف",
+  "LevelPerformance": "40%",
+  "CompletionRate": "30%",
+  "userId": {
+    "$oid": "668ba23a2ca56a93254661c2"
+  },
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO724dqwdew",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-07T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-08T11:06:32.367Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-08T10:57:13.534Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T10:57:13.536Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:31.250Z"
+  },
+  "__v": 0,
+  "ProjectTotalPrice": 0
+},
+{
+  "_id": {
+    "$oid": "668bc9afb927f065baf483bb"
+  },
+  "nameProject": "كاترج",
+  "NumberBook": "YYYY55",
+  "DateBook": {
+    "$date": "2024-07-07T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة  الصناعة",
+  "comments": "55",
+  "WorkNatural": {
+    "$oid": "6656164aaec1eeddfcaa9883"
+  },
+  "MethodOption": "667fe24a1d1710337daccd84",
+  "Stage": "لاتوجد",
+  "LevelPerformance": "10%",
+  "CompletionRate": "10%",
+  "userId": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO724YYYY55",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-08T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-08T11:12:47.742Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-08T11:12:47.742Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T11:12:47.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:31.528Z"
+  },
+  "__v": 0,
+  "ProjectTotalPrice": 0
+},
+{
+  "_id": {
+    "$oid": "668ce78755de2525af585fc3"
+  },
+  "nameProject": "تطبيق الخدمات الحكومية الشاملة ",
+  "NumberBook": "46/24",
+  "DateBook": {
+    "$date": "2024-06-22T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-09T21:00:00.000Z"
+  },
+  "beneficiary": "الامانةالعامة لمجلس الوزراء ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": "667fe23e1d1710337daccd81",
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT72446/24",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-09T08:15:03.995Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-09T07:32:23.959Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-09T07:32:23.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T08:21:38.501Z"
+  },
+  "__v": 0,
+  "ProjectTotalPrice": 0
+},
+{
+  "_id": {
+    "$oid": "6692207a7ee6b21d5bb6d46b"
+  },
+  "nameProject": "هيأة الاحماية الاجتماعية",
+  "NumberBook": "38",
+  "DateBook": {
+    "$date": "2024-06-30T21:00:00.000Z"
+  },
+  "DateClose": null,
+  "beneficiary": "وزارة العمل للشؤون الاجتماعية ",
+  "comments": "لا يوجد",
+  "WorkNatural": {
+    "$oid": "66921f457ee6b21d5bb6d427"
+  },
+  "MethodOption": "667fe23e1d1710337daccd81",
+  "Stage": "تقديم عرض سعري",
+  "LevelPerformance": "80%",
+  "CompletionRate": "90%",
+  "userId": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO72438",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": true,
+  "dateSendTHod": {
+    "$date": "2024-07-13T06:36:42.528Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-13T06:36:42.528Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-13T06:36:42.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T08:21:39.458Z"
+  },
+  "__v": 0,
+  "ProjectTotalPrice": 0
+},
+{
+  "_id": {
+    "$oid": "6698e61df8741642aa4a2eb7"
+  },
+  "nameProject": "تجهيز طابعات ",
+  "NumberBook": "7140/3",
+  "DateBook": {
+    "$date": "2024-07-16T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-21T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية /مديرية الاحوال المدنية الجوازات والاقامة /مديرية احوال بغداد /الكرخ /لجنة المشتريات ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": "667fe24a1d1710337daccd84",
+  "Stage": "10%",
+  "LevelPerformance": "100%",
+  "CompletionRate": "50%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7247140/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "ProjectTotalPrice": 0,
+  "dateSendTHod": {
+    "$date": "2024-07-18T09:59:59.127Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-18T09:53:33.469Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T09:53:33.470Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T09:59:59.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698f23bf8741642aa4a3555"
+  },
+  "nameProject": "تجهيز طابعات ",
+  "NumberBook": "7141/3",
+  "DateBook": {
+    "$date": "2024-07-16T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-21T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": "667fe24a1d1710337daccd84",
+  "Stage": "لا يوجد",
+  "LevelPerformance": "60%",
+  "CompletionRate": "60%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7247141/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "ProjectTotalPrice": 0,
+  "dateSendTHod": {
+    "$date": "2024-07-18T10:47:04.881Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-18T10:45:15.195Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T10:45:15.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T10:47:05.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669cb0a78f54b30ae151a9ed"
+  },
+  "nameProject": "عرض فني ",
+  "NumberBook": "3/7153",
+  "DateBook": {
+    "$date": "2024-07-21T07:00:00.000Z"
+  },
+  "DateClose": null,
+  "beneficiary": "وزارة الصحة /دائرة مدينة الطب التعليمي/مستشفى الحروق التخصصي ",
+  "comments": "لا توجد",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": "667fe24a1d1710337daccd84",
+  "Stage": "لا توجد",
+  "LevelPerformance": "10%",
+  "CompletionRate": "10%",
+  "userId": {
+    "$oid": "668ba1ea2ca56a932546617b"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7243/7153",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-20T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-25T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "ProjectTotalPrice": 0,
+  "dateSendTHod": {
+    "$date": "2024-07-23T06:20:47.241Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-21T06:54:31.066Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-21T06:54:31.071Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:20:47.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "nameProject": "مشروع النقل البري ",
+  "NumberBook": "5131/3",
+  "DateBook": {
+    "$date": "2024-05-10T21:00:00.000Z"
+  },
+  "DateClose": null,
+  "beneficiary": "وزارة النقل",
+  "comments": "لاتوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "تقديم عرض سعري",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7245131/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-20T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "ProjectTotalPrice": 0,
+  "dateSendTHod": {
+    "$date": "2024-07-23T08:18:05.642Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-22T08:55:20.196Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T08:55:20.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:18:05.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "nameProject": "تجهيز شاشات ",
+  "NumberBook": "414/4",
+  "DateBook": {
+    "$date": "2024-07-21T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية/مديرية تحقيق الادلة الجنائية",
+  "comments": "  /",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": "667fe24a1d1710337daccd84",
+  "Stage": "    /",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "Code": "FA724414/4",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": true,
+  "startTime": {
+    "$date": "2024-07-21T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "ProjectTotalPrice": 0,
+  "dateSendTHod": {
+    "$date": "2024-07-22T19:16:09.096Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-23T07:53:23.310Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T09:26:13.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:53:23.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e32aa82aa25f266facb9f"
+  },
+  "nameProject": "المديرية العامة للشؤون الادارية / قسم التجهيزات ",
+  "NumberBook": "7210/3",
+  "DateBook": {
+    "$date": "2024-07-21T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة التربية / المديرية العامة للشؤون الادارية / قسم التجهيزات ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "Code": "PO7247210/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-21T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-23T05:47:01.024Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-23T07:23:30.613Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T10:21:30.959Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:23:30.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "nameProject": "مركز الهيأة والتشكيلات التابعة لها بنظام اداري ومالي متكامل باسلوب ERP -SYSTEM",
+  "NumberBook": "هـ ت ح /2024/2",
+  "DateBook": {
+    "$date": "2024-07-15T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-17T21:00:00.000Z"
+  },
+  "beneficiary": "هيأة التصنيع الحربي  ",
+  "comments": "لا يوجد ",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe23e1d1710337daccd81"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT724هـ ت ح /2024/2",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-24T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-23T08:18:34.249Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-23T06:01:11.164Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:01:11.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:18:34.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4d65eac8a75a4da3f805"
+  },
+  "nameProject": "GFGTFGFGF",
+  "NumberBook": "444",
+  "DateBook": null,
+  "DateClose": null,
+  "beneficiary": "UYHYTY",
+  "comments": "GH ",
+  "WorkNatural": {
+    "$oid": "6664339749d50e42a73b2908"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO724444",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-23T06:32:01.445Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-23T06:27:49.597Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:27:49.598Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:32:01.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "nameProject": "مديرية تحقيق الادلة الجنائية ",
+  "NumberBook": "417/4",
+  "DateBook": {
+    "$date": "2024-07-21T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-25T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية / مديرية تحقيق الادلة الجنائية",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "الاولى ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "20%",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "Code": "PO724417/4",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-24T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-23T09:47:38.473Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-23T07:22:37.699Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:22:37.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:47:38.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "nameProject": "مشروع (SUPPLYING DATA CENTER HARDWARE AND SOFTWARE REQUIREMENT FOR SOCIAL PROTECTION COMMISSION (SPC)) ",
+  "NumberBook": "(178824p) ",
+  "DateBook": {
+    "$date": "2024-07-19T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-20T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة العمل والشؤون الاجتماعية / هيأة الحماية الاجتماعية ",
+  "comments": "لا يوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe23e1d1710337daccd81"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT724(178824p) ",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-23T08:22:47.965Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-23T07:51:38.479Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:51:38.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:22:48.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a084443f1bfebfc46724d6"
+  },
+  "nameProject": "تجهيز مواد",
+  "NumberBook": "421/1",
+  "DateBook": null,
+  "DateClose": null,
+  "beneficiary": "وزارة الداخلية /وكالة الوزراء لشوون الشرطة /مديرية شرطة صلاح الدين ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO724421/1",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-25T10:16:59.703Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-24T04:34:12.810Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T04:34:12.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:16:59.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a086383f1bfebfc4672519"
+  },
+  "nameProject": "تجهيز مواد",
+  "NumberBook": "422/1",
+  "DateBook": null,
+  "DateClose": null,
+  "beneficiary": "وزارة الداخلية /وكالة الوزراء لشوون الشرطة /مديرية شرطة صلاح الدين /مديرية الشوون الادارية والمالية ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO724422/1",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-24T04:42:32.836Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-24T04:42:32.836Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T04:42:32.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:34:54.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08c213f1bfebfc46725f1"
+  },
+  "nameProject": "امكانية تجهيز ",
+  "NumberBook": "420",
+  "DateBook": null,
+  "DateClose": null,
+  "beneficiary": "وزارة المالية /مصرف الرافدين ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO724420",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-25T11:24:50.628Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-24T05:07:45.280Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:07:45.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:24:50.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "nameProject": "امكانية تجهيز ",
+  "NumberBook": "418/4",
+  "DateBook": null,
+  "DateClose": null,
+  "beneficiary": "وزارة الداخلية /مديرية مكافحة المتفجرات ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO724418/4",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-24T05:11:31.326Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-24T05:11:31.326Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:11:31.326Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:11:31.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0a0d9fe911ab21668b60c"
+  },
+  "nameProject": "كاترج ",
+  "NumberBook": "35464765",
+  "DateBook": {
+    "$date": "2024-07-15T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-23T21:00:00.000Z"
+  },
+  "beneficiary": "محافظة البصرة",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "66561670aec1eeddfcaa989b"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "ASDa",
+  "LevelPerformance": "10%",
+  "CompletionRate": "0% ",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668ccd5de4b7b1a868d9149e"
+    },
+    {
+      "$oid": "6692125fbcec151d25cee73d"
+    }
+  ],
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT72435464765",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-24T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T17:34:22.882Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-24T06:36:09.882Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T06:36:09.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T17:34:22.963Z"
+  },
+  "__v": 0,
+  "isCompleteProject": true
+},
+{
+  "_id": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "nameProject": "شراء موارد ",
+  "NumberBook": "3/7221",
+  "DateBook": {
+    "$date": "2024-07-24T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-29T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية /وكالة الوزراء لشوون الاستخبارات والتحقيقات الاتحادية /مديرية التقنيات والمعلومات ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7243/7221",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-25T10:09:54.011Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-24T07:56:13.678Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T07:56:13.683Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:09:54.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "nameProject": "توفير موارد ",
+  "NumberBook": "3/7220",
+  "DateBook": {
+    "$date": "2024-07-24T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-29T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة العمل والشوون الاجتماعية /المركز الوطني للصحة والسلامة المهنية ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668ba343af8969cc874aaced"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7243/7220",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-24T09:11:51.739Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-24T09:11:51.739Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:11:51.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:11:51.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "nameProject": "تجهيز مواد منظومة الانذار والاطفاء",
+  "NumberBook": "423/22",
+  "DateBook": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية/مديرية الاحوال المدنية والجوازات والاقامة",
+  "comments": "/",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "/",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "Code": "FA724423/22",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-23T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T06:36:36.852Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-24T11:13:50.305Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T11:13:50.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:36:37.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f241db88798413bd3cb1"
+  },
+  "nameProject": "تجهيز ",
+  "NumberBook": "7237/3",
+  "DateBook": {
+    "$date": "2024-07-24T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-29T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية /وكالة الوزراء لشوون الشرطة /مديرية شرطة محافظة صلاح الدين /مديرية الشوون الادارية والمالية ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668ba387af8969cc874aad22"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7247237/3",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-25T06:35:45.213Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-25T06:35:45.213Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:35:45.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:35:45.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f3c5db88798413bd3d92"
+  },
+  "nameProject": "م/تجهيز",
+  "NumberBook": "7230/3",
+  "DateBook": {
+    "$date": "2024-07-24T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-29T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية/وكالة الوزراء لشوون الشرطة /قيادة شرطة محافظة بابل  /مديرية شوون البنى التحتية ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668ba387af8969cc874aad22"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7247230/3",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-25T06:42:13.831Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-25T06:42:13.831Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:42:13.832Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:42:13.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "nameProject": "م/تجهيز مواد ",
+  "NumberBook": "7231/3",
+  "DateBook": null,
+  "DateClose": null,
+  "beneficiary": "وزارة الدفاع /مقر الوحدة 202822",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668ba1ea2ca56a932546617b"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7247231/3",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-25T06:48:54.443Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-25T06:48:54.443Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:48:54.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:48:54.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22d1efc45007e64d2b480"
+  },
+  "nameProject": "تجهيز مواد ",
+  "NumberBook": "7235/3",
+  "DateBook": {
+    "$date": "2024-07-24T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-29T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة النفط/شركة توزيع المنتجات النفطية /فرع كركوك ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7247235/3",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-25T10:46:54.535Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-25T10:46:54.535Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:46:54.536Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:46:54.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a498b052e22c7e562db61c"
+  },
+  "nameProject": "تجهيز مواد منظومة انذار واطفاء ",
+  "NumberBook": "58",
+  "DateBook": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-30T21:00:00.000Z"
+  },
+  "beneficiary": "دائرة البطاقة الوطنية",
+  "comments": "/",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "/",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "Code": "FA72458",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-30T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T06:50:24.277Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T06:50:24.277Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:50:24.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:51:59.752Z"
+  },
+  "__v": 0,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668cc80fd642207426ab9c0d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "nameProject": "لجنة المشتريات المركزية ",
+  "NumberBook": "7236/3",
+  "DateBook": {
+    "$date": "2024-07-23T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "beneficiary": "سلطة الطيران المدني / لجنة المشتريات المركزية ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "الثانية",
+  "LevelPerformance": "100%",
+  "CompletionRate": "20%",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "Code": "PO7247236/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-29T09:24:24.775Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T07:43:42.459Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:43:42.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:24:24.984Z"
+  },
+  "__v": 1,
+  "ManyPersonChrgeId": [],
+  "isCompleteProject": false
+},
+{
+  "_id": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "nameProject": "مديرية الاحوال المدنية والجوازات والاقامة / مديرية الاحوال المدنية والجوازات والاقامة في المثنى ",
+  "NumberBook": "423/2",
+  "DateBook": {
+    "$date": "2024-07-23T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية /مديرية الاحوال المدنية والجوازات والاقامة / مديرية الاحوال المدنية والجوازات والاقامة في المثنى ",
+  "comments": "لا يوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "الاولى ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "60%",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "Code": "PO724423/2",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T08:04:34.395Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T07:52:37.546Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:52:37.547Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:04:34.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a7cd52e22c7e562dbc61"
+  },
+  "nameProject": "منظومة التزييف الفيديوي",
+  "NumberBook": "200/4",
+  "DateBook": {
+    "$date": "2024-04-01T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-04-24T21:00:00.000Z"
+  },
+  "beneficiary": "جهاز المخابرات الوطني ",
+  "comments": "لا يوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT724200/4",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T08:09:40.647Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T07:54:53.973Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:54:53.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:09:40.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4aa345d402e8635f62e0f"
+  },
+  "nameProject": "مكتب الوزير ",
+  "NumberBook": "4181/3",
+  "DateBook": {
+    "$date": "2024-04-24T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-04-24T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية /مكتب الوزير /مديرية شؤون الشركات الامنية ",
+  "comments": "لا يوجد ",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7244181/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T08:08:59.260Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T08:05:08.213Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:05:08.214Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:08:59.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4abf15d402e8635f63022"
+  },
+  "nameProject": "جهاز ارشفة ",
+  "NumberBook": "4084/3",
+  "DateBook": {
+    "$date": "2024-04-16T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-04-26T21:00:00.000Z"
+  },
+  "beneficiary": "ديوان محافظة بابل /مديرية بلدية الامام",
+  "comments": "لا يوجد ",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7244084/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T08:14:54.086Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T08:12:33.667Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:12:33.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:14:54.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4aced5d402e8635f631a0"
+  },
+  "nameProject": "مكتب الوزير ",
+  "NumberBook": "228/4",
+  "DateBook": {
+    "$date": "2024-04-22T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-04-26T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية /مكتب الوزير / مديرية الهويات واجازات السلاح ",
+  "comments": "لا يوجد ",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT724228/4",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T08:18:30.439Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T08:16:45.678Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:16:45.678Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:18:30.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4af125d402e8635f634ac"
+  },
+  "nameProject": "اجهزة unifi",
+  "NumberBook": "5090/3",
+  "DateBook": {
+    "$date": "2024-05-08T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-05-10T21:00:00.000Z"
+  },
+  "beneficiary": "هيئة الاعلام والاتصالات/ الدائرة الادارية والمالية ",
+  "comments": "لا يوجد ",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7245090/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T08:54:34.972Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T08:25:54.909Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:25:54.910Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:54:35.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b77c5d402e8635f63823"
+  },
+  "nameProject": "ابو غريب ",
+  "NumberBook": "بلا ",
+  "DateBook": {
+    "$date": "2024-07-24T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-29T21:00:00.000Z"
+  },
+  "beneficiary": "دائرة البطاقة الوطنية ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "الاولى ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "70%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "Code": "PO724بلا ",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T10:02:12.089Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T09:01:48.571Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:01:48.571Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:02:12.384Z"
+  },
+  "__v": 1,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668d7a6e8ec786e2ed573def"
+    }
+  ],
+  "isCompleteProject": false
+},
+{
+  "_id": {
+    "$oid": "66a4b7875d402e8635f6383a"
+  },
+  "nameProject": "ان تي فايروس كاسبر سكاي ",
+  "NumberBook": "5162/3",
+  "DateBook": {
+    "$date": "2024-05-15T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-05-17T21:00:00.000Z"
+  },
+  "beneficiary": "ديوان الوقف الشيعي /الدائرة الادارية والمالية ",
+  "comments": "لا يوجد ",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7245162/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T09:03:41.754Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T09:01:59.394Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:01:59.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:03:41.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4cefcae3bafb88d69a3ec"
+  },
+  "nameProject": "Samsung  galaxy tab s9 uitra ",
+  "NumberBook": "289",
+  "DateBook": {
+    "$date": "2024-05-15T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-05-18T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة التعليم العالي والبحث العلمي /الدائرة الاعمار والمشاريع ",
+  "comments": "لا يوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT724289",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T10:45:51.240Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T10:42:04.508Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T10:42:04.513Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T10:45:51.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d1d5ae3bafb88d69a53c"
+  },
+  "nameProject": "ان تي فايروس كاسبر سكاي ",
+  "NumberBook": "5303/3",
+  "DateBook": {
+    "$date": "2024-05-26T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "beneficiary": "ديوان الوقف الشيعي /الدائرة الادارية والمالية ",
+  "comments": "لا يوجد ",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7245303/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T10:58:55.788Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T10:54:13.285Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T10:54:13.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T10:58:55.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d570ae3bafb88d69a636"
+  },
+  "nameProject": "نظام التامين الشامل ",
+  "NumberBook": "5146/3",
+  "DateBook": {
+    "$date": "2024-05-14T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-08T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الصحة /هيأة الضمان الصحي /صندون الضمان ",
+  "comments": "لا يوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe23e1d1710337daccd81"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "UserIdInsertProject": null,
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7245146/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "dateSendTHod": {
+    "$date": "2024-07-27T17:31:37.614Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-27T11:09:36.434Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:09:36.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T17:31:37.792Z"
+  },
+  "__v": 1,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668ba672dca4c808519e0b37"
+    },
+    {
+      "$oid": "6692125fbcec151d25cee73d"
+    }
+  ],
+  "isCompleteProject": false
+},
+{
+  "_id": {
+    "$oid": "66a5dc17340eeed58c70c809"
+  },
+  "nameProject": "وكالة الوزارة لشؤون الشرطة / قيادة شرطة محافظة المثنى / مكتب القائد  ",
+  "NumberBook": "7252/3",
+  "DateBook": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-31T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية / وكالة الوزارة لشؤون الشرطة / قيادة شرطة محافة المثنى / مكتب القائد  ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "الاولى ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "80%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668d7a6e8ec786e2ed573def"
+    }
+  ],
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "Code": "PO7247252/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-26T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "isCompleteProject": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T05:57:07.309Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-28T05:50:15.635Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T05:50:15.636Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:57:07.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "nameProject": "تجهيز شاشات",
+  "NumberBook": "1257",
+  "DateBook": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-29T21:00:00.000Z"
+  },
+  "beneficiary": "سلطةالطيران المدني",
+  "comments": "/",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "/",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668cc80fd642207426ab9c0d"
+    }
+  ],
+  "DepartmentID": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "Code": "FA7241257",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-29T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "isCompleteProject": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T07:18:40.301Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-28T06:38:28.528Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T06:38:28.534Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e9c2e93a5f020511065a"
+  },
+  "nameProject": "المركز الوطني للصحة والسلامة المهنية ",
+  "NumberBook": "7220/3",
+  "DateBook": {
+    "$date": "2024-07-23T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-28T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة العمل والشؤون الاجتماعية / المركز الوطني للصحة والسلامة المهنية  ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "الاولى ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668d7a6e8ec786e2ed573def"
+    }
+  ],
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "Code": "PO7247220/3",
+  "OfferPrice": 1,
+  "SendProject": true,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "isCompleteProject": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T07:13:35.723Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-28T06:48:34.153Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T06:48:34.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:13:35.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eba2e93a5f02051137ca"
+  },
+  "nameProject": "وكالة الوزارة لشؤون الشرطة / مديرية شرطة صلاح الدين ",
+  "NumberBook": "421/1",
+  "DateBook": {
+    "$date": "2024-07-22T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية / وكالة الوزارة لشؤون الشرطة / مديرية شرطة صلاح الدين ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "الاولى ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "30%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668d7a138ec786e2ed573dca"
+    }
+  ],
+  "DepartmentID": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "Code": "PO724421/1",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-07-27T21:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "isCompleteProject": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T06:56:34.587Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-28T06:56:34.587Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T06:56:34.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:56:34.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a60096da25ee2b3b02cb65"
+  },
+  "nameProject": "م/امكانية تجهيز ",
+  "NumberBook": "426/4",
+  "DateBook": {
+    "$date": "2024-07-28T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-08-03T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية /قيادة شرطة المثنى ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668ba343af8969cc874aaced"
+    }
+  ],
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO724426/4",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": {
+    "$date": "2024-07-28T07:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2024-08-03T07:00:00.000Z"
+  },
+  "delayProjectCheck": false,
+  "isCompleteProject": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T08:25:58.167Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-28T08:25:58.167Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T08:25:58.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T08:27:50.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a60ab2da25ee2b3b02cef5"
+  },
+  "nameProject": "تصميم وتنفيذ نظام حوكمة ديوان بابل ",
+  "NumberBook": "5080/3",
+  "DateBook": {
+    "$date": "2024-05-07T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-05-14T21:00:00.000Z"
+  },
+  "beneficiary": "محافظة بابل ",
+  "comments": "لا يوجد ",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe23e1d1710337daccd81"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [],
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT7245080/3",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "isCompleteProject": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T09:09:06.823Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-28T09:09:06.823Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:09:06.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:09:06.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a60f75da25ee2b3b02d018"
+  },
+  "nameProject": "تجهيز مواد ",
+  "NumberBook": "7254/3",
+  "DateBook": {
+    "$date": "2024-07-28T07:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-08-03T07:00:00.000Z"
+  },
+  "beneficiary": "وزارة الداخلية /وكالة الوزراء لشوون الشرطة /قيادة شرطة محافظة المثنى /مكتب القائد ",
+  "comments": "",
+  "WorkNatural": {
+    "$oid": "6664340549d50e42a73b291e"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "لا يوحد",
+  "LevelPerformance": "0% ",
+  "CompletionRate": "0% ",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [
+    {
+      "$oid": "668ba387af8969cc874aad22"
+    }
+  ],
+  "DepartmentID": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "Code": "CO7247254/3",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "isCompleteProject": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T09:29:25.956Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-28T09:29:25.956Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:29:25.957Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:29:25.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "nameProject": "السيطرة الالمترونية لمجلس المثنى ",
+  "NumberBook": "24",
+  "DateBook": {
+    "$date": "2024-05-27T21:00:00.000Z"
+  },
+  "DateClose": {
+    "$date": "2024-06-03T21:00:00.000Z"
+  },
+  "beneficiary": "مجلس المثنى / مكتب رئيس المجلس ",
+  "comments": "لا يوجد",
+  "WorkNatural": {
+    "$oid": "660e4167afa046270c9b49c4"
+  },
+  "MethodOption": {
+    "$oid": "667fe24a1d1710337daccd84"
+  },
+  "Stage": "النهائية ",
+  "LevelPerformance": "100%",
+  "CompletionRate": "100%",
+  "userId": null,
+  "userIdOfHOd": null,
+  "ManyPersonChrgeId": [],
+  "DepartmentID": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "Code": "IT72424",
+  "OfferPrice": 1,
+  "SendProject": false,
+  "SendProjectMutual": false,
+  "sendProjectToManger": false,
+  "startTime": null,
+  "endTime": null,
+  "delayProjectCheck": false,
+  "isCompleteProject": false,
+  "dateSendTHod": {
+    "$date": "2024-07-28T09:44:18.303Z"
+  },
+  "dateSendToManger": {
+    "$date": "2024-07-28T09:44:18.303Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:44:18.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:44:18.305Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "taskDescriptionStatic": "المناقصات ",
+  "createdAt": {
+    "$date": "2024-07-25T10:30:20.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:29:20.611Z"
+  },
+  "__v": 0,
+  "ReportsDailyId": {
+    "$oid": "66a23710310d4ff63206762c"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "taskDescriptionStatic": "الاعمال المنفذة خارج اوقات الدوام",
+  "createdAt": {
+    "$date": "2024-07-25T10:30:36.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:29:20.611Z"
+  },
+  "__v": 0,
+  "ReportsDailyId": {
+    "$oid": "66a23710310d4ff63206762c"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "taskDescriptionStatic": "المقترحات",
+  "createdAt": {
+    "$date": "2024-07-25T10:30:44.381Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:29:20.611Z"
+  },
+  "__v": 0,
+  "ReportsDailyId": {
+    "$oid": "66a23710310d4ff63206762c"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "taskDescriptionStatic": "الشكاوى",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-25T10:59:29.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:29:20.611Z"
+  },
+  "__v": 0,
+  "ReportsDailyId": {
+    "$oid": "66a23710310d4ff63206762c"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "taskDescriptionStatic": "المعوقات",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-25T10:59:40.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:29:20.611Z"
+  },
+  "__v": 0,
+  "ReportsDailyId": {
+    "$oid": "66a23710310d4ff63206762c"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  }
+}]

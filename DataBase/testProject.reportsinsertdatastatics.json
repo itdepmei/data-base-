@@ -1,0 +1,2640 @@
+[{
+  "_id": {
+    "$oid": "66a4a156333ac5c6401ecdeb"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4a155333ac5c6401ecde8"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "مصطفى 56",
+  "createdAt": {
+    "$date": "2024-07-27T07:27:18.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:12:35.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a156333ac5c6401ecded"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4a155333ac5c6401ecde8"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T07:27:18.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:27:18.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a156333ac5c6401ecdef"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4a155333ac5c6401ecde8"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T07:27:18.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:27:18.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a156333ac5c6401ecdf1"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4a155333ac5c6401ecde8"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T07:27:18.284Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:03:28.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a156333ac5c6401ecdf3"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4a155333ac5c6401ecde8"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T07:27:18.339Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:27:18.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ba321b78bd2bb8b60c17"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ba321b78bd2bb8b60c14"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:13:22.181Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:13:22.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ba321b78bd2bb8b60c19"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ba321b78bd2bb8b60c14"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:13:22.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:13:22.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ba321b78bd2bb8b60c1b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ba321b78bd2bb8b60c14"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:13:22.302Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:13:22.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ba321b78bd2bb8b60c1d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ba321b78bd2bb8b60c14"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "مصطفى يتكلم كثيرا و  أضافة الكثير من المهام ",
+  "createdAt": {
+    "$date": "2024-07-27T09:13:22.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:15:03.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ba321b78bd2bb8b60c1f"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4ba321b78bd2bb8b60c14"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:13:22.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:13:22.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bb751b78bd2bb8b60c7b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bb751b78bd2bb8b60c78"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:18:45.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:18:45.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bb751b78bd2bb8b60c7d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bb751b78bd2bb8b60c78"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:18:45.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:18:45.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bb751b78bd2bb8b60c7f"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bb751b78bd2bb8b60c78"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:18:45.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:18:45.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bb751b78bd2bb8b60c81"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bb751b78bd2bb8b60c78"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:18:45.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:18:45.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bb751b78bd2bb8b60c83"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bb751b78bd2bb8b60c78"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:18:45.344Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:18:45.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bbd11b78bd2bb8b60cc4"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bbd11b78bd2bb8b60cc1"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:20:17.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:20:17.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bbd11b78bd2bb8b60cc6"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bbd11b78bd2bb8b60cc1"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:20:17.566Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:20:17.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bbd11b78bd2bb8b60cc8"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bbd11b78bd2bb8b60cc1"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:20:17.622Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:20:17.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bbd11b78bd2bb8b60cca"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bbd11b78bd2bb8b60cc1"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:20:17.678Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:20:17.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bbd11b78bd2bb8b60ccc"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bbd11b78bd2bb8b60cc1"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:20:17.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:20:17.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bc50c7c9a6feaede12da"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bc50c7c9a6feaede12d7"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:22:24.272Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:22:24.272Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bc50c7c9a6feaede12dc"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bc50c7c9a6feaede12d7"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:22:24.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:22:24.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bc50c7c9a6feaede12de"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bc50c7c9a6feaede12d7"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:22:24.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:22:24.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bc50c7c9a6feaede12e0"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bc50c7c9a6feaede12d7"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:22:24.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:22:24.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bc50c7c9a6feaede12e2"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4bc50c7c9a6feaede12d7"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T09:22:24.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:22:24.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d40a00f72b8d7d90288e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4d40a00f72b8d7d90288b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T11:03:38.881Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:03:38.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d40a00f72b8d7d902890"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4d40a00f72b8d7d90288b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T11:03:38.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:03:38.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d40a00f72b8d7d902892"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4d40a00f72b8d7d90288b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T11:03:38.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:03:38.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d40b00f72b8d7d902894"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4d40a00f72b8d7d90288b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T11:03:39.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:03:39.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d40b00f72b8d7d902896"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a4d40a00f72b8d7d90288b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T11:03:39.097Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:03:39.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a53a9236bd0d2f650c98b3"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a53a9236bd0d2f650c98b0"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T18:21:06.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T18:21:06.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a53a9236bd0d2f650c98b5"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a53a9236bd0d2f650c98b0"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "العمل على مشروع الاتمتة اللكتروني وأضافة خاصية fullter",
+  "createdAt": {
+    "$date": "2024-07-27T18:21:06.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T18:22:13.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a53a9236bd0d2f650c98b7"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a53a9236bd0d2f650c98b0"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T18:21:06.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T18:21:06.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a53a9236bd0d2f650c98b9"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a53a9236bd0d2f650c98b0"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T18:21:06.359Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T18:21:06.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a53a9236bd0d2f650c98bb"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a53a9236bd0d2f650c98b0"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-27T18:21:06.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T18:21:06.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5db14340eeed58c70c78c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T05:45:56.161Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:45:56.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5db14340eeed58c70c78f"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T05:45:56.341Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:45:56.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5db14340eeed58c70c792"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T05:45:56.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:45:56.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5db14340eeed58c70c794"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T05:45:56.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:45:56.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5db14340eeed58c70c796"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5db13340eeed58c70c789"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T05:45:56.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:45:56.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e043b5c62f702d71613d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e043b5c62f702d71613a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:08:03.284Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:08:03.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e043b5c62f702d71613f"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e043b5c62f702d71613a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:08:03.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:08:03.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e043b5c62f702d716141"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e043b5c62f702d71613a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:08:03.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:08:03.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e043b5c62f702d716143"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e043b5c62f702d71613a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:08:03.446Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:08:03.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e043b5c62f702d716145"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e043b5c62f702d71613a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:08:03.512Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:08:03.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e0adb5c62f702d716543"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e0adb5c62f702d71653e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:09:49.575Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:09:49.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e0adb5c62f702d716546"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e0adb5c62f702d71653e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:09:49.627Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:09:49.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e0adb5c62f702d716549"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e0adb5c62f702d71653e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:09:49.678Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:09:49.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e0adb5c62f702d71654c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e0adb5c62f702d71653e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:09:49.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:09:49.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5e0adb5c62f702d71654e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5e0adb5c62f702d71653e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T06:09:49.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:09:49.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eca6e93a5f0205114695"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T07:00:54.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:00:54.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eca6e93a5f0205114699"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T07:00:54.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:00:54.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eca7e93a5f02051146a3"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T07:00:55.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:00:55.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eca7e93a5f02051146a6"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T07:00:55.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:00:55.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eca7e93a5f02051146af"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a5eca6e93a5f020511468a"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T07:00:55.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:00:55.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61689da25ee2b3b0310d2"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a61689da25ee2b3b0310cd"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668cc8c5d642207426ab9c69"
+  },
+  "Notes": "البحث عن مناقصة لوزارة التخطيط والعدل وديوان الوقف المسيحي وهيئة النزاهة ووزارة الصحة وتشكيلاتها من الساعة 11:00-11:30 ",
+  "createdAt": {
+    "$date": "2024-07-28T09:59:37.368Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:17:41.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61689da25ee2b3b0310d8"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a61689da25ee2b3b0310cd"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668cc8c5d642207426ab9c69"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T09:59:37.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:59:37.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61689da25ee2b3b0310df"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a61689da25ee2b3b0310cd"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668cc8c5d642207426ab9c69"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T09:59:37.785Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:59:37.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61689da25ee2b3b0310e1"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a61689da25ee2b3b0310cd"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668cc8c5d642207426ab9c69"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T09:59:37.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:59:37.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a6168ada25ee2b3b0310e4"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a61689da25ee2b3b0310cd"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668cc8c5d642207426ab9c69"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-28T09:59:38.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:59:38.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7277fe8737c59340815ae"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7277ee8737c59340815ab"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:15.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:15.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7277fe8737c59340815b0"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7277ee8737c59340815ab"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:15.223Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:15.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7277fe8737c59340815b2"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7277ee8737c59340815ab"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:15.433Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:15.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7277fe8737c59340815b4"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7277ee8737c59340815ab"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:15.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:15.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7277fe8737c59340815b6"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7277ee8737c59340815ab"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:15.855Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:15.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a727a3e8737c59340815d5"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a727a2e8737c59340815d2"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:51.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:51.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a727a3e8737c59340815d7"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a727a2e8737c59340815d2"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:51.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:51.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a727a3e8737c59340815d9"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a727a2e8737c59340815d2"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:51.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:51.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a727a3e8737c59340815db"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a727a2e8737c59340815d2"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:51.787Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:51.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a727a3e8737c59340815dd"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a727a2e8737c59340815d2"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:24:51.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:24:51.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7297ce8737c5934082684"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:32:44.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:32:44.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7297ce8737c5934082686"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "الاتصال ب(هاني) من شركة بحر الأمواج لايجاد حل بديل لشركة سوفت فلو\nالعمل على تصميم نماذج لوكوات اضافية لنظام المواد الراكدة",
+  "createdAt": {
+    "$date": "2024-07-29T05:32:44.475Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:50:17.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7297ce8737c5934082688"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "نظرا لمراسلتي عدد كبير من الجهات الخارجية بخصوص استحصال العروض السعرية و المشاريع , احتاج الى سيمكارت وهاتف",
+  "createdAt": {
+    "$date": "2024-07-29T05:32:44.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:51:19.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7297ce8737c593408268a"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:32:44.865Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:32:44.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7297de8737c593408268c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a7297be8737c5934082681"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:32:45.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:32:45.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72e1ce8737c59340869cf"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a72e1be8737c59340869ca"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:52:28.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:52:28.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72e1ce8737c59340869d1"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a72e1be8737c59340869ca"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "العمل على مشرو ع المواد الراكدة وتصحيح عملية أدخال البياننات \nوطباعة بيانات الماد الراكدة",
+  "createdAt": {
+    "$date": "2024-07-29T05:52:28.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:59:48.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72e1ce8737c59340869d5"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a72e1be8737c59340869ca"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:52:28.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:52:28.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72e1ce8737c59340869d7"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a72e1be8737c59340869ca"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:52:28.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:52:28.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a72e1ce8737c59340869d9"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a72e1be8737c59340869ca"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-29T05:52:28.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T05:52:28.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87625abcd0f595c94904c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:12:05.556Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:12:05.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87625abcd0f595c94904e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:12:05.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:12:05.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87625abcd0f595c949050"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:12:05.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:12:05.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87626abcd0f595c949052"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:12:06.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:12:06.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87626abcd0f595c949054"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87625abcd0f595c949049"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:12:06.266Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:12:06.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87668abcd0f595c94905a"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87667abcd0f595c949057"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:13:12.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:13:12.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87668abcd0f595c94905c"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87667abcd0f595c949057"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:13:12.250Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:13:12.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87668abcd0f595c94905e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87667abcd0f595c949057"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:13:12.427Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:13:12.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87668abcd0f595c949060"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87667abcd0f595c949057"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:13:12.604Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:13:12.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87668abcd0f595c949062"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87667abcd0f595c949057"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:13:12.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:13:12.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b0aabcd0f595c94e0cc"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b0aabcd0f595c94e0c9"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ba63ddca4c808519e0b0a"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:32:58.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:32:58.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b0babcd0f595c94e0ce"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b0aabcd0f595c94e0c9"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ba63ddca4c808519e0b0a"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:32:59.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:32:59.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b0babcd0f595c94e0d0"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b0aabcd0f595c94e0c9"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ba63ddca4c808519e0b0a"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:32:59.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:32:59.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b0babcd0f595c94e0d2"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b0aabcd0f595c94e0c9"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ba63ddca4c808519e0b0a"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:32:59.376Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:32:59.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b0babcd0f595c94e0d4"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b0aabcd0f595c94e0c9"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ba63ddca4c808519e0b0a"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:32:59.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:32:59.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b1dabcd0f595c94e0f2"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:33:17.266Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:33:17.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b1dabcd0f595c94e0f4"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:33:17.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:33:17.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b1dabcd0f595c94e0f7"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:33:17.616Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:33:17.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b1dabcd0f595c94e0f9"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:33:17.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:33:17.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87b1dabcd0f595c94e0fb"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87b1cabcd0f595c94e0ef"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:33:17.966Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:33:17.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d2fabcd0f595c94fe95"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d2fabcd0f595c94fe7e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:07.890Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:07.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d30abcd0f595c94fea4"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d2fabcd0f595c94fe7e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:08.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:08.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d30abcd0f595c94feac"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d2fabcd0f595c94fe7e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:08.592Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:08.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d30abcd0f595c94feb2"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d2fabcd0f595c94fe7e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:08.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:08.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d31abcd0f595c94fec5"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d2fabcd0f595c94fe7e"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:09.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:09.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d32abcd0f595c94feee"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d32abcd0f595c94fedb"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:10.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:10.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d33abcd0f595c94feff"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d32abcd0f595c94fedb"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:11.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:11.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d33abcd0f595c94ff03"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d32abcd0f595c94fedb"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:11.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:11.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d33abcd0f595c94ff12"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d32abcd0f595c94fedb"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:11.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:11.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d33abcd0f595c94ff19"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d32abcd0f595c94fedb"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:11.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:11.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d33abcd0f595c94ff1b"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff0b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:11.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:11.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d33abcd0f595c94ff1d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff10"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2293c399f8d31f538595f"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:11.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:11.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d34abcd0f595c94ff34"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff0b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:12.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:12.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d34abcd0f595c94ff37"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff10"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2294c399f8d31f5385972"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:12.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:12.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d34abcd0f595c94ff39"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff0b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:12.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:12.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d34abcd0f595c94ff3d"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff10"
+  },
+  "ReportStaticId": {
+    "$oid": "66a22954399f8d31f538597b"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:12.793Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:12.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d34abcd0f595c94ff43"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff0b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:12.893Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:12.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d34abcd0f595c94ff47"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff10"
+  },
+  "ReportStaticId": {
+    "$oid": "66a23011312cd8af2eb1f807"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:12.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:12.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d35abcd0f595c94ff4a"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff0b"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:13.096Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:13.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a87d35abcd0f595c94ff4e"
+  },
+  "ReportsDailyId": {
+    "$oid": "66a87d33abcd0f595c94ff10"
+  },
+  "ReportStaticId": {
+    "$oid": "66a2301c312cd8af2eb1f810"
+  },
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-30T05:42:13.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T05:42:13.196Z"
+  },
+  "__v": 0
+}]

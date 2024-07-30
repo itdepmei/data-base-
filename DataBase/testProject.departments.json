@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "departmentName": "قسم تكنلوجيا المعلومات والبرمجة",
+  "brief": "IT",
+  "createdAt": {
+    "$date": "2024-03-10T08:42:03.843Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T07:56:15.794Z"
+  },
+  "__v": 0,
+  "reciveProject": false,
+  "sendProject": true
+},
+{
+  "_id": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "departmentName": "الاتصالات",
+  "brief": "CO",
+  "sendProject": true,
+  "reciveProject": false,
+  "createdAt": {
+    "$date": "2024-04-18T07:03:28.619Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T07:56:15.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c649be3dc8128621dba5"
+  },
+  "departmentName": "الموارد البشرية",
+  "brief": "HR",
+  "sendProject": true,
+  "reciveProject": false,
+  "createdAt": {
+    "$date": "2024-04-18T07:05:45.844Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T08:21:30.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "departmentName": "قسم الانذار والاطفاء",
+  "brief": "FA",
+  "sendProject": true,
+  "reciveProject": false,
+  "createdAt": {
+    "$date": "2024-04-25T10:29:40.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T08:21:30.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a313ad8489214983899e3"
+  },
+  "departmentName": "قسم السيطرة والنظم",
+  "brief": "CS",
+  "sendProject": false,
+  "reciveProject": false,
+  "createdAt": {
+    "$date": "2024-04-25T10:32:26.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T10:32:26.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "departmentName": "الطاقة",
+  "brief": "PO",
+  "sendProject": false,
+  "reciveProject": false,
+  "createdAt": {
+    "$date": "2024-04-27T08:50:05.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T08:50:05.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "departmentName": "المعاون الفني",
+  "brief": "AS",
+  "sendProject": [],
+  "reciveProject": false,
+  "createdAt": {
+    "$date": "2024-06-10T06:42:46.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-10T06:42:46.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f3277bd20d9b8c165deb7"
+  },
+  "departmentName": "مدير الشركة ",
+  "brief": "CEO",
+  "reciveProject": false,
+  "createdAt": {
+    "$date": "2024-07-23T04:32:55.609Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T04:32:55.609Z"
+  },
+  "__v": 0
+}]

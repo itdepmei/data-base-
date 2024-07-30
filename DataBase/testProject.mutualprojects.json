@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "6666a1f15e5e3afdadec1db4"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    },
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "6620c649be3dc8128621dba5"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-10T06:49:21.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-10T06:49:21.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666832dbe74fdb99c8a5ad36"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    },
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    },
+    {
+      "$oid": "662a313ad8489214983899e3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-11T11:19:55.882Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T11:19:55.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668338e91cdd576a916e037"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    },
+    {
+      "$oid": "662a313ad8489214983899e3"
+    },
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "662cbc3dc629ff580ec25d5b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-11T11:22:54.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T11:22:54.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66695323f0aaf1e600489e5a"
+  },
+  "ProjectManger": {
+    "$oid": "664b00cf61b000fc0cacda40"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    },
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "6620c649be3dc8128621dba5"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    },
+    {
+      "$oid": "662a313ad8489214983899e3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-12T07:49:55.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-12T07:49:55.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66695522854bcb46b387e016"
+  },
+  "ProjectMangerId": {
+    "$oid": "664b00cf61b000fc0cacda40"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    },
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    },
+    {
+      "$oid": "6620c649be3dc8128621dba5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-12T07:58:26.727Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-12T07:58:26.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667aa878d6882db3d93bf808"
+  },
+  "ProjectManger": {
+    "$oid": "664b00cf61b000fc0cacda40"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    },
+    {
+      "$oid": "662a313ad8489214983899e3"
+    },
+    {
+      "$oid": "662cbc3dc629ff580ec25d5b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-25T11:22:32.207Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T11:22:32.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66811d3325ea9af415f3756b"
+  },
+  "ProjectManger": {
+    "$oid": "664b00cf61b000fc0cacda40"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    },
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    },
+    {
+      "$oid": "662a313ad8489214983899e3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T08:54:11.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T08:54:11.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681311b070ddb13e3ec4a70"
+  },
+  "ProjectManger": {
+    "$oid": "665376cecf020c0b9cc88163"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-30T10:19:07.789Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T10:19:07.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ad7e49534199208d39106"
+  },
+  "ProjectManger": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "common": true,
+  "DepartmentID": [
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    },
+    {
+      "$oid": "662a313ad8489214983899e3"
+    },
+    {
+      "$oid": "662cbc3dc629ff580ec25d5b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-07T18:01:08.495Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T18:01:08.495Z"
+  },
+  "__v": 0
+}]

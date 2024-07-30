@@ -1,0 +1,756 @@
+[{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f30"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc330b927f065baf47f2b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTendersAndInvitations",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f34"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc330b927f065baf47f2b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTrainingCourses",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f31"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc330b927f065baf47f2b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f32"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc330b927f065baf47f2b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "writingsStatingThePossibility",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f33"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc330b927f065baf47f2b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f2f"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc330b927f065baf47f2b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "DirectOrdersAnExchanges",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f3d"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc333b927f065baf47f2d"
+  },
+  "NumberTask": 0,
+  "SelectTask": "DirectOrdersAnExchanges",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f3f"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc333b927f065baf47f2d"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f41"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc333b927f065baf47f2d"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f40"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc333b927f065baf47f2d"
+  },
+  "NumberTask": 0,
+  "SelectTask": "writingsStatingThePossibility",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f42"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc333b927f065baf47f2d"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTrainingCourses",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f43"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc333b927f065baf47f2d"
+  },
+  "NumberTask": 0,
+  "SelectTask": "OtherWork",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f35"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc330b927f065baf47f2b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "OtherWork",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc334b927f065baf47f3e"
+  },
+  "ReportsMonthId": {
+    "$oid": "668bc333b927f065baf47f2d"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTendersAndInvitations",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:08.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd767f670c80008139922"
+  },
+  "ReportsMonthId": {
+    "$oid": "668cd767f670c80008139920"
+  },
+  "NumberTask": 0,
+  "SelectTask": "DirectOrdersAnExchanges",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd767f670c80008139927"
+  },
+  "ReportsMonthId": {
+    "$oid": "668cd767f670c80008139920"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTrainingCourses",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd767f670c80008139928"
+  },
+  "ReportsMonthId": {
+    "$oid": "668cd767f670c80008139920"
+  },
+  "NumberTask": 0,
+  "SelectTask": "OtherWork",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd767f670c80008139926"
+  },
+  "ReportsMonthId": {
+    "$oid": "668cd767f670c80008139920"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd767f670c80008139924"
+  },
+  "ReportsMonthId": {
+    "$oid": "668cd767f670c80008139920"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd767f670c80008139925"
+  },
+  "ReportsMonthId": {
+    "$oid": "668cd767f670c80008139920"
+  },
+  "NumberTask": 0,
+  "SelectTask": "writingsStatingThePossibility",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd767f670c80008139923"
+  },
+  "ReportsMonthId": {
+    "$oid": "668cd767f670c80008139920"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTendersAndInvitations",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T06:23:35.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699023bc8a3921672632f75"
+  },
+  "ReportsMonthId": {
+    "$oid": "6699023bc8a3921672632f71"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699023bc8a3921672632f77"
+  },
+  "ReportsMonthId": {
+    "$oid": "6699023bc8a3921672632f71"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699023bc8a3921672632f79"
+  },
+  "ReportsMonthId": {
+    "$oid": "6699023bc8a3921672632f71"
+  },
+  "NumberTask": 0,
+  "SelectTask": "OtherWork",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699023bc8a3921672632f78"
+  },
+  "ReportsMonthId": {
+    "$oid": "6699023bc8a3921672632f71"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTrainingCourses",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699023bc8a3921672632f76"
+  },
+  "ReportsMonthId": {
+    "$oid": "6699023bc8a3921672632f71"
+  },
+  "NumberTask": 0,
+  "SelectTask": "writingsStatingThePossibility",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699023bc8a3921672632f73"
+  },
+  "ReportsMonthId": {
+    "$oid": "6699023bc8a3921672632f71"
+  },
+  "NumberTask": 0,
+  "SelectTask": "DirectOrdersAnExchanges",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-18T11:53:31.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T11:53:31.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699023bc8a3921672632f74"
+  },
+  "ReportsMonthId": {
+    "$oid": "6699023bc8a3921672632f71"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTendersAndInvitations",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T11:53:31.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58f"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTendersAndInvitations",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:34.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:34.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3ea9697f5f0c7ee592"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:34.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:34.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3ea9697f5f0c7ee591"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "writingsStatingThePossibility",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:34.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:34.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3ea9697f5f0c7ee590"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:34.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:34.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3ea9697f5f0c7ee593"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTrainingCourses",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:34.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:34.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58e"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "DirectOrdersAnExchanges",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:34.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:34.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5aa"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5a5"
+  },
+  "NumberTask": 0,
+  "SelectTask": "DirectOrdersAnExchanges",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:35.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:35.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5ac"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5a5"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondingTobeneficiaries",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:35.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:35.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5ab"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5a5"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTendersAndInvitations",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:35.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:35.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5ad"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5a5"
+  },
+  "NumberTask": 0,
+  "SelectTask": "writingsStatingThePossibility",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:35.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:35.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5ae"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5a5"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CorrespondenceToForeignCompanies",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:35.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:35.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5af"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5a5"
+  },
+  "NumberTask": 0,
+  "SelectTask": "CompletedTrainingCourses",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:35.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:35.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5b0"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5a5"
+  },
+  "NumberTask": 0,
+  "SelectTask": "OtherWork",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:35.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:35.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3ea9697f5f0c7ee594"
+  },
+  "ReportsMonthId": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58b"
+  },
+  "NumberTask": 0,
+  "SelectTask": "OtherWork",
+  "Notes": "لايوجد",
+  "createdAt": {
+    "$date": "2024-07-24T09:45:34.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:34.821Z"
+  },
+  "__v": 0
+}]

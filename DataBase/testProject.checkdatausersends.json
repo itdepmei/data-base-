@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "666584376db725f82d91340c"
+  },
+  "UploadId": {
+    "$oid": "666583456db725f82d9133bf"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "userId": [
+    {
+      "$oid": "66546bf8b8dc9996abe7d61b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-09T10:30:15.285Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T10:30:15.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666584916db725f82d913410"
+  },
+  "UploadId": {
+    "$oid": "666583456db725f82d9133bf"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "userId": [
+    {
+      "$oid": "66546bf8b8dc9996abe7d61b"
+    },
+    {
+      "$oid": "6653078531736f98b5976b3d"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-09T10:31:45.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T10:31:45.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc5bdb927f065baf4807a"
+  },
+  "UploadId": {
+    "$oid": "668bc4e1b927f065baf47fc3"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "userId": [
+    {
+      "$oid": "668ba3b9af8969cc874aad55"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-08T10:55:57.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T10:55:57.982Z"
+  },
+  "__v": 0
+}]

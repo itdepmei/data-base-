@@ -1,0 +1,8627 @@
+[{
+  "_id": {
+    "$oid": "6693641a2a12041403e8fff9"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668ba1492ca56a93254660f0"
+  },
+  "projectId": {
+    "$oid": "668ad7e49534199208d39108"
+  },
+  "departmentId": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T05:37:30.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:30.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693641a2a12041403e8ffff"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668cded8816233570fb8d819"
+  },
+  "projectId": {
+    "$oid": "668ad7e49534199208d39108"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T05:37:30.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:30.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693641a2a12041403e90003"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668ba1492ca56a93254660f0"
+  },
+  "projectId": {
+    "$oid": "668b7d86e68f314c8f6a4494"
+  },
+  "departmentId": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T05:37:30.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:30.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693641b2a12041403e90006"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668cded8816233570fb8d819"
+  },
+  "projectId": {
+    "$oid": "668b7d86e68f314c8f6a4494"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T05:37:31.020Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:31.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693641b2a12041403e9000a"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668ba1492ca56a93254660f0"
+  },
+  "projectId": {
+    "$oid": "668bc609b927f065baf480ac"
+  },
+  "departmentId": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T05:37:31.191Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:31.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693641b2a12041403e9000d"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668cded8816233570fb8d819"
+  },
+  "projectId": {
+    "$oid": "668bc609b927f065baf480ac"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T05:37:31.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:31.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693641b2a12041403e90011"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668ba1492ca56a93254660f0"
+  },
+  "projectId": {
+    "$oid": "668bc9afb927f065baf483bb"
+  },
+  "departmentId": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T05:37:31.470Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:31.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693641b2a12041403e90014"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668cded8816233570fb8d819"
+  },
+  "projectId": {
+    "$oid": "668bc9afb927f065baf483bb"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T05:37:31.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T05:37:31.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66938a9240b3378b7357e0bf"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668ba1492ca56a93254660f0"
+  },
+  "projectId": {
+    "$oid": "668ce78755de2525af585fc3"
+  },
+  "departmentId": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T08:21:38.308Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T08:21:38.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66938a9240b3378b7357e0c3"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668cded8816233570fb8d819"
+  },
+  "projectId": {
+    "$oid": "668ce78755de2525af585fc3"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T08:21:38.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T08:21:38.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66938a9340b3378b7357e0c8"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668ba1492ca56a93254660f0"
+  },
+  "projectId": {
+    "$oid": "6692207a7ee6b21d5bb6d46b"
+  },
+  "departmentId": {
+    "$oid": "6666a0665e5e3afdadec1d5a"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T08:21:39.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T08:21:39.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66938a9340b3378b7357e0cd"
+  },
+  "actions": "delayProject",
+  "userId": {
+    "$oid": "668cded8816233570fb8d819"
+  },
+  "projectId": {
+    "$oid": "6692207a7ee6b21d5bb6d46b"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-14T08:21:39.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T08:21:39.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698e77bf8741642aa4a2fe2"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "6698e61df8741642aa4a2eb7"
+  },
+  "productId": {
+    "$oid": "6698e77bf8741642aa4a2fdf"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T09:59:23.727Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T09:59:23.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698ede7f8741642aa4a3250"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "6698ede7f8741642aa4a324e"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T10:26:47.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T10:26:47.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698ee87f8741642aa4a32a5"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "6698ee86f8741642aa4a32a3"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T10:29:27.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T10:29:27.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698f2a0f8741642aa4a357c"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "6698f23bf8741642aa4a3555"
+  },
+  "productId": {
+    "$oid": "6698f2a0f8741642aa4a3579"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T10:46:56.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T10:46:56.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669cb0ec8f54b30ae151aa09"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "669cb0a78f54b30ae151a9ed"
+  },
+  "productId": {
+    "$oid": "669cb0eb8f54b30ae151aa06"
+  },
+  "createdAt": {
+    "$date": "2024-07-21T06:55:40.087Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-21T06:55:40.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669cb2ac8f54b30ae151aa98"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "669cb0a78f54b30ae151a9ed"
+  },
+  "productId": {
+    "$oid": "669cb2ac8f54b30ae151aa95"
+  },
+  "createdAt": {
+    "$date": "2024-07-21T07:03:08.498Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-21T07:03:08.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df04227fa6e64bf39beb8"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "669cb0a78f54b30ae151a9ed"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T05:38:10.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T05:38:10.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0ae27fa6e64bf39bef6"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba1ea2ca56a932546617b"
+  },
+  "projectId": {
+    "$oid": "669cb0a78f54b30ae151a9ed"
+  },
+  "productId": {
+    "$oid": "669cb2ac8f54b30ae151aa95"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T05:39:58.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T05:39:58.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669df0f527fa6e64bf39bf04"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba1ea2ca56a932546617b"
+  },
+  "projectId": {
+    "$oid": "669cb0a78f54b30ae151a9ed"
+  },
+  "productId": {
+    "$oid": "669cb0eb8f54b30ae151aa06"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T05:41:09.986Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T05:41:09.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e1e78fbbbee5dc3606d96"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ccd5de4b7b1a868d9149e"
+  },
+  "projectId": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T08:55:20.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T08:55:20.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e25b5fbbbee5dc3606ef4"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T09:26:13.889Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T09:26:13.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e2838fbbbee5dc360709d"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "productId": {
+    "$oid": "669e2838fbbbee5dc360709a"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T09:36:56.609Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T09:36:56.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e28a2fbbbee5dc36070f1"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "productId": {
+    "$oid": "669e28a1fbbbee5dc36070ee"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T09:38:42.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T09:38:42.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e28fcfbbbee5dc3607144"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "productId": {
+    "$oid": "669e28fbfbbbee5dc3607141"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T09:40:12.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T09:40:12.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e2952fbbbee5dc360717f"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "productId": {
+    "$oid": "669e2952fbbbee5dc360717a"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T09:41:38.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T09:41:38.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e32ab82aa25f266facba1"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "669e32aa82aa25f266facb9f"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T10:21:31.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T10:21:31.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e335f82aa25f266facbfa"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669e32aa82aa25f266facb9f"
+  },
+  "productId": {
+    "$oid": "669e335e82aa25f266facbf7"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T10:24:31.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T10:24:31.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e342882aa25f266facc93"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669e32aa82aa25f266facb9f"
+  },
+  "productId": {
+    "$oid": "669e342782aa25f266facc89"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T10:27:52.035Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T10:27:52.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4981eac8a75a4da3f2b2"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4981eac8a75a4da3f2af"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:11:13.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:11:13.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f49cdeac8a75a4da3f2c8"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f49cdeac8a75a4da3f2c5"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:12:29.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:12:29.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f49deeac8a75a4da3f2dd"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f49cdeac8a75a4da3f2c5"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:12:46.289Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:12:46.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4a04dd3913e946dd8b2a"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f49cdeac8a75a4da3f2c5"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:13:24.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:13:24.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4a2feac8a75a4da3f33a"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f49cdeac8a75a4da3f2c5"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:14:07.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:14:07.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4a71eac8a75a4da3f357"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4a71eac8a75a4da3f354"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:15:13.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:15:13.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4a7deac8a75a4da3f36c"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4a71eac8a75a4da3f354"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:15:25.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:15:25.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4aabdd3913e946dd8b4f"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4a71eac8a75a4da3f354"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:16:11.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:16:11.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4ad2eac8a75a4da3f391"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4a71eac8a75a4da3f354"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:16:50.987Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:16:50.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4af4eac8a75a4da3f3c4"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4a71eac8a75a4da3f354"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:17:24.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:17:24.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4b2deac8a75a4da3f42f"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4b2deac8a75a4da3f42c"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:18:21.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:18:21.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4b3eeac8a75a4da3f449"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4b2deac8a75a4da3f42c"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:18:38.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:18:38.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4b79dd3913e946dd8b88"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4b2deac8a75a4da3f42c"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:19:37.510Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:19:37.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4b9eeac8a75a4da3f52b"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4b2deac8a75a4da3f42c"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:20:14.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:20:14.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4bc6eac8a75a4da3f5af"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4bc6eac8a75a4da3f5ac"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:20:54.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:20:54.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4bfbeac8a75a4da3f615"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4bfbeac8a75a4da3f612"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:21:47.934Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:21:47.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4c30eac8a75a4da3f689"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4c30eac8a75a4da3f686"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:22:40.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:22:40.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4cfbeac8a75a4da3f77a"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4cfbeac8a75a4da3f777"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:26:03.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:26:03.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4d3beac8a75a4da3f7a8"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4d3beac8a75a4da3f7a4"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:27:07.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:27:07.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4d6aeac8a75a4da3f811"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4d69eac8a75a4da3f80e"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:27:54.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:27:54.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4dbeeac8a75a4da3f92a"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "669f4d65eac8a75a4da3f805"
+  },
+  "productId": {
+    "$oid": "669f4dbeeac8a75a4da3f927"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:29:18.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:29:18.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4dc3eac8a75a4da3f93f"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4dc3eac8a75a4da3f93c"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:29:23.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:29:23.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4deaeac8a75a4da3f973"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "productId": {
+    "$oid": "669f4de9eac8a75a4da3f970"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:30:02.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:30:02.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4e01eac8a75a4da3f9a7"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "669f4d65eac8a75a4da3f805"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:30:25.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:30:25.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f504fcb03b51d52bb6d27"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "669f504fcb03b51d52bb6d25"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:40:15.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:40:15.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f5070cb03b51d52bb6d9d"
+  },
+  "actions": "Delete",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "productId": {
+    "$oid": "669e1f74fbbbee5dc3606dce"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:40:48.606Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:40:48.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f517acb03b51d52bb6e3e"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "669f517acb03b51d52bb6e3c"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:45:14.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:45:14.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f53bdcb03b51d52bb6eee"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "productId": {
+    "$oid": "669f53bdcb03b51d52bb6eeb"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T06:54:53.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:54:53.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f5a3d7c4cbc84869579bc"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:22:37.899Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:22:37.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f5a737c4cbc84869579fc"
+  },
+  "actions": "sendProjectToManager",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "669e32aa82aa25f266facb9f"
+  },
+  "productId": {
+    "$oid": "669e32aa82aa25f266facb9f"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:23:31.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:23:31.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f60a67c4cbc8486957fc5"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f60a57c4cbc8486957fc2"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:49:58.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:49:58.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f61317c4cbc8486958006"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f61307c4cbc8486958003"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:52:17.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:52:17.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f615a7c4cbc848695801a"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f61597c4cbc8486958017"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:52:58.260Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:52:58.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f61737c4cbc8486958057"
+  },
+  "actions": "sendProjectToManager",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "productId": {
+    "$oid": "669e25b5fbbbee5dc3606ef2"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:53:23.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:53:23.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f618c7c4cbc8486958097"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "productId": {
+    "$oid": "669f618c7c4cbc8486958094"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:53:48.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:53:48.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f61cc7c4cbc84869580bb"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "productId": {
+    "$oid": "669f61cb7c4cbc84869580b8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:54:52.081Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:54:52.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f621d7c4cbc8486958133"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "productId": {
+    "$oid": "669f621d7c4cbc8486958130"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:56:13.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:56:13.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f62597c4cbc848695814a"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "productId": {
+    "$oid": "669f62597c4cbc8486958147"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:57:13.635Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:57:13.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f629d7c4cbc8486958176"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "productId": {
+    "$oid": "669f629c7c4cbc8486958172"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T07:58:21.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:58:21.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6442e9359d385f3672a1"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "productId": {
+    "$oid": "669f6442e9359d385f36729e"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:05:22.583Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:05:22.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f64b5e9359d385f3672ec"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "productId": {
+    "$oid": "669f64b5e9359d385f3672e6"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:07:17.414Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:07:17.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f64ede9359d385f367310"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f60a57c4cbc8486957fc2"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:08:13.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:08:13.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6502e9359d385f367322"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f60a57c4cbc8486957fc2"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:08:34.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:08:34.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6590e9359d385f367357"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f60a57c4cbc8486957fc2"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:10:56.341Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:10:56.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6668e9359d385f367392"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "productId": {
+    "$oid": "669f6668e9359d385f36738c"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:14:32.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:14:32.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f66e2e9359d385f367467"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "669f4727eac8a75a4da3f15a"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:16:34.085Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:16:34.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6732e9359d385f367574"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:17:54.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:17:54.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f67e8e9359d385f36768b"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f60a57c4cbc8486957fc2"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:20:56.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:20:56.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6849e9359d385f36773a"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f61307c4cbc8486958003"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:22:33.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:22:33.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f684fe9359d385f367747"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f61597c4cbc8486958017"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:22:39.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:22:39.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6851e9359d385f367757"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "669f610a7c4cbc8486957fdc"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:22:41.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:22:41.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6855e9359d385f367760"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f61307c4cbc8486958003"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:22:45.266Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:22:45.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6856e9359d385f36776e"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f61597c4cbc8486958017"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:22:46.479Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:22:46.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f686ee9359d385f3677a2"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f61307c4cbc8486958003"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:23:10.923Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:23:10.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f687fe9359d385f3677cb"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f61597c4cbc8486958017"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:23:27.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:23:27.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f68b1e9359d385f36783a"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "668636e658bc02d48dfc8ad3"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:24:17.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:24:17.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f68f6e9359d385f367901"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "668636e658bc02d48dfc8ad3"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T08:25:26.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:25:26.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a085a23f1bfebfc46724f3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a084443f1bfebfc46724d6"
+  },
+  "productId": {
+    "$oid": "66a085a23f1bfebfc46724f0"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T04:40:02.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T04:40:02.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08b643f1bfebfc467259e"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a086383f1bfebfc4672519"
+  },
+  "productId": {
+    "$oid": "66a08b643f1bfebfc467259b"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:04:36.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:04:36.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08c843f1bfebfc4672627"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08c213f1bfebfc46725f1"
+  },
+  "productId": {
+    "$oid": "66a08c833f1bfebfc4672624"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:09:24.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:09:24.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08d5b3f1bfebfc4672698"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "productId": {
+    "$oid": "66a08d5b3f1bfebfc4672695"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:12:59.899Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:12:59.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08d863f1bfebfc46726af"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "productId": {
+    "$oid": "66a08d863f1bfebfc46726ac"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:13:42.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:13:42.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08dc93f1bfebfc46726dc"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "productId": {
+    "$oid": "66a08dc83f1bfebfc46726d9"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:14:49.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:14:49.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08e3a3f1bfebfc4672714"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "productId": {
+    "$oid": "66a08e393f1bfebfc4672711"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:16:42.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:16:42.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08e6c3f1bfebfc4672737"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "productId": {
+    "$oid": "66a08e6c3f1bfebfc4672734"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:17:32.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:17:32.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08e8e3f1bfebfc467274d"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "productId": {
+    "$oid": "66a08e8e3f1bfebfc467274a"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:18:06.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:18:06.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08ebe3f1bfebfc4672763"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "productId": {
+    "$oid": "66a08ebe3f1bfebfc4672760"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:18:54.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:18:54.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08efe3f1bfebfc46727b4"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a084443f1bfebfc46724d6"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:19:58.938Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:19:58.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08f5f3f1bfebfc46727f3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a08d033f1bfebfc467267c"
+  },
+  "productId": {
+    "$oid": "66a08f5f3f1bfebfc46727ec"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:21:35.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:21:35.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0904a3f1bfebfc46728d6"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a084443f1bfebfc46724d6"
+  },
+  "productId": {
+    "$oid": "66a085a23f1bfebfc46724f0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:25:30.724Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:25:30.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a090693f1bfebfc46728eb"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a084443f1bfebfc46724d6"
+  },
+  "productId": {
+    "$oid": "66a085a23f1bfebfc46724f0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:26:01.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:26:01.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a090693f1bfebfc46728ed"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a084443f1bfebfc46724d6"
+  },
+  "productId": {
+    "$oid": "66a085a23f1bfebfc46724f0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:26:01.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:26:01.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0917c3f1bfebfc46729ba"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a084443f1bfebfc46724d6"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:30:36.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:30:36.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0927e3f1bfebfc4672aad"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a086383f1bfebfc4672519"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:34:54.751Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:34:54.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a092c13f1bfebfc4672aed"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "projectId": {
+    "$oid": "66a086383f1bfebfc4672519"
+  },
+  "productId": {
+    "$oid": "66a08b643f1bfebfc467259b"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:36:01.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:36:01.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0934f3f1bfebfc4672b33"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a08c213f1bfebfc46725f1"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:38:23.152Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:38:23.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093533f1bfebfc4672b3f"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a08c213f1bfebfc46725f1"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:38:27.514Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:38:27.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093533f1bfebfc4672b41"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a08c213f1bfebfc46725f1"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:38:27.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:38:27.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0938f3f1bfebfc4672b8b"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "669cb0a78f54b30ae151a9ed"
+  },
+  "productId": {
+    "$oid": "669cb0eb8f54b30ae151aa06"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:39:27.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:39:27.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093903f1bfebfc4672b91"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "669cb0a78f54b30ae151a9ed"
+  },
+  "productId": {
+    "$oid": "669cb2ac8f54b30ae151aa95"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:39:28.810Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:39:28.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093d13f1bfebfc4672c1d"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a086383f1bfebfc4672519"
+  },
+  "productId": {
+    "$oid": "66a08b643f1bfebfc467259b"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T05:40:33.462Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:40:33.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a09e04af7101249b67225b"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "66a09e04af7101249b672259"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T06:24:04.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:24:04.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0b39d949586a3d385c97e"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T07:56:13.866Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T07:56:13.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0b413949586a3d385c99c"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b413949586a3d385c999"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T07:58:11.564Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T07:58:11.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0b437949586a3d385c9b3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b437949586a3d385c9b0"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T07:58:47.863Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T07:58:47.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0b468949586a3d385c9ca"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b467949586a3d385c9c7"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T07:59:36.122Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T07:59:36.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0b4b4949586a3d385c9e1"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b4b4949586a3d385c9de"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T08:00:52.575Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:00:52.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0b4da949586a3d385c9f7"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b4d9949586a3d385c9f4"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T08:01:30.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:01:30.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0b513949586a3d385ca0e"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b512949586a3d385ca0b"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T08:02:27.236Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:02:27.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0b558949586a3d385ca25"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b558949586a3d385ca22"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T08:03:36.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:03:36.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0bc8d19f95c88dca854f6"
+  },
+  "actions": "isCompleteProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "6666966659b4538b412351fb"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T08:34:21.533Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:34:21.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c1d519f95c88dca8569c"
+  },
+  "actions": "isCompleteProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "66a0a0d9fe911ab21668b60c"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T08:56:53.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:56:53.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c5573d95bd1cf1b5afad"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:11:51.919Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:11:51.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c5bc3d95bd1cf1b5afd3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c5bc3d95bd1cf1b5afd0"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:13:32.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:13:32.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c5fb3d95bd1cf1b5afea"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c5fb3d95bd1cf1b5afe7"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:14:35.778Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:14:35.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c5fc3d95bd1cf1b5afef"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c5fc3d95bd1cf1b5afec"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:14:36.512Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:14:36.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c60a3d95bd1cf1b5b004"
+  },
+  "actions": "Delete",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c5fc3d95bd1cf1b5afec"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:14:50.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:14:50.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c6693d95bd1cf1b5b00c"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c6683d95bd1cf1b5b009"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:16:25.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:16:25.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0c68c3d95bd1cf1b5b023"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c68c3d95bd1cf1b5b020"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:17:00.846Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:17:00.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cbf63d95bd1cf1b5b0d5"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "projectId": {
+    "$oid": "66a08c213f1bfebfc46725f1"
+  },
+  "productId": {
+    "$oid": "66a08c833f1bfebfc4672624"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:40:06.208Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:40:06.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc4a3d95bd1cf1b5b0fe"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b413949586a3d385c999"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:41:30.084Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:41:30.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc4e3d95bd1cf1b5b104"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b437949586a3d385c9b0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:41:34.427Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:41:34.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc523d95bd1cf1b5b10a"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b467949586a3d385c9c7"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:41:38.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:41:38.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc583d95bd1cf1b5b110"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b4b4949586a3d385c9de"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:41:44.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:41:44.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc5d3d95bd1cf1b5b116"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b4d9949586a3d385c9f4"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:41:49.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:41:49.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc603d95bd1cf1b5b11c"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b512949586a3d385ca0b"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:41:52.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:41:52.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc633d95bd1cf1b5b122"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b558949586a3d385ca22"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:41:55.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:41:55.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc903d95bd1cf1b5b147"
+  },
+  "actions": "AllowDelete",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c5fc3d95bd1cf1b5afec"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:42:40.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:42:40.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc983d95bd1cf1b5b15d"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a08c213f1bfebfc46725f1"
+  },
+  "productId": {
+    "$oid": "66a08c833f1bfebfc4672624"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:42:48.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:42:48.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cc9a3d95bd1cf1b5b163"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b413949586a3d385c999"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:42:50.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:42:50.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cca93d95bd1cf1b5b180"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b437949586a3d385c9b0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:43:05.619Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:43:05.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0ccab3d95bd1cf1b5b186"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b467949586a3d385c9c7"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:43:07.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:43:07.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0ccac3d95bd1cf1b5b18c"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b4b4949586a3d385c9de"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:43:08.946Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:43:08.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0ccb23d95bd1cf1b5b199"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b4d9949586a3d385c9f4"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:43:14.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:43:14.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0ccb53d95bd1cf1b5b19f"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b512949586a3d385ca0b"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:43:17.751Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:43:17.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0ccb73d95bd1cf1b5b1a9"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b558949586a3d385ca22"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:43:19.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:43:19.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd173d95bd1cf1b5b1d8"
+  },
+  "actions": "deleteProduct",
+  "userId": {
+    "$oid": "668ba343af8969cc874aaced"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c5fc3d95bd1cf1b5afec"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:44:55.547Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:44:55.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3da9697f5f0c7ee588"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b413949586a3d385c999"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:45:33.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:45:33.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0ce3ca9697f5f0c7ee615"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b437949586a3d385c9b0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:49:48.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:49:48.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d072a9697f5f0c7ee655"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b467949586a3d385c9c7"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T09:59:14.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:59:14.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d0bca9697f5f0c7ee681"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b4b4949586a3d385c9de"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:00:28.680Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:00:28.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d111a9697f5f0c7ee6aa"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b467949586a3d385c9c7"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:01:53.923Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:01:53.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d162a9697f5f0c7ee6d4"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b4d9949586a3d385c9f4"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:03:14.122Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:03:14.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d329a9697f5f0c7ee749"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "66a0d328a9697f5f0c7ee747"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:10:49.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:10:49.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d3f1a9697f5f0c7ee769"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b512949586a3d385ca0b"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:14:09.300Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:14:09.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d8d8a9697f5f0c7ee7b5"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba343af8969cc874aaced"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c6683d95bd1cf1b5b009"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:35:04.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:35:04.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d92ea9697f5f0c7ee7b9"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba343af8969cc874aaced"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c68c3d95bd1cf1b5b020"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:36:30.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:36:30.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d93ba9697f5f0c7ee7cc"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba343af8969cc874aaced"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c68c3d95bd1cf1b5b020"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:36:43.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:36:43.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0daf0a9697f5f0c7ee7e0"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a0b39d949586a3d385c97c"
+  },
+  "productId": {
+    "$oid": "66a0b558949586a3d385ca22"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T10:44:00.544Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:44:00.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0e1eea9697f5f0c7ee860"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T11:13:50.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T11:13:50.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0e318a9697f5f0c7ee943"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c68c3d95bd1cf1b5b020"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T11:18:48.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T11:18:48.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0e31aa9697f5f0c7ee94a"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c6683d95bd1cf1b5b009"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T11:18:50.346Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T11:18:50.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0e3baa9697f5f0c7ee9d0"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba343af8969cc874aaced"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c5bc3d95bd1cf1b5afd0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T11:21:30.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T11:21:30.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f241db88798413bd3cb3"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f241db88798413bd3cb1"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:35:45.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:35:45.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f2e2db88798413bd3d15"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f241db88798413bd3cb1"
+  },
+  "productId": {
+    "$oid": "66a1f2e2db88798413bd3d12"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:38:26.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:38:26.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f3c6db88798413bd3d94"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f3c5db88798413bd3d92"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:42:14.012Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:42:14.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f42edb88798413bd3e12"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f3c5db88798413bd3d92"
+  },
+  "productId": {
+    "$oid": "66a1f42edb88798413bd3e0f"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:43:58.851Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:43:58.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f497db88798413bd3e47"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f3c5db88798413bd3d92"
+  },
+  "productId": {
+    "$oid": "66a1f496db88798413bd3e44"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:45:43.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:45:43.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f4d3db88798413bd3e64"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f3c5db88798413bd3d92"
+  },
+  "productId": {
+    "$oid": "66a1f4d2db88798413bd3e61"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:46:43.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:46:43.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f556db88798413bd3f14"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:48:54.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:48:54.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f628db88798413bd3f57"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "productId": {
+    "$oid": "66a1f628db88798413bd3f54"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:52:24.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:52:24.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f6d9db88798413bd3f85"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "productId": {
+    "$oid": "66a1f628db88798413bd3f54"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:55:21.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:55:21.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f74adb88798413bd3f8f"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "productId": {
+    "$oid": "66a1f74adb88798413bd3f8c"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:57:14.762Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:57:14.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22616fc45007e64d2b303"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "669df0e2f6747c325ec2685a"
+  },
+  "projectId": {
+    "$oid": "66a084443f1bfebfc46724d6"
+  },
+  "productId": {
+    "$oid": "66a085a23f1bfebfc46724f0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:16:54.181Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:16:54.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22a74fc45007e64d2b3d2"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "productId": {
+    "$oid": "66a1f628db88798413bd3f54"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:35:32.060Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:35:32.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22a77fc45007e64d2b3d8"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "projectId": {
+    "$oid": "66a0c5573d95bd1cf1b5afab"
+  },
+  "productId": {
+    "$oid": "66a0c5bc3d95bd1cf1b5afd0"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:35:35.977Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:35:35.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22d1efc45007e64d2b482"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a22d1efc45007e64d2b480"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:46:54.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:46:54.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22da2fc45007e64d2b4bf"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a22d1efc45007e64d2b480"
+  },
+  "productId": {
+    "$oid": "66a22da1fc45007e64d2b4bc"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:49:06.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:49:06.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22ddafc45007e64d2b4e6"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a22d1efc45007e64d2b480"
+  },
+  "productId": {
+    "$oid": "66a22ddafc45007e64d2b4e3"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:50:02.553Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:50:02.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22e73fc45007e64d2b534"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "projectId": {
+    "$oid": "66a22d1efc45007e64d2b480"
+  },
+  "productId": {
+    "$oid": "66a22da1fc45007e64d2b4bc"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:52:35.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:52:35.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22e78fc45007e64d2b53a"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "projectId": {
+    "$oid": "66a22d1efc45007e64d2b480"
+  },
+  "productId": {
+    "$oid": "66a22ddafc45007e64d2b4e3"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:52:40.295Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:52:40.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22eaffc45007e64d2b53f"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "productId": {
+    "$oid": "66a1f628db88798413bd3f54"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:53:35.795Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:53:35.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22ef6fc45007e64d2b565"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "productId": {
+    "$oid": "66a22ef5fc45007e64d2b562"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:54:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:54:46.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22f2efc45007e64d2b57c"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a1f556db88798413bd3f12"
+  },
+  "productId": {
+    "$oid": "66a22f2efc45007e64d2b579"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:55:42.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:55:42.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a235edfc45007e64d2b5a8"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba310af8969cc874aacbb"
+  },
+  "projectId": {
+    "$oid": "66a08c213f1bfebfc46725f1"
+  },
+  "productId": {
+    "$oid": "66a08c833f1bfebfc4672624"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T11:24:29.843Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T11:24:29.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a492af52e22c7e562db477"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a492ae52e22c7e562db474"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:24:47.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:24:47.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a492ff52e22c7e562db494"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a492ff52e22c7e562db491"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:26:07.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:26:07.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4937e52e22c7e562db4bf"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a4937e52e22c7e562db4bc"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:28:14.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:28:14.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4940052e22c7e562db4d7"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a4940052e22c7e562db4d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:30:24.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:30:24.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4941b52e22c7e562db4ec"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a4941a52e22c7e562db4e9"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:30:51.163Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:30:51.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4942f52e22c7e562db501"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a4942f52e22c7e562db4fe"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:31:11.637Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:31:11.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4948252e22c7e562db523"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a4948152e22c7e562db520"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:32:34.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:32:34.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a494a052e22c7e562db538"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a494a052e22c7e562db535"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:33:04.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:33:04.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a494b852e22c7e562db54d"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a494b852e22c7e562db54a"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:33:28.602Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:33:28.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4950c52e22c7e562db561"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "projectId": {
+    "$oid": "66a0e1eea9697f5f0c7ee85e"
+  },
+  "productId": {
+    "$oid": "66a4950b52e22c7e562db55e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:34:52.018Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:34:52.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4987152e22c7e562db5ef"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "66a4987152e22c7e562db5ed"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:49:21.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:49:21.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a498b052e22c7e562db61e"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "66a498b052e22c7e562db61c"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:50:24.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:50:24.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4997e52e22c7e562db6b6"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "66a4987152e22c7e562db5ed"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T06:53:50.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T06:53:50.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a4bf52e22c7e562dbac3"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a4bf52e22c7e562dbac1"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:41:51.536Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:41:51.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a52e52e22c7e562dbb56"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:43:42.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:43:42.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a74552e22c7e562dbc37"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:52:37.733Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:52:37.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a83952e22c7e562dbcb8"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "productId": {
+    "$oid": "66a4a83852e22c7e562dbcb5"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:56:41.105Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:56:41.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a86a52e22c7e562dbccc"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4a7cd52e22c7e562dbc61"
+  },
+  "productId": {
+    "$oid": "66a4a86952e22c7e562dbcc9"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:57:30.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:57:30.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a8a752e22c7e562dbce3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "productId": {
+    "$oid": "66a4a8a752e22c7e562dbce0"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:58:31.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:58:31.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a8c652e22c7e562dbcf6"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4a7cd52e22c7e562dbc61"
+  },
+  "productId": {
+    "$oid": "66a4a8c652e22c7e562dbcf3"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:59:02.491Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:59:02.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a8ce52e22c7e562dbd0b"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4a7cd52e22c7e562dbc61"
+  },
+  "productId": {
+    "$oid": "66a4a86952e22c7e562dbcc9"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:59:10.403Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:59:10.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a8fb52e22c7e562dbd13"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "productId": {
+    "$oid": "66a4a83852e22c7e562dbcb5"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T07:59:55.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T07:59:55.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a90c52e22c7e562dbd22"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "productId": {
+    "$oid": "66a4a83852e22c7e562dbcb5"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:00:12.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:00:12.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a91f52e22c7e562dbd2d"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4a74552e22c7e562dbc35"
+  },
+  "productId": {
+    "$oid": "66a4a83852e22c7e562dbcb5"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:00:31.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:00:31.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4a92652e22c7e562dbd41"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4a7cd52e22c7e562dbc61"
+  },
+  "productId": {
+    "$oid": "66a4a92652e22c7e562dbd3e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:00:38.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:00:38.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4aab25d402e8635f62e72"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4aa345d402e8635f62e0f"
+  },
+  "productId": {
+    "$oid": "66a4aab25d402e8635f62e6f"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:07:14.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:07:14.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4aafe5d402e8635f62ee1"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4aa345d402e8635f62e0f"
+  },
+  "productId": {
+    "$oid": "66a4aafd5d402e8635f62ede"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:08:30.059Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:08:30.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ab135d402e8635f62ef7"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4aa345d402e8635f62e0f"
+  },
+  "productId": {
+    "$oid": "66a4aafd5d402e8635f62ede"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:08:51.611Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:08:51.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ac765d402e8635f630c3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4abf15d402e8635f63022"
+  },
+  "productId": {
+    "$oid": "66a4ac755d402e8635f630c0"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:14:46.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:14:46.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ace85d402e8635f63189"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a4987152e22c7e562db5ed"
+  },
+  "productId": {
+    "$oid": "66a4ace85d402e8635f63186"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:16:40.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:16:40.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ad305d402e8635f63207"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:17:52.088Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:17:52.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ad525d402e8635f63269"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4aced5d402e8635f631a0"
+  },
+  "productId": {
+    "$oid": "66a4ad525d402e8635f63266"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:18:26.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:18:26.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b3a45d402e8635f6361d"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4af125d402e8635f634ac"
+  },
+  "productId": {
+    "$oid": "66a4b3a45d402e8635f6361a"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:45:24.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:45:24.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b43d5d402e8635f63667"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "productId": {
+    "$oid": "669f60a57c4cbc8486957fc2"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:47:57.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:47:57.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b4c45d402e8635f6369e"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b4c45d402e8635f6369b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:50:12.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:50:12.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b5315d402e8635f636b2"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b5305d402e8635f636af"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:52:01.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:52:01.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b5485d402e8635f636c5"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b5305d402e8635f636af"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:52:24.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:52:24.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b5535d402e8635f636cb"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b4c45d402e8635f6369b"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:52:35.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:52:35.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b59c5d402e8635f636f4"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b5305d402e8635f636af"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:53:48.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:53:48.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b59e5d402e8635f636fa"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b4c45d402e8635f6369b"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:53:50.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:53:50.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b5b75d402e8635f6371f"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4af125d402e8635f634ac"
+  },
+  "productId": {
+    "$oid": "66a4b5b65d402e8635f6371b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:54:15.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:54:15.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b5db5d402e8635f6377c"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b5305d402e8635f636af"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T08:54:51.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T08:54:51.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b7575d402e8635f6380f"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b7575d402e8635f6380c"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:01:11.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:01:11.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b7ce5d402e8635f6386d"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4b7875d402e8635f6383a"
+  },
+  "productId": {
+    "$oid": "66a4b7cd5d402e8635f6386a"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:03:10.163Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:03:10.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b8065d402e8635f63885"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4b77c5d402e8635f63823"
+  },
+  "productId": {
+    "$oid": "66a4b8065d402e8635f63882"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:04:06.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:04:06.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b8445d402e8635f6389a"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4b77c5d402e8635f63823"
+  },
+  "productId": {
+    "$oid": "66a4b8435d402e8635f63897"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:05:08.284Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:05:08.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b8855d402e8635f6392e"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b8855d402e8635f63926"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:06:13.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:06:13.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b9055d402e8635f639f7"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b9055d402e8635f639f4"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:08:21.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:08:21.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b95d5d402e8635f63a0c"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b95c5d402e8635f63a09"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:09:49.245Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:09:49.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4b9ca5d402e8635f63a21"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b9ca5d402e8635f63a1e"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:11:38.427Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:11:38.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ba8d5d402e8635f63a35"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4ba8c5d402e8635f63a32"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:14:53.331Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:14:53.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4baf95d402e8635f63a4a"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4baf85d402e8635f63a47"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:16:41.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:16:41.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bb9d5d402e8635f63a60"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bb9d5d402e8635f63a5d"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:19:25.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:19:25.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bc045d402e8635f63a75"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bc045d402e8635f63a72"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:21:08.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:21:08.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bcb45d402e8635f63aa3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4b77c5d402e8635f63823"
+  },
+  "productId": {
+    "$oid": "66a4bcb45d402e8635f63aa0"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:24:04.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:24:04.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4be485d402e8635f63b09"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4be485d402e8635f63b06"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:30:48.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:30:48.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bf825d402e8635f63bf9"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bf815d402e8635f63bf6"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:36:02.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:36:02.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bfdb5d402e8635f63c5c"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bfdb5d402e8635f63c59"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T09:37:31.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T09:37:31.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4cccf00f72b8d7d902657"
+  },
+  "actions": "addProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "66a4cccf00f72b8d7d902655"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T10:32:47.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T10:32:47.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4ccda00f72b8d7d902675"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "66a4cccf00f72b8d7d902655"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T10:32:58.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T10:32:58.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4cfc8ae3bafb88d69a419"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4cefcae3bafb88d69a3ec"
+  },
+  "productId": {
+    "$oid": "66a4cfc8ae3bafb88d69a416"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T10:45:28.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T10:45:28.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d283ae3bafb88d69a568"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4d1d5ae3bafb88d69a53c"
+  },
+  "productId": {
+    "$oid": "66a4d283ae3bafb88d69a565"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T10:57:07.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T10:57:07.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d3a900f72b8d7d902840"
+  },
+  "actions": "isCompleteProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "66a4cccf00f72b8d7d902655"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:02:01.882Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:02:01.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d61cae3bafb88d69a689"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4d570ae3bafb88d69a636"
+  },
+  "productId": {
+    "$oid": "66a4d61cae3bafb88d69a686"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:12:28.764Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:12:28.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d61d00f72b8d7d9028ec"
+  },
+  "actions": "isCompleteProject",
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "projectId": {
+    "$oid": "668256cccb89af1b739fe8aa"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:12:29.789Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:12:29.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d927a22e2541302820fd"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4d570ae3bafb88d69a636"
+  },
+  "productId": {
+    "$oid": "66a4d927a22e2541302820fa"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:25:27.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:25:27.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d97da22e254130282114"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4d570ae3bafb88d69a636"
+  },
+  "productId": {
+    "$oid": "66a4d97da22e254130282111"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:26:53.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:26:53.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4d9e1a22e25413028212b"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4d570ae3bafb88d69a636"
+  },
+  "productId": {
+    "$oid": "66a4d9e0a22e254130282128"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:28:33.050Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:28:33.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4da29a22e254130282147"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4d570ae3bafb88d69a636"
+  },
+  "productId": {
+    "$oid": "66a4da29a22e254130282144"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:29:45.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:29:45.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4da6fa22e25413028215e"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4d570ae3bafb88d69a636"
+  },
+  "productId": {
+    "$oid": "66a4da6fa22e25413028215b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:30:55.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:30:55.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dab6a22e2541302821ca"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b4c45d402e8635f6369b"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:06.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:06.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dab6a22e2541302821cc"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b4c45d402e8635f6369b"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:06.268Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:06.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dabda22e2541302821de"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a4d570ae3bafb88d69a636"
+  },
+  "productId": {
+    "$oid": "66a4dabca22e2541302821db"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:13.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:13.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dac6a22e2541302821f4"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b5305d402e8635f636af"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:22.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:22.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dacda22e254130282207"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b7575d402e8635f6380c"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:29.189Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:29.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dad4a22e254130282211"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b8855d402e8635f63926"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:36.098Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:36.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dad4a22e254130282213"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b9055d402e8635f639f4"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:36.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:36.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dad6a22e25413028221a"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b95c5d402e8635f63a09"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:38.523Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:38.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dadba22e254130282221"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b9ca5d402e8635f63a1e"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:43.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:43.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dadda22e254130282238"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4ba8c5d402e8635f63a32"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:45.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:45.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dae3a22e254130282244"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b7575d402e8635f6380c"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:51.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:51.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dae4a22e25413028224a"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b8855d402e8635f63926"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:52.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:52.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dae5a22e254130282250"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b9055d402e8635f639f4"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:53.366Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:53.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dae6a22e254130282256"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b95c5d402e8635f63a09"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:54.653Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:54.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dae7a22e25413028225c"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b9ca5d402e8635f63a1e"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:55.665Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:55.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4daeaa22e254130282262"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bfdb5d402e8635f63c59"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:32:58.475Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:32:58.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4daeea22e25413028226b"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4be485d402e8635f63b06"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:02.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:02.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4daeea22e25413028226d"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bf815d402e8635f63bf6"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:02.658Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:02.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4daf0a22e254130282274"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bc045d402e8635f63a72"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:04.896Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:04.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4daf3a22e254130282286"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bb9d5d402e8635f63a5d"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:07.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:07.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4daf6a22e254130282291"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4baf85d402e8635f63a47"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:10.001Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:10.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4db0ea22e2541302822a9"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4be485d402e8635f63b06"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:34.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:34.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4db0fa22e2541302822af"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bfdb5d402e8635f63c59"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:35.532Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:35.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4db14a22e2541302822e4"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bf815d402e8635f63bf6"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:40.998Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:40.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4db15a22e2541302822ea"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bc045d402e8635f63a72"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:33:41.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:33:41.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4db2aa22e25413028230a"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bc045d402e8635f63a72"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:34:02.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:34:02.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4db62a22e254130282337"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b7575d402e8635f6380c"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:34:58.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:34:58.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4db6ea22e25413028237f"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b5305d402e8635f636af"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:35:10.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:35:10.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4db77a22e2541302823a9"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b4c45d402e8635f6369b"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:35:19.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:35:19.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dca8a22e25413028255b"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b7575d402e8635f6380c"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:40:24.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:40:24.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dccea22e2541302825f3"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4ba8c5d402e8635f63a32"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:41:02.596Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:41:02.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dcd1a22e2541302825f9"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4baf85d402e8635f63a47"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:41:05.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:41:05.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4dcd1a22e2541302825ff"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bb9d5d402e8635f63a5d"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-27T11:41:05.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-27T11:41:05.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5dc2c340eeed58c70c829"
+  },
+  "actions": "deleteProduct",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a4987152e22c7e562db5ed"
+  },
+  "productId": {
+    "$oid": "66a4ace85d402e8635f63186"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T05:50:36.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:50:36.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5dcec8722700f7a0330c4"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a5dc17340eeed58c70c809"
+  },
+  "productId": {
+    "$oid": "66a5dcec8722700f7a0330c1"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T05:53:48.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:53:48.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5dd178722700f7a0330da"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a5dc17340eeed58c70c809"
+  },
+  "productId": {
+    "$oid": "66a5dd168722700f7a0330d7"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T05:54:31.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:54:31.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5dd708722700f7a03311e"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a5dc17340eeed58c70c809"
+  },
+  "productId": {
+    "$oid": "66a5dd708722700f7a03311b"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T05:56:00.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T05:56:00.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ea4ce93a5f020511151c"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "66a498b052e22c7e562db61c"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T06:50:52.048Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:50:52.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ea90e93a5f0205111bf0"
+  },
+  "actions": "EditProject",
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "projectId": {
+    "$oid": "66a498b052e22c7e562db61c"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T06:52:00.553Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:52:00.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eba5e93a5f02051137e6"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5eba5e93a5f02051137e1"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T06:56:37.519Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:56:37.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ec0ee93a5f0205113fc3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ec0ee93a5f0205113fb5"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T06:58:22.950Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T06:58:22.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed25e93a5f02051151c0"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151ad"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:01.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:01.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed25e93a5f02051151c5"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151b4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:01.445Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:01.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed25e93a5f02051151c7"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151b0"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:01.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:01.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed26e93a5f02051151cf"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed25e93a5f02051151b8"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:02.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:02.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed32e93a5f02051152e9"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed31e93a5f02051152da"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:14.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:14.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed32e93a5f02051152f0"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed32e93a5f02051152e2"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:14.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:14.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed33e93a5f020511530c"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed32e93a5f02051152fa"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:15.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:15.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed33e93a5f020511530e"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed32e93a5f02051152fe"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:15.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:15.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed51e93a5f02051155f0"
+  },
+  "actions": "Delete",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151ad"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:45.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:45.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed5ae93a5f02051156f8"
+  },
+  "actions": "Delete",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151b4"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:54.255Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:54.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ed5ae93a5f02051156fb"
+  },
+  "actions": "Delete",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151b0"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:03:54.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:03:54.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eda4e93a5f0205115eab"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151ad"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:05:08.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:05:08.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eda8e93a5f0205115f2f"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151ad"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:05:12.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:05:12.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5edbde93a5f0205116182"
+  },
+  "actions": "deleteProduct",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151b0"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:05:33.048Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:05:33.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5edd8df15bd74e050a4c0"
+  },
+  "actions": "deleteProduct",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed31e93a5f02051152da"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:06:00.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:06:00.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ee306f8a98e6e096410d"
+  },
+  "actions": "deleteProduct",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed32e93a5f02051152fa"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:07:28.765Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:07:28.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ee7413bf24d23517fdb6"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a5e9c2e93a5f020511065a"
+  },
+  "productId": {
+    "$oid": "66a5ee7413bf24d23517fdb3"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:08:36.778Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:08:36.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ee8813bf24d23517fde7"
+  },
+  "actions": "deleteProduct",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed24e93a5f02051151b4"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:08:56.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:08:56.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eee3541b6d368c4ad50e"
+  },
+  "actions": "deleteProduct",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed32e93a5f02051152fe"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:10:27.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:10:27.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5ef88c5789a21d75ab350"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed25e93a5f02051151b8"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:13:12.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:13:12.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eff1c5789a21d75ab870"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed32e93a5f02051152e2"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:14:57.064Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:14:57.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5eff6c5789a21d75ab8f5"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed32e93a5f02051152e2"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:15:02.357Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:15:02.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a5f019c5789a21d75abc23"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668cc80fd642207426ab9c0d"
+  },
+  "projectId": {
+    "$oid": "66a5e7641d6c8d78c1bbb8c5"
+  },
+  "productId": {
+    "$oid": "66a5ed32e93a5f02051152e2"
+  },
+  "departmentId": {
+    "$oid": "662a3094d8489214983899d4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T07:15:37.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T07:15:37.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a60170da25ee2b3b02cd95"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a60096da25ee2b3b02cb65"
+  },
+  "productId": {
+    "$oid": "66a60170da25ee2b3b02cd91"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T08:29:36.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T08:29:36.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a60fcada25ee2b3b02d03d"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a60f75da25ee2b3b02d018"
+  },
+  "productId": {
+    "$oid": "66a60fcada25ee2b3b02d03a"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:30:50.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:30:50.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a60ff7da25ee2b3b02d054"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba3b9af8969cc874aad55"
+  },
+  "projectId": {
+    "$oid": "66a60f75da25ee2b3b02d018"
+  },
+  "productId": {
+    "$oid": "66a60ff7da25ee2b3b02d051"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:31:35.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:31:35.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a6134bda25ee2b3b02e6fe"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a6134bda25ee2b3b02e6eb"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:45:47.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:45:47.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61641da25ee2b3b031083"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4b77c5d402e8635f63823"
+  },
+  "productId": {
+    "$oid": "66a4b8065d402e8635f63882"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:58:25.052Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:58:25.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61651da25ee2b3b031093"
+  },
+  "actions": "AllowEdit",
+  "userId": {
+    "$oid": "668d79ce8ec786e2ed573db3"
+  },
+  "projectId": {
+    "$oid": "66a4b77c5d402e8635f63823"
+  },
+  "productId": {
+    "$oid": "66a4b8065d402e8635f63882"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:58:41.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:58:41.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61690da25ee2b3b031105"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4b77c5d402e8635f63823"
+  },
+  "productId": {
+    "$oid": "66a4b8065d402e8635f63882"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T09:59:44.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T09:59:44.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a616f9da25ee2b3b0315db"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a6e8ec786e2ed573def"
+  },
+  "projectId": {
+    "$oid": "66a4b77c5d402e8635f63823"
+  },
+  "productId": {
+    "$oid": "66a4b8065d402e8635f63882"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:01:29.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:01:29.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a6197bda25ee2b3b035eed"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a6197ada25ee2b3b035ee1"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:12:11.384Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:12:11.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a619bfda25ee2b3b036670"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a619beda25ee2b3b036655"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:13:19.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:13:19.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61a0bda25ee2b3b036ec2"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61a0bda25ee2b3b036eb1"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:14:35.987Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:14:35.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61afdda25ee2b3b037f6d"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61afcda25ee2b3b037f62"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:18:37.088Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:18:37.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61bb1da25ee2b3b039300"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba387af8969cc874aad22"
+  },
+  "projectId": {
+    "$oid": "66a60f75da25ee2b3b02d018"
+  },
+  "productId": {
+    "$oid": "66a60fcada25ee2b3b02d03a"
+  },
+  "departmentId": {
+    "$oid": "6620c5c0be3dc8128621db92"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:21:37.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:21:37.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61c5fda25ee2b3b03a64b"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61c5eda25ee2b3b03a633"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:24:31.191Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:24:31.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61cc2da25ee2b3b03b122"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61cc1da25ee2b3b03b10f"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:26:10.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:26:10.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61d48da25ee2b3b03beff"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61d48da25ee2b3b03beed"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:28:24.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:28:24.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61db2da25ee2b3b03c84c"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61db1da25ee2b3b03c849"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:30:10.053Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:30:10.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61e28da25ee2b3b03c9bf"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61e28da25ee2b3b03c9bc"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:32:08.822Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:32:08.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61e5bda25ee2b3b03c9d4"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61d48da25ee2b3b03beed"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:32:59.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:32:59.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61eb7da25ee2b3b03c9f2"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61eb6da25ee2b3b03c9ef"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:34:31.107Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:34:31.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61ec4da25ee2b3b03ca06"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61e28da25ee2b3b03c9bc"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:34:44.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:34:44.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a61edfda25ee2b3b03ca0c"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61eb6da25ee2b3b03c9ef"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:35:11.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:35:11.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62012da25ee2b3b03caeb"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61eb6da25ee2b3b03c9ef"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T10:40:18.957Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:40:18.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a628dbda25ee2b3b03cf0f"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a61eb6da25ee2b3b03c9ef"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:17:47.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:17:47.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62918da25ee2b3b03cf38"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62917da25ee2b3b03cf35"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:18:48.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:18:48.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a6295eda25ee2b3b03cf5a"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a6295dda25ee2b3b03cf57"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:19:58.142Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:19:58.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62960da25ee2b3b03cf5f"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a6295fda25ee2b3b03cf5c"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:20:00.061Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:20:00.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62971da25ee2b3b03cf74"
+  },
+  "actions": "Delete",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a6295fda25ee2b3b03cf5c"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:20:17.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:20:17.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a6297bda25ee2b3b03cf88"
+  },
+  "actions": "deleteProduct",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a6295fda25ee2b3b03cf5c"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:20:27.198Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:20:27.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a629e625e0b98391a1bbf7"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a629e625e0b98391a1bbf4"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:22:14.597Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:22:14.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62b1825e0b98391a1bcac"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62b1825e0b98391a1bca9"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:27:20.609Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:27:20.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62b5d25e0b98391a1bcc3"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62b5d25e0b98391a1bcc0"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:28:29.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:28:29.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62b9f25e0b98391a1bcd9"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62b9e25e0b98391a1bcd6"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:29:35.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:29:35.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62bc725e0b98391a1bcfc"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62bc725e0b98391a1bcf9"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:30:15.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:30:15.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62c3025e0b98391a1bd66"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62c2f25e0b98391a1bd63"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:32:00.098Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:32:00.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62c8e25e0b98391a1bde4"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62c8e25e0b98391a1bde1"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:33:34.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:33:34.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62d1525e0b98391a1be57"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62d1525e0b98391a1be54"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:35:49.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:35:49.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a62d5725e0b98391a1be71"
+  },
+  "actions": "Add",
+  "userId": {
+    "$oid": "668ba672dca4c808519e0b37"
+  },
+  "projectId": {
+    "$oid": "66a612f2da25ee2b3b02e2a2"
+  },
+  "productId": {
+    "$oid": "66a62d5625e0b98391a1be6e"
+  },
+  "createdAt": {
+    "$date": "2024-07-28T11:36:55.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T11:36:55.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75d9be8737c59340d9f72"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b4c45d402e8635f6369b"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:15:07.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:15:07.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75da1e8737c59340d9fec"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b4c45d402e8635f6369b"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:15:13.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:15:13.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75ebbe8737c59340da299"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b5305d402e8635f636af"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:19:55.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:19:55.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75ec9e8737c59340da2ac"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b7575d402e8635f6380c"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:20:09.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:20:09.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75f07e8737c59340da2be"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b8855d402e8635f63926"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:21:11.515Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:21:11.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75f10e8737c59340da2cf"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b9055d402e8635f639f4"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:21:20.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:21:20.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75f18e8737c59340da2e2"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4b95c5d402e8635f63a09"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:21:28.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:21:28.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75f2ee8737c59340da2f4"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4ba8c5d402e8635f63a32"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:21:50.774Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:21:50.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75f3ee8737c59340da307"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4baf85d402e8635f63a47"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:22:06.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:22:06.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75f52e8737c59340da319"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bb9d5d402e8635f63a5d"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:22:26.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:22:26.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75f73e8737c59340da32c"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bc045d402e8635f63a72"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:22:59.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:22:59.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75f8be8737c59340da33f"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4be485d402e8635f63b06"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:23:23.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:23:23.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75fa1e8737c59340da352"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bf815d402e8635f63bf6"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:23:45.765Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:23:45.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a75fbce8737c59340da365"
+  },
+  "actions": "edit",
+  "userId": {
+    "$oid": "668d7a138ec786e2ed573dca"
+  },
+  "projectId": {
+    "$oid": "66a4a52e52e22c7e562dbb54"
+  },
+  "productId": {
+    "$oid": "66a4bfdb5d402e8635f63c59"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-29T09:24:12.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T09:24:12.211Z"
+  },
+  "__v": 0
+}]

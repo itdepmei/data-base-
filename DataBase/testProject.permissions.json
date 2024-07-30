@@ -1,0 +1,793 @@
+[{
+  "_id": {
+    "$oid": "6649dec0fc1a4f7c44fe04c5"
+  },
+  "permissionName": "add user",
+  "createdAt": {
+    "$date": "2024-05-19T11:13:04.081Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:13:04.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649ded0fc1a4f7c44fe04c9"
+  },
+  "permissionName": "edit user",
+  "createdAt": {
+    "$date": "2024-05-19T11:13:20.040Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:13:20.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649deddfc1a4f7c44fe04cd"
+  },
+  "permissionName": "delete user",
+  "createdAt": {
+    "$date": "2024-05-19T11:13:33.676Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:13:33.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649defefc1a4f7c44fe04d1"
+  },
+  "permissionName": "add Project",
+  "createdAt": {
+    "$date": "2024-05-19T11:14:06.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:14:06.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649df09fc1a4f7c44fe04d5"
+  },
+  "permissionName": "edit project",
+  "createdAt": {
+    "$date": "2024-05-19T11:14:17.947Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:14:17.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649df17fc1a4f7c44fe04d9"
+  },
+  "permissionName": "delete Project",
+  "createdAt": {
+    "$date": "2024-05-19T11:14:31.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:14:31.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649df29fc1a4f7c44fe04dd"
+  },
+  "permissionName": "add product",
+  "createdAt": {
+    "$date": "2024-05-19T11:14:49.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:14:49.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649df34fc1a4f7c44fe04e1"
+  },
+  "permissionName": "edit product",
+  "createdAt": {
+    "$date": "2024-05-19T11:15:00.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:15:00.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649df40fc1a4f7c44fe04e5"
+  },
+  "permissionName": "delete product",
+  "createdAt": {
+    "$date": "2024-05-19T11:15:12.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:15:12.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649df5dfc1a4f7c44fe04e9"
+  },
+  "permissionName": "show user Data",
+  "createdAt": {
+    "$date": "2024-05-19T11:15:41.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:15:41.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649df6cfc1a4f7c44fe04ed"
+  },
+  "permissionName": "show project data",
+  "createdAt": {
+    "$date": "2024-05-19T11:15:56.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:15:56.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649df78fc1a4f7c44fe04f1"
+  },
+  "permissionName": "show product data",
+  "createdAt": {
+    "$date": "2024-05-19T11:16:08.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:16:08.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e020fc1a4f7c44fe0503"
+  },
+  "permissionName": "add file project",
+  "createdAt": {
+    "$date": "2024-05-19T11:18:56.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:18:56.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e02afc1a4f7c44fe0507"
+  },
+  "permissionName": "delete file project",
+  "createdAt": {
+    "$date": "2024-05-19T11:19:06.970Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:19:06.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e129fc1a4f7c44fe050b"
+  },
+  "permissionName": "send Project from HR to heade Of Department",
+  "createdAt": {
+    "$date": "2024-05-19T11:23:21.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:23:21.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e16bfc1a4f7c44fe053a"
+  },
+  "permissionName": "send Project from Assistance to heade Of Department",
+  "createdAt": {
+    "$date": "2024-05-19T11:24:27.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:24:27.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e181fc1a4f7c44fe053e"
+  },
+  "permissionName": "send Project from HR to Assistance",
+  "createdAt": {
+    "$date": "2024-05-19T11:24:49.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:24:49.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e25bfc1a4f7c44fe0551"
+  },
+  "permissionName": "show price offer",
+  "createdAt": {
+    "$date": "2024-05-19T11:28:27.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:28:27.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e295fc1a4f7c44fe0556"
+  },
+  "permissionName": "show Performance analytics ",
+  "createdAt": {
+    "$date": "2024-05-19T11:29:25.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:29:25.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e29efc1a4f7c44fe055a"
+  },
+  "permissionName": "show Business representatives",
+  "createdAt": {
+    "$date": "2024-05-19T11:29:34.069Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:29:34.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e2b1fc1a4f7c44fe055e"
+  },
+  "permissionName": "show Business requirements analysis",
+  "createdAt": {
+    "$date": "2024-05-19T11:29:53.882Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:29:53.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649e52afc1a4f7c44fe0564"
+  },
+  "permissionName": "show Profily",
+  "createdAt": {
+    "$date": "2024-05-19T11:40:26.162Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T11:40:26.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c6075fd728c88a9349dad"
+  },
+  "permissionName": "set permission to user",
+  "createdAt": {
+    "$date": "2024-05-21T08:51:01.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-21T08:51:01.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c60aefd728c88a9349daf"
+  },
+  "permissionName": "veiw Dashboard",
+  "createdAt": {
+    "$date": "2024-05-21T08:51:58.547Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-21T08:51:58.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c60e7fd728c88a9349db1"
+  },
+  "permissionName": "veiw data recived",
+  "createdAt": {
+    "$date": "2024-05-21T08:52:55.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-21T08:52:55.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c613ffd728c88a9349dc4"
+  },
+  "permissionName": "veiw data cancel send",
+  "createdAt": {
+    "$date": "2024-05-21T08:54:23.297Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-21T08:54:23.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c6149fd728c88a9349dc6"
+  },
+  "permissionName": "veiw data send",
+  "createdAt": {
+    "$date": "2024-05-21T08:54:33.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-21T08:54:33.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652ebe5a224c4f61e6ecb24"
+  },
+  "permissionName": "delay Project",
+  "createdAt": {
+    "$date": "2024-05-26T07:59:33.320Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T07:59:33.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652edaaa224c4f61e6ecb26"
+  },
+  "permissionName": "show delay Project",
+  "createdAt": {
+    "$date": "2024-05-26T08:07:06.949Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T08:07:06.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652ff121aa5fccdbf9bc15d"
+  },
+  "permissionName": "Add General data",
+  "createdAt": {
+    "$date": "2024-05-26T09:21:22.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T09:21:22.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652ff2c1aa5fccdbf9bc1a1"
+  },
+  "permissionName": "delete General data",
+  "createdAt": {
+    "$date": "2024-05-26T09:21:48.994Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T09:21:48.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652ff631aa5fccdbf9bc1e5"
+  },
+  "permissionName": "Edit General data",
+  "createdAt": {
+    "$date": "2024-05-26T09:22:43.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T09:22:43.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652ff771aa5fccdbf9bc208"
+  },
+  "permissionName": "view General data",
+  "createdAt": {
+    "$date": "2024-05-26T09:23:03.748Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T09:23:03.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665378ffcf020c0b9cc881dc"
+  },
+  "permissionName": "Export data aS pdf",
+  "createdAt": {
+    "$date": "2024-05-26T18:01:35.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:01:35.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66537906cf020c0b9cc881de"
+  },
+  "permissionName": "Export data aS excel",
+  "createdAt": {
+    "$date": "2024-05-26T18:01:42.308Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:01:42.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66537941cf020c0b9cc881e5"
+  },
+  "permissionName": "open Project",
+  "createdAt": {
+    "$date": "2024-05-26T18:02:41.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:02:41.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66537950cf020c0b9cc881e7"
+  },
+  "permissionName": "request edit",
+  "createdAt": {
+    "$date": "2024-05-26T18:02:56.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:02:56.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66537985cf020c0b9cc881f2"
+  },
+  "permissionName": "send project from Employ to HOD",
+  "createdAt": {
+    "$date": "2024-05-26T18:03:49.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:03:49.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665379e0cf020c0b9cc88205"
+  },
+  "permissionName": "view notifction",
+  "createdAt": {
+    "$date": "2024-05-26T18:05:20.623Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:05:20.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665379eecf020c0b9cc88207"
+  },
+  "permissionName": "view filles",
+  "createdAt": {
+    "$date": "2024-05-26T18:05:34.551Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:05:34.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66543b3d349d96377f2a327f"
+  },
+  "permissionName": "view data mutual projects",
+  "createdAt": {
+    "$date": "2024-05-27T07:50:21.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T07:50:21.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66543eec349d96377f2a33f1"
+  },
+  "permissionName": "Assistance Tasck",
+  "createdAt": {
+    "$date": "2024-05-27T08:06:04.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T08:06:04.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66543f71349d96377f2a341b"
+  },
+  "permissionName": "Technical Departmernt",
+  "createdAt": {
+    "$date": "2024-05-27T08:08:17.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T08:08:17.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665443c9349d96377f2a343c"
+  },
+  "permissionName": "Event Assistance",
+  "createdAt": {
+    "$date": "2024-05-27T08:26:49.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T08:26:49.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66544555349d96377f2a34b1"
+  },
+  "permissionName": "form Mutual projects",
+  "createdAt": {
+    "$date": "2024-05-27T08:33:25.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T08:33:25.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66544648349d96377f2a34e3"
+  },
+  "permissionName": "data project send from HOD to HR or Assistance",
+  "createdAt": {
+    "$date": "2024-05-27T08:37:28.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T08:37:28.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665d8afd9c85da7ef30be4a9"
+  },
+  "permissionName": "HumanResource",
+  "createdAt": {
+    "$date": "2024-06-03T09:21:01.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T09:21:01.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665d8b0b9c85da7ef30be4ad"
+  },
+  "permissionName": "InformationTechnology",
+  "createdAt": {
+    "$date": "2024-06-03T09:21:15.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T09:21:15.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665d8b289c85da7ef30be4af"
+  },
+  "permissionName": "QuantityTables",
+  "createdAt": {
+    "$date": "2024-06-03T09:21:44.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T09:21:44.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665d8b519c85da7ef30be4b1"
+  },
+  "permissionName": "Dashboards",
+  "createdAt": {
+    "$date": "2024-06-03T09:22:25.923Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T09:22:25.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665da1cdd663f86ca0c868f8"
+  },
+  "permissionName": "Project Manger",
+  "createdAt": {
+    "$date": "2024-06-03T10:58:21.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T10:58:21.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6682475976717d573dd939f6"
+  },
+  "permissionName": "the person in charge",
+  "createdAt": {
+    "$date": "2024-07-01T06:06:17.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T06:06:17.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668254b0d4331262c3e62673"
+  },
+  "permissionName": "add deadline to project",
+  "createdAt": {
+    "$date": "2024-07-01T07:03:12.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T07:03:12.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683ac372cba96cb70bc3af3"
+  },
+  "permissionName": "Edit mutual project ",
+  "createdAt": {
+    "$date": "2024-07-02T07:28:55.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T07:28:55.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683ac7f2cba96cb70bc3b31"
+  },
+  "permissionName": "Edit mutual delete ",
+  "createdAt": {
+    "$date": "2024-07-02T07:30:07.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T07:30:07.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683acab2cba96cb70bc3bab"
+  },
+  "permissionName": "Edit mutual Delay",
+  "createdAt": {
+    "$date": "2024-07-02T07:30:52.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T07:30:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683addd2cba96cb70bc3d1f"
+  },
+  "permissionName": "forward the project to the employee ",
+  "createdAt": {
+    "$date": "2024-07-02T07:35:57.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T07:35:57.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688f8baaa5eb9bcaffb686f"
+  },
+  "permissionName": "mutual projects link at the Employees",
+  "createdAt": {
+    "$date": "2024-07-06T07:56:42.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-06T07:56:42.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b76a4e68f314c8f6a413b"
+  },
+  "permissionName": "التقارير الشهرية",
+  "createdAt": {
+    "$date": "2024-07-08T05:18:28.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T05:18:28.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b76aee68f314c8f6a413d"
+  },
+  "permissionName": "التقارير اليومية",
+  "createdAt": {
+    "$date": "2024-07-08T05:18:38.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T05:18:38.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f5290dfb6c9f82ca9b749"
+  },
+  "permissionName": "تمكين المستخدم من أرسال المشروع ",
+  "createdAt": {
+    "$date": "2024-07-23T06:49:52.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:49:52.436Z"
+  },
+  "__v": 0
+}]

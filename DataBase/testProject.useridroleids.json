@@ -1,0 +1,793 @@
+[{
+  "_id": {
+    "$oid": "666815fc9526d0f21bb546e8"
+  },
+  "permissionIds": [
+    {
+      "$oid": "6649dec0fc1a4f7c44fe04c5"
+    },
+    {
+      "$oid": "6649ded0fc1a4f7c44fe04c9"
+    },
+    {
+      "$oid": "6649deddfc1a4f7c44fe04cd"
+    },
+    {
+      "$oid": "6649df5dfc1a4f7c44fe04e9"
+    },
+    {
+      "$oid": "6649e52afc1a4f7c44fe0564"
+    },
+    {
+      "$oid": "664c60aefd728c88a9349daf"
+    },
+    {
+      "$oid": "6652ff121aa5fccdbf9bc15d"
+    },
+    {
+      "$oid": "6652ff2c1aa5fccdbf9bc1a1"
+    },
+    {
+      "$oid": "6652ff631aa5fccdbf9bc1e5"
+    },
+    {
+      "$oid": "6652ff771aa5fccdbf9bc208"
+    }
+  ],
+  "RoleId": {
+    "$oid": "664afbbc8aba431d13048ed0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668169e9526d0f21bb546f9"
+  },
+  "permissionIds": [
+    {
+      "$oid": "6649e020fc1a4f7c44fe0503"
+    },
+    {
+      "$oid": "6649e02afc1a4f7c44fe0507"
+    },
+    {
+      "$oid": "6649e129fc1a4f7c44fe050b"
+    },
+    {
+      "$oid": "6649e181fc1a4f7c44fe053e"
+    },
+    {
+      "$oid": "6649e52afc1a4f7c44fe0564"
+    },
+    {
+      "$oid": "665378ffcf020c0b9cc881dc"
+    },
+    {
+      "$oid": "66537906cf020c0b9cc881de"
+    },
+    {
+      "$oid": "665d8afd9c85da7ef30be4a9"
+    }
+  ],
+  "RoleId": {
+    "$oid": "664afbcc8aba431d13048ed4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666816be9526d0f21bb5470a"
+  },
+  "permissionIds": [
+    {
+      "$oid": "6649dec0fc1a4f7c44fe04c5"
+    },
+    {
+      "$oid": "6649ded0fc1a4f7c44fe04c9"
+    },
+    {
+      "$oid": "6649deddfc1a4f7c44fe04cd"
+    },
+    {
+      "$oid": "6649defefc1a4f7c44fe04d1"
+    },
+    {
+      "$oid": "6649df09fc1a4f7c44fe04d5"
+    },
+    {
+      "$oid": "6649df17fc1a4f7c44fe04d9"
+    },
+    {
+      "$oid": "6649df29fc1a4f7c44fe04dd"
+    },
+    {
+      "$oid": "6649df34fc1a4f7c44fe04e1"
+    },
+    {
+      "$oid": "6649df40fc1a4f7c44fe04e5"
+    },
+    {
+      "$oid": "6649df5dfc1a4f7c44fe04e9"
+    },
+    {
+      "$oid": "6649df6cfc1a4f7c44fe04ed"
+    },
+    {
+      "$oid": "6649df78fc1a4f7c44fe04f1"
+    },
+    {
+      "$oid": "6649e020fc1a4f7c44fe0503"
+    },
+    {
+      "$oid": "6649e02afc1a4f7c44fe0507"
+    },
+    {
+      "$oid": "6649e129fc1a4f7c44fe050b"
+    },
+    {
+      "$oid": "6649e16bfc1a4f7c44fe053a"
+    },
+    {
+      "$oid": "6649e181fc1a4f7c44fe053e"
+    },
+    {
+      "$oid": "6649e25bfc1a4f7c44fe0551"
+    },
+    {
+      "$oid": "6649e295fc1a4f7c44fe0556"
+    },
+    {
+      "$oid": "6649e29efc1a4f7c44fe055a"
+    },
+    {
+      "$oid": "6649e2b1fc1a4f7c44fe055e"
+    },
+    {
+      "$oid": "6649e52afc1a4f7c44fe0564"
+    },
+    {
+      "$oid": "664c60aefd728c88a9349daf"
+    },
+    {
+      "$oid": "664c60e7fd728c88a9349db1"
+    },
+    {
+      "$oid": "664c613ffd728c88a9349dc4"
+    },
+    {
+      "$oid": "664c6149fd728c88a9349dc6"
+    },
+    {
+      "$oid": "6652ebe5a224c4f61e6ecb24"
+    },
+    {
+      "$oid": "6652edaaa224c4f61e6ecb26"
+    },
+    {
+      "$oid": "6652ff121aa5fccdbf9bc15d"
+    },
+    {
+      "$oid": "6652ff2c1aa5fccdbf9bc1a1"
+    },
+    {
+      "$oid": "6652ff631aa5fccdbf9bc1e5"
+    },
+    {
+      "$oid": "6652ff771aa5fccdbf9bc208"
+    },
+    {
+      "$oid": "665378ffcf020c0b9cc881dc"
+    },
+    {
+      "$oid": "66537906cf020c0b9cc881de"
+    },
+    {
+      "$oid": "66537941cf020c0b9cc881e5"
+    },
+    {
+      "$oid": "66537950cf020c0b9cc881e7"
+    },
+    {
+      "$oid": "66537985cf020c0b9cc881f2"
+    },
+    {
+      "$oid": "665379e0cf020c0b9cc88205"
+    },
+    {
+      "$oid": "665379eecf020c0b9cc88207"
+    },
+    {
+      "$oid": "66543b3d349d96377f2a327f"
+    },
+    {
+      "$oid": "66543eec349d96377f2a33f1"
+    },
+    {
+      "$oid": "66543f71349d96377f2a341b"
+    },
+    {
+      "$oid": "665443c9349d96377f2a343c"
+    },
+    {
+      "$oid": "66544555349d96377f2a34b1"
+    },
+    {
+      "$oid": "66544648349d96377f2a34e3"
+    },
+    {
+      "$oid": "665d8afd9c85da7ef30be4a9"
+    },
+    {
+      "$oid": "665d8b0b9c85da7ef30be4ad"
+    },
+    {
+      "$oid": "665d8b289c85da7ef30be4af"
+    },
+    {
+      "$oid": "665d8b519c85da7ef30be4b1"
+    },
+    {
+      "$oid": "665da1cdd663f86ca0c868f8"
+    }
+  ],
+  "RoleId": {
+    "$oid": "6651bb57d9a689b10990fa6b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d243489c02fbb77a0151a"
+  },
+  "permissionIds": [
+    {
+      "$oid": "6649dec0fc1a4f7c44fe04c5"
+    },
+    {
+      "$oid": "6649ded0fc1a4f7c44fe04c9"
+    },
+    {
+      "$oid": "6649deddfc1a4f7c44fe04cd"
+    },
+    {
+      "$oid": "6649defefc1a4f7c44fe04d1"
+    },
+    {
+      "$oid": "6649df09fc1a4f7c44fe04d5"
+    },
+    {
+      "$oid": "6649df17fc1a4f7c44fe04d9"
+    },
+    {
+      "$oid": "6649df29fc1a4f7c44fe04dd"
+    },
+    {
+      "$oid": "6649df34fc1a4f7c44fe04e1"
+    },
+    {
+      "$oid": "6649df40fc1a4f7c44fe04e5"
+    },
+    {
+      "$oid": "6649df5dfc1a4f7c44fe04e9"
+    },
+    {
+      "$oid": "6649df6cfc1a4f7c44fe04ed"
+    },
+    {
+      "$oid": "6649df78fc1a4f7c44fe04f1"
+    },
+    {
+      "$oid": "6649e020fc1a4f7c44fe0503"
+    },
+    {
+      "$oid": "6649e02afc1a4f7c44fe0507"
+    },
+    {
+      "$oid": "6649e16bfc1a4f7c44fe053a"
+    },
+    {
+      "$oid": "6649e25bfc1a4f7c44fe0551"
+    },
+    {
+      "$oid": "6649e52afc1a4f7c44fe0564"
+    },
+    {
+      "$oid": "664c60aefd728c88a9349daf"
+    },
+    {
+      "$oid": "664c60e7fd728c88a9349db1"
+    },
+    {
+      "$oid": "664c613ffd728c88a9349dc4"
+    },
+    {
+      "$oid": "664c6149fd728c88a9349dc6"
+    },
+    {
+      "$oid": "6652ebe5a224c4f61e6ecb24"
+    },
+    {
+      "$oid": "6652edaaa224c4f61e6ecb26"
+    },
+    {
+      "$oid": "6652ff121aa5fccdbf9bc15d"
+    },
+    {
+      "$oid": "6652ff2c1aa5fccdbf9bc1a1"
+    },
+    {
+      "$oid": "6652ff631aa5fccdbf9bc1e5"
+    },
+    {
+      "$oid": "6652ff771aa5fccdbf9bc208"
+    },
+    {
+      "$oid": "665378ffcf020c0b9cc881dc"
+    },
+    {
+      "$oid": "66537906cf020c0b9cc881de"
+    },
+    {
+      "$oid": "66537941cf020c0b9cc881e5"
+    },
+    {
+      "$oid": "665379e0cf020c0b9cc88205"
+    },
+    {
+      "$oid": "665379eecf020c0b9cc88207"
+    },
+    {
+      "$oid": "66543b3d349d96377f2a327f"
+    },
+    {
+      "$oid": "66543eec349d96377f2a33f1"
+    },
+    {
+      "$oid": "66543f71349d96377f2a341b"
+    },
+    {
+      "$oid": "665443c9349d96377f2a343c"
+    },
+    {
+      "$oid": "66544555349d96377f2a34b1"
+    },
+    {
+      "$oid": "665d8b519c85da7ef30be4b1"
+    }
+  ],
+  "RoleId": {
+    "$oid": "664afbf38aba431d13048edc"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b7821e68f314c8f6a41f7"
+  },
+  "permissionIds": [
+    {
+      "$oid": "6649df29fc1a4f7c44fe04dd"
+    },
+    {
+      "$oid": "6649df34fc1a4f7c44fe04e1"
+    },
+    {
+      "$oid": "6649df40fc1a4f7c44fe04e5"
+    },
+    {
+      "$oid": "6649df6cfc1a4f7c44fe04ed"
+    },
+    {
+      "$oid": "6649df78fc1a4f7c44fe04f1"
+    },
+    {
+      "$oid": "6649e020fc1a4f7c44fe0503"
+    },
+    {
+      "$oid": "6649e52afc1a4f7c44fe0564"
+    },
+    {
+      "$oid": "66537941cf020c0b9cc881e5"
+    },
+    {
+      "$oid": "66537950cf020c0b9cc881e7"
+    },
+    {
+      "$oid": "66537985cf020c0b9cc881f2"
+    },
+    {
+      "$oid": "665da1cdd663f86ca0c868f8"
+    },
+    {
+      "$oid": "6688f8baaa5eb9bcaffb686f"
+    },
+    {
+      "$oid": "668b76a4e68f314c8f6a413b"
+    },
+    {
+      "$oid": "668b76aee68f314c8f6a413d"
+    }
+  ],
+  "RoleId": {
+    "$oid": "66139460afdc5d188bf466b8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b783ae68f314c8f6a420e"
+  },
+  "permissionIds": [
+    {
+      "$oid": "6649df17fc1a4f7c44fe04d9"
+    },
+    {
+      "$oid": "6649df09fc1a4f7c44fe04d5"
+    },
+    {
+      "$oid": "6649defefc1a4f7c44fe04d1"
+    },
+    {
+      "$oid": "6649df29fc1a4f7c44fe04dd"
+    },
+    {
+      "$oid": "6649df34fc1a4f7c44fe04e1"
+    },
+    {
+      "$oid": "6649df40fc1a4f7c44fe04e5"
+    },
+    {
+      "$oid": "6649df6cfc1a4f7c44fe04ed"
+    },
+    {
+      "$oid": "6649df78fc1a4f7c44fe04f1"
+    },
+    {
+      "$oid": "6649e25bfc1a4f7c44fe0551"
+    },
+    {
+      "$oid": "6649e295fc1a4f7c44fe0556"
+    },
+    {
+      "$oid": "6649e29efc1a4f7c44fe055a"
+    },
+    {
+      "$oid": "6649e2b1fc1a4f7c44fe055e"
+    },
+    {
+      "$oid": "6649e52afc1a4f7c44fe0564"
+    },
+    {
+      "$oid": "664c60e7fd728c88a9349db1"
+    },
+    {
+      "$oid": "664c613ffd728c88a9349dc4"
+    },
+    {
+      "$oid": "664c6149fd728c88a9349dc6"
+    },
+    {
+      "$oid": "6652ebe5a224c4f61e6ecb24"
+    },
+    {
+      "$oid": "6652edaaa224c4f61e6ecb26"
+    },
+    {
+      "$oid": "665378ffcf020c0b9cc881dc"
+    },
+    {
+      "$oid": "66537906cf020c0b9cc881de"
+    },
+    {
+      "$oid": "66537941cf020c0b9cc881e5"
+    },
+    {
+      "$oid": "66537985cf020c0b9cc881f2"
+    },
+    {
+      "$oid": "665379e0cf020c0b9cc88205"
+    },
+    {
+      "$oid": "66543b3d349d96377f2a327f"
+    },
+    {
+      "$oid": "66544648349d96377f2a34e3"
+    },
+    {
+      "$oid": "665d8b289c85da7ef30be4af"
+    },
+    {
+      "$oid": "6682475976717d573dd939f6"
+    },
+    {
+      "$oid": "668254b0d4331262c3e62673"
+    },
+    {
+      "$oid": "665da1cdd663f86ca0c868f8"
+    },
+    {
+      "$oid": "6683addd2cba96cb70bc3d1f"
+    },
+    {
+      "$oid": "668b76a4e68f314c8f6a413b"
+    },
+    {
+      "$oid": "668b76aee68f314c8f6a413d"
+    }
+  ],
+  "RoleId": {
+    "$oid": "6613950a9b6f11f753efd405"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b7855e68f314c8f6a4229"
+  },
+  "permissionIds": [
+    {
+      "$oid": "6649defefc1a4f7c44fe04d1"
+    },
+    {
+      "$oid": "6649df09fc1a4f7c44fe04d5"
+    },
+    {
+      "$oid": "6649df17fc1a4f7c44fe04d9"
+    },
+    {
+      "$oid": "6649df29fc1a4f7c44fe04dd"
+    },
+    {
+      "$oid": "6649df34fc1a4f7c44fe04e1"
+    },
+    {
+      "$oid": "6649df40fc1a4f7c44fe04e5"
+    },
+    {
+      "$oid": "6649df6cfc1a4f7c44fe04ed"
+    },
+    {
+      "$oid": "6649df78fc1a4f7c44fe04f1"
+    },
+    {
+      "$oid": "6649e020fc1a4f7c44fe0503"
+    },
+    {
+      "$oid": "6649e02afc1a4f7c44fe0507"
+    },
+    {
+      "$oid": "6649e25bfc1a4f7c44fe0551"
+    },
+    {
+      "$oid": "6649e52afc1a4f7c44fe0564"
+    },
+    {
+      "$oid": "664c6149fd728c88a9349dc6"
+    },
+    {
+      "$oid": "665378ffcf020c0b9cc881dc"
+    },
+    {
+      "$oid": "66537906cf020c0b9cc881de"
+    },
+    {
+      "$oid": "66537941cf020c0b9cc881e5"
+    },
+    {
+      "$oid": "66537950cf020c0b9cc881e7"
+    },
+    {
+      "$oid": "66537985cf020c0b9cc881f2"
+    },
+    {
+      "$oid": "665da1cdd663f86ca0c868f8"
+    },
+    {
+      "$oid": "6688f8baaa5eb9bcaffb686f"
+    },
+    {
+      "$oid": "665d8b289c85da7ef30be4af"
+    },
+    {
+      "$oid": "668b76a4e68f314c8f6a413b"
+    },
+    {
+      "$oid": "668b76aee68f314c8f6a413d"
+    }
+  ],
+  "RoleId": {
+    "$oid": "661395959b6f11f753efd47e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd446f670c8000813986c"
+  },
+  "permissionIds": [
+    {
+      "$oid": "6649dec0fc1a4f7c44fe04c5"
+    },
+    {
+      "$oid": "6649ded0fc1a4f7c44fe04c9"
+    },
+    {
+      "$oid": "6649deddfc1a4f7c44fe04cd"
+    },
+    {
+      "$oid": "6649defefc1a4f7c44fe04d1"
+    },
+    {
+      "$oid": "6649df09fc1a4f7c44fe04d5"
+    },
+    {
+      "$oid": "6649df17fc1a4f7c44fe04d9"
+    },
+    {
+      "$oid": "6649df29fc1a4f7c44fe04dd"
+    },
+    {
+      "$oid": "6649df34fc1a4f7c44fe04e1"
+    },
+    {
+      "$oid": "6649df40fc1a4f7c44fe04e5"
+    },
+    {
+      "$oid": "6649df5dfc1a4f7c44fe04e9"
+    },
+    {
+      "$oid": "6649df6cfc1a4f7c44fe04ed"
+    },
+    {
+      "$oid": "6649df78fc1a4f7c44fe04f1"
+    },
+    {
+      "$oid": "6649e020fc1a4f7c44fe0503"
+    },
+    {
+      "$oid": "6649e02afc1a4f7c44fe0507"
+    },
+    {
+      "$oid": "6649e129fc1a4f7c44fe050b"
+    },
+    {
+      "$oid": "6649e16bfc1a4f7c44fe053a"
+    },
+    {
+      "$oid": "6649e181fc1a4f7c44fe053e"
+    },
+    {
+      "$oid": "6649e25bfc1a4f7c44fe0551"
+    },
+    {
+      "$oid": "6649e295fc1a4f7c44fe0556"
+    },
+    {
+      "$oid": "6649e29efc1a4f7c44fe055a"
+    },
+    {
+      "$oid": "6649e2b1fc1a4f7c44fe055e"
+    },
+    {
+      "$oid": "6649e52afc1a4f7c44fe0564"
+    },
+    {
+      "$oid": "664c6075fd728c88a9349dad"
+    },
+    {
+      "$oid": "664c60aefd728c88a9349daf"
+    },
+    {
+      "$oid": "664c60e7fd728c88a9349db1"
+    },
+    {
+      "$oid": "664c613ffd728c88a9349dc4"
+    },
+    {
+      "$oid": "664c6149fd728c88a9349dc6"
+    },
+    {
+      "$oid": "6652ebe5a224c4f61e6ecb24"
+    },
+    {
+      "$oid": "6652edaaa224c4f61e6ecb26"
+    },
+    {
+      "$oid": "6652ff121aa5fccdbf9bc15d"
+    },
+    {
+      "$oid": "6652ff2c1aa5fccdbf9bc1a1"
+    },
+    {
+      "$oid": "6652ff631aa5fccdbf9bc1e5"
+    },
+    {
+      "$oid": "6652ff771aa5fccdbf9bc208"
+    },
+    {
+      "$oid": "665378ffcf020c0b9cc881dc"
+    },
+    {
+      "$oid": "66537906cf020c0b9cc881de"
+    },
+    {
+      "$oid": "66537941cf020c0b9cc881e5"
+    },
+    {
+      "$oid": "66537950cf020c0b9cc881e7"
+    },
+    {
+      "$oid": "66537985cf020c0b9cc881f2"
+    },
+    {
+      "$oid": "665379e0cf020c0b9cc88205"
+    },
+    {
+      "$oid": "665379eecf020c0b9cc88207"
+    },
+    {
+      "$oid": "66543b3d349d96377f2a327f"
+    },
+    {
+      "$oid": "66543eec349d96377f2a33f1"
+    },
+    {
+      "$oid": "66543f71349d96377f2a341b"
+    },
+    {
+      "$oid": "665443c9349d96377f2a343c"
+    },
+    {
+      "$oid": "66544555349d96377f2a34b1"
+    },
+    {
+      "$oid": "66544648349d96377f2a34e3"
+    },
+    {
+      "$oid": "665d8afd9c85da7ef30be4a9"
+    },
+    {
+      "$oid": "665d8b0b9c85da7ef30be4ad"
+    },
+    {
+      "$oid": "665d8b289c85da7ef30be4af"
+    },
+    {
+      "$oid": "665d8b519c85da7ef30be4b1"
+    },
+    {
+      "$oid": "665da1cdd663f86ca0c868f8"
+    },
+    {
+      "$oid": "6682475976717d573dd939f6"
+    },
+    {
+      "$oid": "668254b0d4331262c3e62673"
+    },
+    {
+      "$oid": "6683ac372cba96cb70bc3af3"
+    },
+    {
+      "$oid": "6683ac7f2cba96cb70bc3b31"
+    },
+    {
+      "$oid": "6683acab2cba96cb70bc3bab"
+    },
+    {
+      "$oid": "6683addd2cba96cb70bc3d1f"
+    },
+    {
+      "$oid": "6688f8baaa5eb9bcaffb686f"
+    },
+    {
+      "$oid": "668b76a4e68f314c8f6a413b"
+    },
+    {
+      "$oid": "668b76aee68f314c8f6a413d"
+    }
+  ],
+  "RoleId": {
+    "$oid": "6612fa4708ee35b285b3ec81"
+  },
+  "__v": 0
+}]

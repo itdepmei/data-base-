@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "668bc330b927f065baf47f2b"
+  },
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "createdAt": {
+    "$date": "2024-07-07T10:44:58.000Z"
+  },
+  "SendReportMonth": true,
+  "updatedAt": {
+    "$date": "2024-07-08T10:45:38.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668bc333b927f065baf47f2d"
+  },
+  "userId": {
+    "$oid": "668ba1962ca56a9325466142"
+  },
+  "createdAt": {
+    "$date": "2024-07-07T10:44:58.000Z"
+  },
+  "SendReportMonth": false,
+  "updatedAt": {
+    "$date": "2024-07-07T10:44:58.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668cd767f670c80008139920"
+  },
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T06:23:33.000Z"
+  },
+  "SendReportMonth": true,
+  "updatedAt": {
+    "$date": "2024-07-09T07:26:14.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699023bc8a3921672632f71"
+  },
+  "userId": {
+    "$oid": "668cc85dd642207426ab9c3c"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T11:53:29.000Z"
+  },
+  "SendReportMonth": false,
+  "updatedAt": {
+    "$date": "2024-07-17T11:53:29.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3ea9697f5f0c7ee58b"
+  },
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T09:45:31.000Z"
+  },
+  "SendReportMonth": false,
+  "updatedAt": {
+    "$date": "2024-07-23T09:45:31.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0cd3fa9697f5f0c7ee5a5"
+  },
+  "userId": {
+    "$oid": "668cc746d642207426ab9bc1"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T09:45:31.000Z"
+  },
+  "SendReportMonth": false,
+  "updatedAt": {
+    "$date": "2024-07-23T09:45:31.000Z"
+  },
+  "__v": 0
+}]

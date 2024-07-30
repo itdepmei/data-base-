@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "660d2b20a6605f3cd4641eeb"
+  },
+  "file": "filePricedTechnical1712139040726.pdf",
+  "projectId": {
+    "$oid": "660bba22ab9ccf84b28c4609"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e23cafbbbee5dc3606e64"
+  },
+  "file": "filePricedTechnical1721639882695.docx",
+  "projectId": {
+    "$oid": "669e1e78fbbbee5dc3606d94"
+  },
+  "departmentId": {
+    "$oid": "65ed725b46450e0ccadc02d8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f63d0e9359d385f367238"
+  },
+  "file": "filePricedTechnical1721721808143.docx",
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f63dce9359d385f36723a"
+  },
+  "file": "filePricedTechnical1721721820554.docx",
+  "projectId": {
+    "$oid": "669f5a3d7c4cbc84869579b9"
+  },
+  "departmentId": {
+    "$oid": "662cbc3dc629ff580ec25d5b"
+  },
+  "__v": 0
+}]

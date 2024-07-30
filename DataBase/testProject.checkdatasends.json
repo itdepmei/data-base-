@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "668d8e13196f95fca8ee5eb3"
+  },
+  "UploadBookId": {
+    "$oid": "668d8dfb196f95fca8ee5eaf"
+  },
+  "departmentId": [
+    {
+      "$oid": "6620c5c0be3dc8128621db92"
+    },
+    {
+      "$oid": "662a3094d8489214983899d4"
+    },
+    {
+      "$oid": "662cbc3dc629ff580ec25d5b"
+    }
+  ],
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "createdAt": {
+    "$date": "2024-07-09T19:22:59.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T19:22:59.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698e3a0f8741642aa4a2e16"
+  },
+  "UploadBookId": {
+    "$oid": "66963be8790938074ccbe60a"
+  },
+  "departmentId": [
+    {
+      "$oid": "6666a0665e5e3afdadec1d5a"
+    }
+  ],
+  "userId": {
+    "$oid": "668ad7449534199208d39076"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T09:42:56.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T09:42:56.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698e4cef8741642aa4a2e3e"
+  },
+  "UploadBookId": {
+    "$oid": "6698e4b7f8741642aa4a2e3a"
+  },
+  "departmentId": [
+    {
+      "$oid": "65ed725b46450e0ccadc02d8"
+    }
+  ],
+  "userId": {
+    "$oid": "668ba1492ca56a93254660f0"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T09:47:58.871Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T09:47:58.871Z"
+  },
+  "__v": 0
+}]
